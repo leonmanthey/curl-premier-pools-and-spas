@@ -1,30 +1,129 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T01:04:25.760997+00:00",
-    "startDate": "2026-03-17T01:04:24.500947+00:00",
-    "endDate": "2026-04-16T01:04:24.500947+00:00",
+    "generatedAt": "2026-04-16T07:52:21.908963+00:00",
+    "startDate": "2026-03-17T07:52:21.269023+00:00",
+    "endDate": "2026-04-16T07:52:21.269023+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 199,
-    "human": 134,
-    "auto": 12,
-    "selfBooked": 53,
+    "human": 138,
+    "auto": 11,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 67,
+    "humanPct": 69,
     "autoPct": 6,
-    "notHumanPct": 33
+    "notHumanPct": 31
   },
   "sourceCounts": {
-    "booking_widget": 53,
-    "contactdetails_page": 117,
-    "third_party": 5,
+    "booking_widget": 50,
+    "contactdetails_page": 121,
     "mobile_app": 6,
     "opportunity_page": 1,
     "conversations_ai": 7,
-    "calendar_page": 10
+    "calendar_page": 10,
+    "third_party": 4
   },
   "appointments": [
+    {
+      "id": "tLEFjP15sE3HzcwIrJhj",
+      "title": "First appt between TJ Martin and Corly & Travis Lucas",
+      "startTime": "2026-04-16T18:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "UPDoSsBQubtj5TyLMuVP",
+      "title": "First appt between Troy Johnson and Kyle Maxfield",
+      "startTime": "2026-04-16T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "BT7l7n0JcMFfyscWs0wC",
+      "title": "First appt between Lenard West and Tait Sugimura",
+      "startTime": "2026-04-16T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "sABhIIcd5QioQsLi5Rql",
+      "title": "First appt between Joe Williams and Rojan Maldonado",
+      "startTime": "2026-04-16T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "4CTAXcy6fqY8AFYPquNL",
+      "title": "First appt between TJ Martin and Rashan Dubose",
+      "startTime": "2026-04-16T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "NLMmlwpmdfyRmQtwzMc2",
+      "title": " Jerry LeBlanc Design Consultation with  at 213 Samuel Dr Bertram Texas 78605",
+      "startTime": "2026-04-16T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "oS9spPpJDiiPkHGLOQSF",
+      "title": " Evelyne Badinga Design Consultation with  at 1607 tonkawa trail Katy Tx 77493",
+      "startTime": "2026-04-16T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "FDZaxERPMpGsqtMT8v1c",
+      "title": "First appt between Aaron Dumas and Jamille Adriano",
+      "startTime": "2026-04-16T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "s54LrfrHtBVXCtiRSeE4",
+      "title": "First Phone Appt between Troy Johnson and Glenn Diggs",
+      "startTime": "2026-04-16T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "Y0JLgYnnwZPKYv984NnD",
       "title": "First appt between Lenard West and Kanchan Das",
@@ -2114,105 +2213,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "tsvPehPkV1FzQgfZPItK",
-      "title": "First appt between Joe Williams and Sergio Rodriguez",
-      "startTime": "2026-03-16T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "yKR8XP49IUYD0G61Z87X",
-      "title": " Kristina Bongiorno Design Consultation with  at 9404 Summer Sky Drive, Austin, Texas 78736 Austin CA 78736",
-      "startTime": "2026-03-16T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "PR2WRNAtmBkIHj5Bwny0",
-      "title": " Geno DAstoli Design Consultation with  at 4103 Twin Lakes Tr Pearland Texas 77584",
-      "startTime": "2026-03-16T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "sL5JRFMX8dNTkJqnFycO",
-      "title": "Appt w Gregory Pennick",
-      "startTime": "2026-03-16T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "fmvnmqLHHgurpjdj1jTV",
-      "title": "First appt between Thomas Martin and Mike Culpepper ",
-      "startTime": "2026-03-16T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "eGoc4xxrpCeAq5jU9JaX",
-      "title": "Deissy Jov Alcorta Design Consultation with  at 5733 Bailey Downs San Antonio TX 78254",
-      "startTime": "2026-03-16T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "RoX9p3ht2WtJAvKsBY25",
-      "title": " Samantha Moss Design Consultation with  at 325 Minnie J Loop Copperas Cove Texas 76522",
-      "startTime": "2026-03-16T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "QfxebbaOp3OJkwHn5AgC",
-      "title": " Daniel Galvez Design Consultation with  at 6314 Crestridge St Houston Texas 77033",
-      "startTime": "2026-03-16T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "fpr4F3OLucdrllsNs9VW",
-      "title": " Santiago Larriva Design Consultation with  at 14024 Carsten Lp Salado Texas 76571",
-      "startTime": "2026-03-16T08:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
