@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-04-16T07:52:21.908963+00:00",
-    "startDate": "2026-03-17T07:52:21.269023+00:00",
-    "endDate": "2026-04-16T07:52:21.269023+00:00",
+    "generatedAt": "2026-04-17T07:52:40.418688+00:00",
+    "startDate": "2026-03-18T07:52:39.772733+00:00",
+    "endDate": "2026-04-17T07:52:39.772733+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 199,
+    "total": 201,
     "human": 138,
-    "auto": 11,
+    "auto": 13,
     "selfBooked": 50,
     "other": 0,
     "humanPct": 69,
@@ -17,19 +17,85 @@
   },
   "sourceCounts": {
     "booking_widget": 50,
-    "contactdetails_page": 121,
-    "mobile_app": 6,
+    "contactdetails_page": 119,
+    "mobile_app": 7,
     "opportunity_page": 1,
-    "conversations_ai": 7,
-    "calendar_page": 10,
-    "third_party": 4
+    "conversations_ai": 8,
+    "calendar_page": 11,
+    "third_party": 5
   },
   "appointments": [
     {
-      "id": "tLEFjP15sE3HzcwIrJhj",
-      "title": "First appt between TJ Martin and Corly & Travis Lucas",
-      "startTime": "2026-04-16T18:30:00-05:00",
+      "id": "rvTnLlsKttMUHqlORyfC_1776488400000_82800",
+      "title": "Block",
+      "startTime": "2026-04-18T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "SlwnOzqaHNe2vfBYeli4",
+      "title": " Krystal Curl Design Consultation with  at 1136 Wren Circle Copperas Cove, Texas Texas 76522",
+      "startTime": "2026-04-17T16:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "p29hNm6W6xx1t7z4IaZ3",
+      "title": " Ben Young Design Consultation with  at 108 Mallard Drive Clute Texas 77531",
+      "startTime": "2026-04-17T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ExiNakt7aTeAdCasXTXM",
+      "title": " VICTOR GOMEZ Design Consultation with  at 1302 Harvest Drive, Nolanville, Texas 76559 Nolanville TX 76559",
+      "startTime": "2026-04-17T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "b2Gj9QXghCbwggrvrNqR",
+      "title": " Greg Birdsell Design Consultation with  at 20522 Kurz Point Dr., Richmond Tx 77406 Richmond TX 77406",
+      "startTime": "2026-04-17T11:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "nkn1kA8E6GXwmUopUL3C",
+      "title": " 2nd Charles Jr Ewing Design Preso",
+      "startTime": "2026-04-17T11:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "mnzgBEgVlt5E5HJuqVIm",
+      "title": "First appt between Daniel Falcon and Delaine Godin",
+      "startTime": "2026-04-17T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
@@ -37,9 +103,9 @@
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
-      "id": "UPDoSsBQubtj5TyLMuVP",
-      "title": "First appt between Troy Johnson and Kyle Maxfield",
-      "startTime": "2026-04-16T16:30:00-05:00",
+      "id": "tLEFjP15sE3HzcwIrJhj",
+      "title": "First appt between TJ Martin and Corly & Travis Lucas",
+      "startTime": "2026-04-16T18:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
@@ -63,7 +129,7 @@
       "title": "First appt between Joe Williams and Rojan Maldonado",
       "startTime": "2026-04-16T13:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -200,17 +266,6 @@
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
       "userId": null
-    },
-    {
-      "id": "c2zV28w9bkRMEhHa39zB",
-      "title": "First appt between Aaron Dumas and Hector Martinez",
-      "startTime": "2026-04-15T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
       "id": "ld2TAPjXsp9suPKIIryi",
@@ -2180,39 +2235,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "puoCZd0IVlgLM8xjn77k",
-      "title": "Meeting with Aaron Premier Pools ",
-      "startTime": "2026-03-17T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "HVMcTDivkNYTJTpFzndL",
-      "title": "First appt between Aaron Dumas and Israel Rodriguez",
-      "startTime": "2026-03-17T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "qqtqg68ecbyalKYdWgvy",
-      "title": "Appt w Victor Martinez",
-      "startTime": "2026-03-17T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
