@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-04-17T07:52:40.418688+00:00",
-    "startDate": "2026-03-18T07:52:39.772733+00:00",
-    "endDate": "2026-04-17T07:52:39.772733+00:00",
+    "generatedAt": "2026-04-18T07:13:38.307224+00:00",
+    "startDate": "2026-03-19T07:13:37.345029+00:00",
+    "endDate": "2026-04-18T07:13:37.345029+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 201,
-    "human": 138,
+    "human": 140,
     "auto": 13,
-    "selfBooked": 50,
+    "selfBooked": 48,
     "other": 0,
-    "humanPct": 69,
+    "humanPct": 70,
     "autoPct": 6,
-    "notHumanPct": 31
+    "notHumanPct": 30
   },
   "sourceCounts": {
-    "booking_widget": 50,
-    "contactdetails_page": 119,
+    "contactdetails_page": 121,
+    "booking_widget": 48,
     "mobile_app": 7,
     "opportunity_page": 1,
     "conversations_ai": 8,
@@ -25,6 +25,61 @@
     "third_party": 5
   },
   "appointments": [
+    {
+      "id": "FvGZ7GHOPoMzKBlAZQjl",
+      "title": "Poolapalooza between Aaron Dumas and Gamze Celik",
+      "startTime": "2026-04-18T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "5OL9zKYt4kLjl8pUtxyx",
+      "title": "2nd Appt w Ellandria Stubbs",
+      "startTime": "2026-04-18T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "67BHSbDwVCVEbgNyCCho",
+      "title": "Poolapalooza meeting between Troy Johnson and Nichelle Powell",
+      "startTime": "2026-04-18T12:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "9ub18j0CELzgtcdaH4Ri",
+      "title": "Chris Willever Design Consultation with  at 4215 Winston Way New Braunfels Texas 78130",
+      "startTime": "2026-04-18T12:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ldWNnOfHIS0VUX6YlGUe",
+      "title": "Poolapalooza Appt between Joe Williams and Smita Maruvada",
+      "startTime": "2026-04-18T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1776488400000_82800",
       "title": "Block",
@@ -39,7 +94,7 @@
     {
       "id": "SlwnOzqaHNe2vfBYeli4",
       "title": " Krystal Curl Design Consultation with  at 1136 Wren Circle Copperas Cove, Texas Texas 76522",
-      "startTime": "2026-04-17T16:30:00-05:00",
+      "startTime": "2026-04-17T17:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "auto",
@@ -90,6 +145,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "3DrCPtLic3HwqIZyWg6V",
+      "title": "First appt between Jayson Masters and Angela Spencer",
+      "startTime": "2026-04-17T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
       "id": "mnzgBEgVlt5E5HJuqVIm",
@@ -2169,72 +2235,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "4yrX5TK2Fm1ZcHAWerPB",
-      "title": " Desarey Robles Design Consultation with  at 8410 Sunset Isles Dr Baytown Texas 77521",
-      "startTime": "2026-03-18T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "C94c4ZY3Mg6cQjNvhzgW",
-      "title": "2nd Appt Emily & Marco",
-      "startTime": "2026-03-18T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "iCi7D63uAKKlIBh4QCHN",
-      "title": "First appt between Jayson Masters and Charlotte Chick",
-      "startTime": "2026-03-18T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "0RAooMcuHS4QVYwEi60y",
-      "title": "First appt between Daniel Falcon and Cody Cruise ",
-      "startTime": "2026-03-18T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "bwcG8VwYc7V3F4qGsWCt",
-      "title": "First appt between Aaron Dumas and Kristal Derer",
-      "startTime": "2026-03-18T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "RPhgjMItflf959BAFrQt",
-      "title": " John Nixon Design Consultation with  at 6602 Seville St Manvel Texas 77578",
-      "startTime": "2026-03-18T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
