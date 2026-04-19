@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-04-18T07:13:38.307224+00:00",
-    "startDate": "2026-03-19T07:13:37.345029+00:00",
-    "endDate": "2026-04-18T07:13:37.345029+00:00",
+    "generatedAt": "2026-04-19T07:24:28.205344+00:00",
+    "startDate": "2026-03-20T07:24:27.561558+00:00",
+    "endDate": "2026-04-19T07:24:27.561558+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 201,
-    "human": 140,
+    "total": 192,
+    "human": 135,
     "auto": 13,
-    "selfBooked": 48,
+    "selfBooked": 44,
     "other": 0,
     "humanPct": 70,
-    "autoPct": 6,
+    "autoPct": 7,
     "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 121,
-    "booking_widget": 48,
     "mobile_app": 7,
+    "contactdetails_page": 117,
+    "booking_widget": 44,
     "opportunity_page": 1,
     "conversations_ai": 8,
-    "calendar_page": 11,
+    "calendar_page": 10,
     "third_party": 5
   },
   "appointments": [
@@ -2136,105 +2136,6 @@
       "source": "mobile_app",
       "sourceLabel": "Mobile app",
       "userId": "FEsPEg6BtzLcxYK2gdCm"
-    },
-    {
-      "id": "UrITQXFaCYZyom3fmcwp",
-      "title": " Derek Horton Design Consultation with  at 121 Eaton Lane Austin Texas 78737",
-      "startTime": "2026-03-19T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "1w74vjMbDeRaKBmCeGdt",
-      "title": "First appt between Daniel Falcon and Felice Webb",
-      "startTime": "2026-03-19T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "8hG7toQac2wbeP7sbNUl",
-      "title": "First appt between Josh Provenzano and Letty Cantu",
-      "startTime": "2026-03-19T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "O2pdbXyNfhvbUVsMae07",
-      "title": "Follow up appointment ",
-      "startTime": "2026-03-19T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "Z6NF9X5YPDxusq5Csg6u",
-      "title": " Diana Khella Design Consultation with  at 586 Banff Drive Kyle Texas 78640",
-      "startTime": "2026-03-19T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "X04JfXQwNOCSQzFweGdB",
-      "title": "First appt between Josh Provenzano and Luciana Davila",
-      "startTime": "2026-03-19T11:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "OQntRDGXj8UCZBdpIIGe",
-      "title": "First appt between TJ Martin and Dallin Lee",
-      "startTime": "2026-03-19T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "WesL0jClEKZpsx2E1qjD",
-      "title": " Joseph Buswell Design Consultation with  at 1126 Quarter Horse Trail Angleton Texas 77515",
-      "startTime": "2026-03-19T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bNVVTmJKXxQBgOwm97ch",
-      "title": "First appt between Cody Gilcrease and Kathy Kautz Hannan",
-      "startTime": "2026-03-19T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
