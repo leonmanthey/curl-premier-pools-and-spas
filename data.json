@@ -1,30 +1,85 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T07:24:28.205344+00:00",
-    "startDate": "2026-03-20T07:24:27.561558+00:00",
-    "endDate": "2026-04-19T07:24:27.561558+00:00",
+    "generatedAt": "2026-04-20T08:13:47.642712+00:00",
+    "startDate": "2026-03-21T08:13:47.115699+00:00",
+    "endDate": "2026-04-20T08:13:47.115699+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 192,
-    "human": 135,
-    "auto": 13,
-    "selfBooked": 44,
+    "total": 187,
+    "human": 132,
+    "auto": 12,
+    "selfBooked": 43,
     "other": 0,
-    "humanPct": 70,
-    "autoPct": 7,
-    "notHumanPct": 30
+    "humanPct": 71,
+    "autoPct": 6,
+    "notHumanPct": 29
   },
   "sourceCounts": {
-    "mobile_app": 7,
-    "contactdetails_page": 117,
-    "booking_widget": 44,
-    "opportunity_page": 1,
+    "contactdetails_page": 116,
+    "booking_widget": 43,
+    "opportunity_page": 2,
     "conversations_ai": 8,
-    "calendar_page": 10,
-    "third_party": 5
+    "calendar_page": 9,
+    "third_party": 4,
+    "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "W8DG0AhPAi8rlXBDZm3p",
+      "title": " Nichelle Powell Design Consultation with  at 126 County Road 3152 Kempner Texas 76539",
+      "startTime": "2026-04-20T16:45:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "opportunity_page",
+      "sourceLabel": "CRM page",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "HMoSIecCtFgMs9b1QFdv",
+      "title": " Erin Mcbride Design Consultation with  at 4631 Sawmill Ln Pasadena Texas 77505",
+      "startTime": "2026-04-20T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "DA3TSYFQ7W6cqpaazdW2",
+      "title": " Nely Bol\u00edvar De Molina Design Consultation with  at 922 Palo Brea Loop Hutto Texas 78634",
+      "startTime": "2026-04-20T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "D88nEzq3I1DRnlo27muH",
+      "title": "First appt between Aaron Dumas and The Vineyard project",
+      "startTime": "2026-04-20T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "oUsX1nRefeICPZclSFKj",
+      "title": " American_Dream809 Santana Design Consultation with  at Driftwood TX 78619",
+      "startTime": "2026-04-20T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
     {
       "id": "FvGZ7GHOPoMzKBlAZQjl",
       "title": "Poolapalooza between Aaron Dumas and Gamze Celik",
@@ -2026,116 +2081,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "R1hv3Jna0Hc8mLVnp4Wv",
-      "title": "Appt w Edison Valderrama",
-      "startTime": "2026-03-20T17:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "RzCT8FTWWtHplK8ALQCi",
-      "title": "Wallace Sheridan Design Consultation with  at 5574 Bronco Billy, San Antonio, TX 78222 San Antonio Tx 78222",
-      "startTime": "2026-03-20T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "rbCqQLzpTisltpnEAwY6",
-      "title": "1st Michelle Burkett",
-      "startTime": "2026-03-20T14:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "4i6FavY0ezTBznOUG0sf",
-      "title": " Lindsey Koesling Design Consultation with  at 527 Dayridge Dr Dripping Springs Texas 78620",
-      "startTime": "2026-03-20T12:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "vcQWtT5b5xSXcUKA0rxf",
-      "title": " James & Lisa Albiston Design Consultation with  at 5307 Handbrook Dr Houston 77069",
-      "startTime": "2026-03-20T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "y1vptsv89eZ1lBSnnbVx",
-      "title": " Sebastian Abello Design Consultation with  at 4430 Lemac Dr Houston Texas 77096",
-      "startTime": "2026-03-20T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5oJN7S84V3nx7TJVUpSV",
-      "title": "meeting with Aaron from Premier Pools ",
-      "startTime": "2026-03-20T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "CPgVXsb4bwU2nKOnQvRV",
-      "title": "First appt between Joe Williams and Johnathan Moreno",
-      "startTime": "2026-03-20T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "3tsk8z1EWFlsJ0xOFkTf",
-      "title": "Appt w Jim Kim 355 Tealwood",
-      "startTime": "2026-03-20T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "RjCypjWSCEYjt5qz88ga",
-      "title": "pool remodel",
-      "startTime": "2026-03-20T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "FEsPEg6BtzLcxYK2gdCm"
     }
   ]
 }
