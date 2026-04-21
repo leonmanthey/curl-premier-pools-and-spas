@@ -1,40 +1,150 @@
 {
   "meta": {
-    "generatedAt": "2026-04-20T08:13:47.642712+00:00",
-    "startDate": "2026-03-21T08:13:47.115699+00:00",
-    "endDate": "2026-04-20T08:13:47.115699+00:00",
+    "generatedAt": "2026-04-21T07:57:33.439853+00:00",
+    "startDate": "2026-03-22T07:57:32.742775+00:00",
+    "endDate": "2026-04-21T07:57:32.742775+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 187,
-    "human": 132,
-    "auto": 12,
-    "selfBooked": 43,
+    "total": 191,
+    "human": 133,
+    "auto": 14,
+    "selfBooked": 44,
     "other": 0,
-    "humanPct": 71,
-    "autoPct": 6,
-    "notHumanPct": 29
+    "humanPct": 70,
+    "autoPct": 7,
+    "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 116,
-    "booking_widget": 43,
-    "opportunity_page": 2,
-    "conversations_ai": 8,
+    "contactdetails_page": 118,
+    "booking_widget": 44,
+    "opportunity_page": 1,
+    "conversations_ai": 9,
     "calendar_page": 9,
-    "third_party": 4,
+    "third_party": 5,
     "mobile_app": 5
   },
   "appointments": [
     {
-      "id": "W8DG0AhPAi8rlXBDZm3p",
-      "title": " Nichelle Powell Design Consultation with  at 126 County Road 3152 Kempner Texas 76539",
-      "startTime": "2026-04-20T16:45:00-05:00",
+      "id": "reuRdBLqpwNTSMlLuFC7",
+      "title": "First appt between Thomas Martin and Diana Wriedt",
+      "startTime": "2026-04-21T17:15:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "TE0seUZA0cWQiP4o9F4l",
+      "title": " Mark Estrada Design Consultation with  at 502 West Crestland Drive Austin Texas 78752",
+      "startTime": "2026-04-21T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "4n3fAc936UdZmDNxO54G",
+      "title": " Jerry Stiehl Design Consultation with  at 2209 Buffalo Gap Leander Texas 78641",
+      "startTime": "2026-04-21T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "sa99epaPka3DmpCoYiZD",
+      "title": "Danilo Garcia Consultation",
+      "startTime": "2026-04-21T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "eJPDX4SweJy7m23kSB2K",
+      "title": "Appt w Raquel Stewart",
+      "startTime": "2026-04-21T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "sJrWei3Zz1uLVwTNbVHz",
+      "title": "First appt between Thomas Martin and Brenda Elizabeth",
+      "startTime": "2026-04-21T13:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
-      "source": "opportunity_page",
-      "sourceLabel": "CRM page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "HFKRmisOgEZ3n1KLjLKM",
+      "title": " Fatih Sahin Design Consultation with  at 1802 Claiborne Dr League City TX 77573",
+      "startTime": "2026-04-21T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "oBbYqlDsxEfgtRinJNoa",
+      "title": " C CULBREATH Design Consultation with  at 19912 Lime Cove, Round Rock, 78663 Round Rock CA 78663",
+      "startTime": "2026-04-21T12:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "0fDyDtuAu16QhJaEnZ0S",
+      "title": "Appt w Terri Presley",
+      "startTime": "2026-04-21T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "7t1taLIHU6sVYvv5Dz1t",
+      "title": "Appt w Justin Benard",
+      "startTime": "2026-04-21T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "zZ1wLwDe8yUS8mEyKkL3",
+      "title": "First phone appt between Cody Gilcrease and Alejandro Molina",
+      "startTime": "2026-04-21T08:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
       "id": "HMoSIecCtFgMs9b1QFdv",
@@ -46,6 +156,17 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
+    },
+    {
+      "id": "gsoMNEMO02OGJxiD0g83",
+      "title": "First appt between Lenard West and Megan David",
+      "startTime": "2026-04-20T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
       "id": "DA3TSYFQ7W6cqpaazdW2",
@@ -74,7 +195,7 @@
       "title": " American_Dream809 Santana Design Consultation with  at Driftwood TX 78619",
       "startTime": "2026-04-20T11:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -295,17 +416,6 @@
       "startTime": "2026-04-16T09:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "s54LrfrHtBVXCtiRSeE4",
-      "title": "First Phone Appt between Troy Johnson and Glenn Diggs",
-      "startTime": "2026-04-16T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2015,72 +2125,6 @@
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
       "userId": null
-    },
-    {
-      "id": "CelJ01k2QpKwwg8bSoAM",
-      "title": "First appt between Cody Gilcrease and Vanessa Bautista",
-      "startTime": "2026-03-21T15:15:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "wGxBthq0cnuURVgP2gMT",
-      "title": "First appt between Joe Williams and Jim Eichman",
-      "startTime": "2026-03-21T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "MMzUk6Kze9RzYZNUwhUu",
-      "title": "First appt between Cody Gilcrease and Dan Schmidt",
-      "startTime": "2026-03-21T12:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "6BpKAFH5JjFu9FVxAcIN",
-      "title": "Appt Jordan Williams",
-      "startTime": "2026-03-21T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "40yXkhLf1QU7kLzNzokE",
-      "title": "Rebeca Rodriguez Design Consultation with  at 259 Venado Oaks Castroville Texas 78009",
-      "startTime": "2026-03-21T09:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "iQCJLqKvDcxeDTx4bWgU",
-      "title": "First appt between Joe Williams and Rodney Barcelo",
-      "startTime": "2026-03-21T01:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
