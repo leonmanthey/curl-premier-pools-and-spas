@@ -1,30 +1,129 @@
 {
   "meta": {
-    "generatedAt": "2026-04-21T07:57:33.439853+00:00",
-    "startDate": "2026-03-22T07:57:32.742775+00:00",
-    "endDate": "2026-04-21T07:57:32.742775+00:00",
+    "generatedAt": "2026-04-22T07:53:51.637101+00:00",
+    "startDate": "2026-03-23T07:53:50.781453+00:00",
+    "endDate": "2026-04-22T07:53:50.781453+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 191,
-    "human": 133,
+    "total": 197,
+    "human": 137,
     "auto": 14,
-    "selfBooked": 44,
+    "selfBooked": 46,
     "other": 0,
     "humanPct": 70,
     "autoPct": 7,
     "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 118,
-    "booking_widget": 44,
-    "opportunity_page": 1,
+    "contactdetails_page": 121,
+    "booking_widget": 46,
+    "opportunity_page": 2,
     "conversations_ai": 9,
     "calendar_page": 9,
     "third_party": 5,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "W8DG0AhPAi8rlXBDZm3p",
+      "title": " Nichelle Powell Design Consultation with  at 126 County Road 3152 Kempner Texas 76539",
+      "startTime": "2026-04-22T16:45:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "opportunity_page",
+      "sourceLabel": "CRM page",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "4n3fAc936UdZmDNxO54G",
+      "title": " Jerry Stiehl Design Consultation with  at 2209 Buffalo Gap Leander Texas 78641",
+      "startTime": "2026-04-22T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "aCuITUrxFPpE27mOK44U",
+      "title": "First appt between Lenard West and Karen Enloe-Doffing",
+      "startTime": "2026-04-22T16:15:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "rgUB4jiLpQL0yUtMVC0n",
+      "title": "First appt between Joe Williams and Susan Phillips",
+      "startTime": "2026-04-22T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "prK4WPpSGdwB3jM2ibDR",
+      "title": "Appt w Antjuan Jones",
+      "startTime": "2026-04-22T13:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "fNNjYBl1bUgpVbjwvH1f",
+      "title": "First appt between Cody Gilcrease and Victoria Turner",
+      "startTime": "2026-04-22T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "kRgsNsINE4chEOedZAtj",
+      "title": " Ana Torres Design Consultation with  at 10039 Napier Dr Rosharon Texas 77583",
+      "startTime": "2026-04-22T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "VygK3gTsB8rnVPQXaFSe",
+      "title": "Rebekah Sallot Design Consultation with  at 8325 Narcissus Path Boerne Texas 78015",
+      "startTime": "2026-04-22T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uaaAOOdpC7VyVOgtGr9G",
+      "title": "First appt between Cody Gilcrease and Mike Quinn",
+      "startTime": "2026-04-22T09:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "reuRdBLqpwNTSMlLuFC7",
       "title": "First appt between Thomas Martin and Diana Wriedt",
@@ -48,22 +147,11 @@
       "userId": null
     },
     {
-      "id": "4n3fAc936UdZmDNxO54G",
-      "title": " Jerry Stiehl Design Consultation with  at 2209 Buffalo Gap Leander Texas 78641",
-      "startTime": "2026-04-21T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
       "id": "sa99epaPka3DmpCoYiZD",
       "title": "Danilo Garcia Consultation",
       "startTime": "2026-04-21T15:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -79,17 +167,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "sJrWei3Zz1uLVwTNbVHz",
-      "title": "First appt between Thomas Martin and Brenda Elizabeth",
-      "startTime": "2026-04-21T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
       "id": "HFKRmisOgEZ3n1KLjLKM",
@@ -118,18 +195,7 @@
       "title": "Appt w Terri Presley",
       "startTime": "2026-04-21T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "7t1taLIHU6sVYvv5Dz1t",
-      "title": "Appt w Justin Benard",
-      "startTime": "2026-04-21T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
