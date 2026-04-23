@@ -1,30 +1,129 @@
 {
   "meta": {
-    "generatedAt": "2026-04-22T07:53:51.637101+00:00",
-    "startDate": "2026-03-23T07:53:50.781453+00:00",
-    "endDate": "2026-04-22T07:53:50.781453+00:00",
+    "generatedAt": "2026-04-23T08:00:11.898161+00:00",
+    "startDate": "2026-03-24T08:00:11.118388+00:00",
+    "endDate": "2026-04-23T08:00:11.118388+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 197,
-    "human": 137,
-    "auto": 14,
-    "selfBooked": 46,
+    "total": 201,
+    "human": 140,
+    "auto": 13,
+    "selfBooked": 48,
     "other": 0,
     "humanPct": 70,
-    "autoPct": 7,
+    "autoPct": 6,
     "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 121,
-    "booking_widget": 46,
+    "contactdetails_page": 123,
+    "booking_widget": 48,
     "opportunity_page": 2,
-    "conversations_ai": 9,
+    "conversations_ai": 8,
     "calendar_page": 9,
     "third_party": 5,
-    "mobile_app": 5
+    "mobile_app": 6
   },
   "appointments": [
+    {
+      "id": "eBPtIYsTEbdTLnQf2pCs",
+      "title": "First appt between Aaron Dumas and Lorenzo Scales",
+      "startTime": "2026-04-23T19:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "hGjrTHd9s1jEU2G6mPK3",
+      "title": " Jazyah Q Design Consultation with  at 11314 Lazarro ln Richmond Tx 77406",
+      "startTime": "2026-04-23T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "6fX0li5Jzvzpg16GtkLV",
+      "title": "First appt between Cody Gilcrease and Jeremy Moersch",
+      "startTime": "2026-04-23T15:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "5TNVUmytBC3E96LAjUxQ",
+      "title": "First appt between Daniel Flacon and Genaye Rhodes",
+      "startTime": "2026-04-23T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "WtplvL4zqowNuWihpCwR",
+      "title": "Tamara Alms Design Consultation with  at 140 Quail Valley Drive Bandera Texas 78003",
+      "startTime": "2026-04-23T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "k4kojX8XkWSSEKnBRvjI",
+      "title": "First appt between Jayson Masters and Hector Armendariz",
+      "startTime": "2026-04-23T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "81vfDh2uPLD9BX1a0M5a",
+      "title": " Arianna Flores Design Consultation with  at 105 Canvasback Dr Clute Texas 77531",
+      "startTime": "2026-04-23T11:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "lBoiNJY3SbYiRlXLnjLa",
+      "title": "First appt between Thomas Martin and Justin Sturgill",
+      "startTime": "2026-04-23T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "WD8zln3oSyMkOIF9vRlI",
+      "title": " Nicholas Ram Design Consultation with  at 2625 Bisbee Rd League City Texas 77573",
+      "startTime": "2026-04-23T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "W8DG0AhPAi8rlXBDZm3p",
       "title": " Nichelle Powell Design Consultation with  at 126 County Road 3152 Kempner Texas 76539",
@@ -2136,61 +2235,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "55DTCb7gS9Cii3MgeYtm",
-      "title": "Appt w Jerry Brumbach",
-      "startTime": "2026-03-23T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "kw3Qvw0koP9fMs1PlPRl",
-      "title": "Appt w Sonia Khodra",
-      "startTime": "2026-03-23T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Pae2c5IDBQVePF9sCSAv",
-      "title": "First appt between Lenard West and Gregory Grady",
-      "startTime": "2026-03-23T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "GESX6A1x4Km48BsABPRx",
-      "title": " Triniece Matthews Design Consultation with  at 14010 Frost Creek Dr Pearland Texas 77584",
-      "startTime": "2026-03-23T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "BLFnLp79jncQjXnqYzB4",
-      "title": "Gleinis De Leon Design Consultation with  at San Antonio TX 78233",
-      "startTime": "2026-03-23T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
     }
   ]
 }
