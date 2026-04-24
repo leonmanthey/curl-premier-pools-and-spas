@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-04-23T08:00:11.898161+00:00",
-    "startDate": "2026-03-24T08:00:11.118388+00:00",
-    "endDate": "2026-04-23T08:00:11.118388+00:00",
+    "generatedAt": "2026-04-24T08:09:01.032925+00:00",
+    "startDate": "2026-03-25T08:09:00.370227+00:00",
+    "endDate": "2026-04-24T08:09:00.370227+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 201,
+    "total": 203,
     "human": 140,
     "auto": 13,
-    "selfBooked": 48,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 70,
+    "humanPct": 69,
     "autoPct": 6,
-    "notHumanPct": 30
+    "notHumanPct": 31
   },
   "sourceCounts": {
     "contactdetails_page": 123,
-    "booking_widget": 48,
+    "booking_widget": 50,
     "opportunity_page": 2,
     "conversations_ai": 8,
-    "calendar_page": 9,
     "third_party": 5,
+    "calendar_page": 9,
     "mobile_app": 6
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1777093200000_82800",
+      "title": "Block",
+      "startTime": "2026-04-25T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "pozY3onvvhetv2NOCMpm",
+      "title": "First appt between Troy Johnson and Raghuteja Kollarapu",
+      "startTime": "2026-04-24T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "nUrxp8f36OUgGA1UK5Ss",
+      "title": "Cheryl Benson Design Consultation with  at 12410 Wethersfield St San Antonio Texas 78216",
+      "startTime": "2026-04-24T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "5brmbXC0qjjtJsZdjiSF",
+      "title": " Michael Arnold Design Consultation with  at 6202 Sourwood Drive League City Texas 77573",
+      "startTime": "2026-04-24T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "7t1taLIHU6sVYvv5Dz1t",
+      "title": "Appt w Justin Benard",
+      "startTime": "2026-04-24T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "HSOLlRDx4FMBTDrRO4Nx",
+      "title": "Appt w Curtis Hines",
+      "startTime": "2026-04-24T10:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "z2zWqBnhaRlbyN4G4vMG",
+      "title": "Appt w Tricia Lewis",
+      "startTime": "2026-04-24T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "eBPtIYsTEbdTLnQf2pCs",
       "title": "First appt between Aaron Dumas and Lorenzo Scales",
@@ -37,15 +114,15 @@
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
-      "id": "hGjrTHd9s1jEU2G6mPK3",
-      "title": " Jazyah Q Design Consultation with  at 11314 Lazarro ln Richmond Tx 77406",
-      "startTime": "2026-04-23T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "id": "lRawuGt9Ih8N1jtRku5b",
+      "title": "Tambra Williams *Remodel*",
+      "startTime": "2026-04-23T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
     },
     {
       "id": "6fX0li5Jzvzpg16GtkLV",
@@ -70,28 +147,6 @@
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
-      "id": "WtplvL4zqowNuWihpCwR",
-      "title": "Tamara Alms Design Consultation with  at 140 Quail Valley Drive Bandera Texas 78003",
-      "startTime": "2026-04-23T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "k4kojX8XkWSSEKnBRvjI",
-      "title": "First appt between Jayson Masters and Hector Armendariz",
-      "startTime": "2026-04-23T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
       "id": "81vfDh2uPLD9BX1a0M5a",
       "title": " Arianna Flores Design Consultation with  at 105 Canvasback Dr Clute Texas 77531",
       "startTime": "2026-04-23T11:00:00-05:00",
@@ -104,7 +159,7 @@
     },
     {
       "id": "lBoiNJY3SbYiRlXLnjLa",
-      "title": "First appt between Thomas Martin and Justin Sturgill",
+      "title": "First appt between Aaron Dumas and Justin Sturgill",
       "startTime": "2026-04-23T10:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
@@ -266,6 +321,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Py6X2hERVMLVbBNsKmyN",
+      "title": "Rolanda Johnson",
+      "startTime": "2026-04-21T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "v0WSHzYs2JirdYQkx2jP"
     },
     {
       "id": "HFKRmisOgEZ3n1KLjLKM",
@@ -1357,17 +1423,6 @@
       "userId": null
     },
     {
-      "id": "X1scAOr8tDb4p5Yod3Ki",
-      "title": "First appt between Joe Williams and Kelly Wright",
-      "startTime": "2026-04-06T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "D516kC9WoutmS6MCu9Gy"
-    },
-    {
       "id": "P4bD56XPRgFfqXIty3DQ",
       "title": "First appt between Jayson Masters and Ken Evans",
       "startTime": "2026-04-06T10:00:00-05:00",
@@ -2198,39 +2253,6 @@
       "startTime": "2026-03-25T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "UG1MaeRTi9TDu4SrB372",
-      "title": "First phone appt between Cody Gilcrease and Elisa Hamm",
-      "startTime": "2026-03-24T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "7cRVswrWfRbLYGbflz64",
-      "title": "First appt between Daniel Falcon and Sashia Diamond",
-      "startTime": "2026-03-24T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "TwrkXbyozOPeSYxcxL6Y",
-      "title": "Appt w DJ Reza",
-      "startTime": "2026-03-24T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
