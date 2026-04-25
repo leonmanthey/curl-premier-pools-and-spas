@@ -1,30 +1,85 @@
 {
   "meta": {
-    "generatedAt": "2026-04-24T08:09:01.032925+00:00",
-    "startDate": "2026-03-25T08:09:00.370227+00:00",
-    "endDate": "2026-04-24T08:09:00.370227+00:00",
+    "generatedAt": "2026-04-25T07:22:21.260775+00:00",
+    "startDate": "2026-03-26T07:22:20.694244+00:00",
+    "endDate": "2026-04-25T07:22:20.694244+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 203,
+    "total": 202,
     "human": 140,
     "auto": 13,
-    "selfBooked": 50,
+    "selfBooked": 49,
     "other": 0,
     "humanPct": 69,
     "autoPct": 6,
     "notHumanPct": 31
   },
   "sourceCounts": {
-    "contactdetails_page": 123,
-    "booking_widget": 50,
+    "contactdetails_page": 122,
+    "booking_widget": 49,
     "opportunity_page": 2,
     "conversations_ai": 8,
     "third_party": 5,
     "calendar_page": 9,
-    "mobile_app": 6
+    "mobile_app": 7
   },
   "appointments": [
+    {
+      "id": "A0wPwINxdhVuv5PM0YZ2",
+      "title": "First appt between Daniel Falcon and Jessicalyn Casarez",
+      "startTime": "2026-04-25T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "scCEcekP4ENdHgknf6M0",
+      "title": " Reynaldo Lopez Design Consultation with  at 209 Pienza Drive Georgetown Texas 78628",
+      "startTime": "2026-04-25T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1AWAx6wjbKoLGCfPxCZk",
+      "title": "Jason Mcminn Design Consultation with  at 125 Diamond Lane Huntsville Texas 77340",
+      "startTime": "2026-04-25T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "z2ELWy9SgHL6dnPxMqQo",
+      "title": "First appt between Aaron Dumas and Dean Shirocky",
+      "startTime": "2026-04-25T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "QdoV7vEz0y98TnmGY72v",
+      "title": "First appt between Cody Gilcrease and Georgette Lothian",
+      "startTime": "2026-04-25T08:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1777093200000_82800",
       "title": "Block",
@@ -46,6 +101,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "Pp1G8Dw75BV4BneLLRnb",
+      "title": " Steven Cortez Design Consultation with  at Houston TX 77584",
+      "startTime": "2026-04-24T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "4LgGLxudGj69FZOb6goB"
     },
     {
       "id": "nUrxp8f36OUgGA1UK5Ss",
@@ -2180,83 +2246,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "hb97nEzjNW1rOjtvYgIn",
-      "title": "First appt between Lenard West and James Kilcrease",
-      "startTime": "2026-03-25T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "7EblnMdBSR7ON4rEso3P",
-      "title": " Brandi McLaren Design Consultation with  at 2319 Meade Ct League City Texas 77573",
-      "startTime": "2026-03-25T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "qlFPCGb8rY4gJtrQ7cgd",
-      "title": " Leslie Salinas Design Consultation with  at 15239 Statice Trl Houston Texas 77044",
-      "startTime": "2026-03-25T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "kz7twC48Jp1E7VbSRQik",
-      "title": " Patricia Zepeda Design Consultation with  at 12455 St Michael Dr Houston TX 77015",
-      "startTime": "2026-03-25T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "HtkntcgmwvCr0uOHRBPA",
-      "title": " Mark Benacquisto Design Consultation with  at 5202 Hidden Brook Ln League City Texas 77573",
-      "startTime": "2026-03-25T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "IGfaFyj9QhATDioiM6lI",
-      "title": "Phone Appt w Susan Wingate",
-      "startTime": "2026-03-25T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "qHdAGRCyUeaqrSkBb274",
-      "title": "Appt w Christina Schultze",
-      "startTime": "2026-03-25T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
