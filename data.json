@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-04-25T07:22:21.260775+00:00",
-    "startDate": "2026-03-26T07:22:20.694244+00:00",
-    "endDate": "2026-04-25T07:22:20.694244+00:00",
+    "generatedAt": "2026-04-26T07:44:36.227796+00:00",
+    "startDate": "2026-03-27T07:44:35.693031+00:00",
+    "endDate": "2026-04-26T07:44:35.693031+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 202,
-    "human": 140,
-    "auto": 13,
-    "selfBooked": 49,
+    "total": 197,
+    "human": 137,
+    "auto": 12,
+    "selfBooked": 48,
     "other": 0,
-    "humanPct": 69,
+    "humanPct": 70,
     "autoPct": 6,
-    "notHumanPct": 31
+    "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 122,
-    "booking_widget": 49,
+    "contactdetails_page": 119,
+    "booking_widget": 48,
     "opportunity_page": 2,
     "conversations_ai": 8,
-    "third_party": 5,
+    "third_party": 4,
     "calendar_page": 9,
     "mobile_app": 7
   },
@@ -2191,61 +2191,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "6yyseNtneJqqcbsKVBSw",
-      "title": "First appt between Jayson Masters and DeAnna Freeman",
-      "startTime": "2026-03-26T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "VPmfioubsEpXybT94krz",
-      "title": "Appt w Neto D Goyado",
-      "startTime": "2026-03-26T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "x2d9YMegxd9RSapOIlxh",
-      "title": " Brittney White Design Consultation with  at 10007 Murray Brook Drive Houston Texas 77071",
-      "startTime": "2026-03-26T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "BP2aozQfm58OBgVeJZfu",
-      "title": "Dick  Design Consultation with  at 4111 Fossil Park, San Antonio, Texas 78261 San Antonio TX 78261",
-      "startTime": "2026-03-26T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "BxpHYVsi7cIeBNjunPdX",
-      "title": "First appt between Daniel Falcon and Hector Valadez",
-      "startTime": "2026-03-26T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
