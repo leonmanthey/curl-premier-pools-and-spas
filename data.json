@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-04-26T07:44:36.227796+00:00",
-    "startDate": "2026-03-27T07:44:35.693031+00:00",
-    "endDate": "2026-04-26T07:44:35.693031+00:00",
+    "generatedAt": "2026-04-27T08:31:06.690571+00:00",
+    "startDate": "2026-03-28T08:31:05.790793+00:00",
+    "endDate": "2026-04-27T08:31:05.790793+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 197,
-    "human": 137,
+    "total": 196,
+    "human": 138,
     "auto": 12,
-    "selfBooked": 48,
+    "selfBooked": 46,
     "other": 0,
     "humanPct": 70,
     "autoPct": 6,
     "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 119,
-    "booking_widget": 48,
+    "contactdetails_page": 122,
+    "booking_widget": 46,
     "opportunity_page": 2,
     "conversations_ai": 8,
     "third_party": 4,
     "calendar_page": 9,
-    "mobile_app": 7
+    "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "AXwi98cfxGraYtJ0l8tG",
+      "title": "Appt w Kar Hdz",
+      "startTime": "2026-04-27T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "OjqVg4oLc1Q84PkziNa0",
+      "title": "First appt between Joe Williams and Fernando Duran",
+      "startTime": "2026-04-27T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "xx5Jmfbq2uiHBgfItTAw",
+      "title": " Mindy & Michael Boyett Design Consultation with  at ",
+      "startTime": "2026-04-27T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "hhm0P6uPnNsKCdIa9fCo",
+      "title": "First appt between Lenard West and Gabriel Dinsmore",
+      "startTime": "2026-04-27T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "Oh61mCn0tOe8Rya4GDOR",
+      "title": " Aaron Moreno Design Consultation with  at 2217 Megellan Point Lane Pearland Texas 77584",
+      "startTime": "2026-04-27T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "yMrS2CgbKnHUSuWHyAR0",
+      "title": " John Ennis Design Consultation with  at 1307 Woodland Drive El Lago Texas 77586",
+      "startTime": "2026-04-27T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "k4kojX8XkWSSEKnBRvjI",
+      "title": " Hector Armendariz Design Consultation with  at 6226 Lavaca Drive Belton TX 76513",
+      "startTime": "2026-04-27T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "A0wPwINxdhVuv5PM0YZ2",
       "title": "First appt between Daniel Falcon and Jessicalyn Casarez",
@@ -387,17 +464,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Py6X2hERVMLVbBNsKmyN",
-      "title": "Rolanda Johnson",
-      "startTime": "2026-04-21T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "v0WSHzYs2JirdYQkx2jP"
     },
     {
       "id": "HFKRmisOgEZ3n1KLjLKM",
@@ -2114,83 +2180,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "O9w5JUTM7fivNjICOHQe",
-      "title": " Smita Maruvada Design Consultation with  at 4516 Sansone Drive Round Rock Texas 78665",
-      "startTime": "2026-03-27T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "j5BEcX1zyhSs7CdFWwDr",
-      "title": "Follow Up",
-      "startTime": "2026-03-27T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "CMDdy7vbLlFPwWHqGk27",
-      "title": "First appt between Troy Johnson and Mark Perkins",
-      "startTime": "2026-03-27T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "7bxMfVGajWiQ6bo2I2CM",
-      "title": "First appt between Joe Williams and Charisse Adams",
-      "startTime": "2026-03-27T11:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "bY6kLpAdItIMijOHxQpo",
-      "title": " Derek Curtiss Design Consultation with  at 555 Painted Creek Way Kyle Texas 78640",
-      "startTime": "2026-03-27T11:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "2RRRrfItiCDHvJ1QUxvl",
-      "title": "First appt between Cody Gilcrease and Ruby Deluna",
-      "startTime": "2026-03-27T11:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "G6FoJbAcgvQ8B2za49Qf",
-      "title": " Osama Kasseb Design Consultation with  at 11903 Crescent Cove Drive Pearland Texas 77584",
-      "startTime": "2026-03-27T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
