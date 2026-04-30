@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-04-29T08:23:41.211768+00:00",
-    "startDate": "2026-03-30T08:23:40.481584+00:00",
-    "endDate": "2026-04-29T08:23:40.481584+00:00",
+    "generatedAt": "2026-04-30T08:26:14.241390+00:00",
+    "startDate": "2026-03-31T08:26:13.355445+00:00",
+    "endDate": "2026-04-30T08:26:13.355445+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 203,
-    "human": 140,
+    "total": 208,
+    "human": 144,
     "auto": 12,
-    "selfBooked": 51,
+    "selfBooked": 52,
     "other": 0,
     "humanPct": 69,
     "autoPct": 6,
     "notHumanPct": 31
   },
   "sourceCounts": {
-    "contactdetails_page": 124,
-    "booking_widget": 51,
+    "booking_widget": 52,
     "opportunity_page": 2,
+    "contactdetails_page": 130,
     "conversations_ai": 8,
     "third_party": 4,
-    "calendar_page": 8,
+    "calendar_page": 6,
     "mobile_app": 6
   },
   "appointments": [
+    {
+      "id": "PkHNlewhtlKcMm8sVrE5",
+      "title": "Appt w Nuria Contreras",
+      "startTime": "2026-04-30T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "dToR3E50GMrUEK9LsOMy",
+      "title": " Andressa Morris Design Consultation with  at 3008 Columbus Loop Round Rock Texas 78665",
+      "startTime": "2026-04-30T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "lnEoUQF7HDWe7ucyQ1Kf",
+      "title": "Christina De La Cerda-Sustaita Design Consultation with  at 317 Blue Oak Blvd San Marcos TX 78666",
+      "startTime": "2026-04-30T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "xx5Jmfbq2uiHBgfItTAw",
+      "title": " Mindy & Mike Boyett - Design & Pricing Options",
+      "startTime": "2026-04-30T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "UPDoSsBQubtj5TyLMuVP",
+      "title": " Kyle Maxfield Design Consultation with  at 3712 Ebony Hollow Pass Austin Texas 78739",
+      "startTime": "2026-04-30T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "ojXgQ9cYJhEV3Kq3Qoj4",
+      "title": " Falon Dill Design Consultation with  at 1001 Spaniel Hl Rd Georgetown Texas 78633",
+      "startTime": "2026-04-30T09:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "y4SBVE5GjG46k1PUQkkL",
+      "title": "First appt between Lenard West and Brian Nachlas",
+      "startTime": "2026-04-30T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "q99b2ZecBjdgCfeUIanF",
       "title": " Adan Ruiz Design Consultation with Troy at 10025 Majorca Drive Austin TX 78717",
@@ -70,6 +147,28 @@
       "userId": null
     },
     {
+      "id": "XxRsvN6MO7QyfMeBNfl4",
+      "title": "Phone Appt w Octavio Morales",
+      "startTime": "2026-04-29T15:15:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "KiBrSSbJIcq71EtIf9Ie",
+      "title": "First appt between Daniel Falcon and Juan Chapa for Miguel Algara",
+      "startTime": "2026-04-29T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
       "id": "WtplvL4zqowNuWihpCwR",
       "title": "Tamara Alms Design Consultation with  at 140 Quail Valley Drive Bandera Texas 78003",
       "startTime": "2026-04-29T13:30:00-05:00",
@@ -106,6 +205,17 @@
       "id": "cRE7RLWy3fHee61PaYdB",
       "title": "Remodel appt between Jayson Masters and Ben Cripps",
       "startTime": "2026-04-29T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "KTRBxxVfgx3GRK1OY79p",
+      "title": "First appt between Joe Williams and Angela Young",
+      "startTime": "2026-04-28T19:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
@@ -194,6 +304,17 @@
       "id": "AXwi98cfxGraYtJ0l8tG",
       "title": "Appt w Kar Hdz",
       "startTime": "2026-04-27T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "fhCIVRwVPiWfgJEb4NHZ",
+      "title": "Phone Appt w Hector Garcia",
+      "startTime": "2026-04-27T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "human",
@@ -2191,72 +2312,6 @@
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
       "userId": null
-    },
-    {
-      "id": "oxu2aAX6hu8QdRdjDyki",
-      "title": " Tara Garner Design Consultation with  at 236 Tonkawa Ridge Hutto Texas 78634",
-      "startTime": "2026-03-30T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "UqMarukQlzPdIZ1fHYWh",
-      "title": "Felice Webb Design Consultation with  at 320 Mountain Echo San Antonio TX 78260",
-      "startTime": "2026-03-30T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "LkKyw0rEguRr4QH4beZw",
-      "title": "First appt between Troy Johnson and Johnie Singleton",
-      "startTime": "2026-03-30T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "h8TTTVbcZqpK9xxaazGi",
-      "title": "First appt between Cody Gilcrease and Franklynne Alexander",
-      "startTime": "2026-03-30T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "01nn7Xy31DL7isbre1W6",
-      "title": "Follow up",
-      "startTime": "2026-03-30T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "WHVupwBKnC3UDN0bT1Lg",
-      "title": "First appt between Aaron Dumas and Kaitlyn Sanderson",
-      "startTime": "2026-03-30T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
