@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-04-30T08:26:14.241390+00:00",
-    "startDate": "2026-03-31T08:26:13.355445+00:00",
-    "endDate": "2026-04-30T08:26:13.355445+00:00",
+    "generatedAt": "2026-05-01T08:16:13.265430+00:00",
+    "startDate": "2026-04-01T08:16:12.502921+00:00",
+    "endDate": "2026-05-01T08:16:12.502921+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 208,
-    "human": 144,
-    "auto": 12,
-    "selfBooked": 52,
+    "total": 204,
+    "human": 143,
+    "auto": 11,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 69,
-    "autoPct": 6,
-    "notHumanPct": 31
+    "humanPct": 70,
+    "autoPct": 5,
+    "notHumanPct": 30
   },
   "sourceCounts": {
-    "booking_widget": 52,
-    "opportunity_page": 2,
-    "contactdetails_page": 130,
-    "conversations_ai": 8,
+    "contactdetails_page": 131,
+    "conversations_ai": 7,
+    "booking_widget": 50,
     "third_party": 4,
     "calendar_page": 6,
-    "mobile_app": 6
+    "opportunity_page": 1,
+    "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1777698000000_82800",
+      "title": "Block",
+      "startTime": "2026-05-02T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "Oi3Hnm5jUfWTS5cybN1q",
+      "title": "First appt between Aaron Dumas and Herbert Hardaway",
+      "startTime": "2026-05-01T18:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "ss9RfpRBUp4qFsK9dOZF",
+      "title": "First appt between Aaron Dumas and Diego Bejerano Perez",
+      "startTime": "2026-05-01T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "1kInO9G77aKoCFOah5fh",
+      "title": "Appt w Brit Britton",
+      "startTime": "2026-05-01T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "pyfPIW1StC69mD0211NK",
+      "title": "Appt w Cortney Miranda",
+      "startTime": "2026-05-01T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "kLy0tMqXuLyNjIBvzhCl",
+      "title": "First appt between Joe Williams and Nick Kennedy",
+      "startTime": "2026-05-01T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "wlIcmtegjwEO7kaxUgNi",
+      "title": " Luis Diaz Design Consultation with  at 8327 Corinth Street Houston Texas 77051",
+      "startTime": "2026-05-01T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "PkHNlewhtlKcMm8sVrE5",
       "title": "Appt w Nuria Contreras",
@@ -81,6 +158,17 @@
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
+      "id": "4UDjYjPZJtyJLRt1VMUF",
+      "title": "First phone appt between Thomas Martin and Mike Maynard",
+      "startTime": "2026-04-30T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
       "id": "ojXgQ9cYJhEV3Kq3Qoj4",
       "title": " Falon Dill Design Consultation with  at 1001 Spaniel Hl Rd Georgetown Texas 78633",
       "startTime": "2026-04-30T09:30:00-05:00",
@@ -96,7 +184,7 @@
       "title": "First appt between Lenard West and Brian Nachlas",
       "startTime": "2026-04-30T09:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -112,17 +200,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "S3bG5dWVEpH4eyETdvJq",
-      "title": "Appt w John Rechtien",
-      "startTime": "2026-04-29T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "9EoTgTkUJHfGB4MdAweX",
@@ -2190,127 +2267,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "G6vSCkAx3e2faV7eeEJC",
-      "title": "2nd with Edison Valderrama ",
-      "startTime": "2026-03-31T17:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "kx9CGdahjvkR4ltkowlL",
-      "title": "First appt between Joe Williams and Courtney Davis",
-      "startTime": "2026-03-31T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "pLENs2zHCWsSmKti1R5A",
-      "title": " Andy Vaca Design Consultation with  at 358 Cathedral Mountain Drive Austin TX 78620",
-      "startTime": "2026-03-31T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "GNybyrfee49M7PQXNsiq",
-      "title": "Elena Barrera Design Consultation with  at 8223 Heritage Park Drive San Antonio Texas 78240",
-      "startTime": "2026-03-31T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "OKLxW0ptkQEunzLqol5q",
-      "title": "Sashia Diamond Design Consultation with  at 769 Lime Rock Canyon Lake TX 78133",
-      "startTime": "2026-03-31T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "ifkTa3eh21voMsmyoWeK",
-      "title": "First appt between Aaron Dumas and James Antoniolli",
-      "startTime": "2026-03-31T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "twCgeoeVuJo1q7qBtZwh",
-      "title": "Design Presentation w/ Mark and Kalee",
-      "startTime": "2026-03-31T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "opportunity_page",
-      "sourceLabel": "CRM page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "JgVlJEJaSp1CCZ3JkvcX",
-      "title": " Marshaun Dotson Design Consultation with  at 579 Rubber Tree Way Buda Texas 78610",
-      "startTime": "2026-03-31T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "a4WfW7jVMHTryk22uOae",
-      "title": " Jennifer Wright Design Consultation with  at 2505 Langley Ct League City Texas 77573",
-      "startTime": "2026-03-31T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "KKbLlWck7O34F45kgBVv",
-      "title": " Priscilla Lon Design Consultation with  at 13209 4 1/2 Street Santa Fe Texas 77510",
-      "startTime": "2026-03-31T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "tRKqyPZQmPl15rHQwHcl",
-      "title": " Rustam Must Design Consultation with  at Houston TX 77006",
-      "startTime": "2026-03-31T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
       "userId": null
     }
   ]
