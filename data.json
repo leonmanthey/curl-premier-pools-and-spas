@@ -1,30 +1,52 @@
 {
   "meta": {
-    "generatedAt": "2026-05-01T08:16:13.265430+00:00",
-    "startDate": "2026-04-01T08:16:12.502921+00:00",
-    "endDate": "2026-05-01T08:16:12.502921+00:00",
+    "generatedAt": "2026-05-02T07:49:12.734507+00:00",
+    "startDate": "2026-04-02T07:49:12.124919+00:00",
+    "endDate": "2026-05-02T07:49:12.124919+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 204,
-    "human": 143,
-    "auto": 11,
-    "selfBooked": 50,
+    "total": 199,
+    "human": 141,
+    "auto": 10,
+    "selfBooked": 48,
     "other": 0,
-    "humanPct": 70,
+    "humanPct": 71,
     "autoPct": 5,
-    "notHumanPct": 30
+    "notHumanPct": 29
   },
   "sourceCounts": {
-    "contactdetails_page": 131,
-    "conversations_ai": 7,
-    "booking_widget": 50,
+    "contactdetails_page": 129,
+    "booking_widget": 48,
     "third_party": 4,
+    "conversations_ai": 6,
     "calendar_page": 6,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "Y50SxorO4ymMmDudAcst",
+      "title": " Todd Carson Design Consultation with  at 2137 Llerena Lane League City TX 77573",
+      "startTime": "2026-05-02T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "v0WSHzYs2JirdYQkx2jP"
+    },
+    {
+      "id": "ImZrZYeZi3qzNLvLhiqN",
+      "title": "First appt between Thomas Martin and Patrick Dennis",
+      "startTime": "2026-05-02T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1777698000000_82800",
       "title": "Block",
@@ -48,6 +70,17 @@
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
     },
     {
+      "id": "ATpUB0E2k1wajRuebs1W",
+      "title": "Spanish Phone Appt w Walter Arballes",
+      "startTime": "2026-05-01T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
       "id": "ss9RfpRBUp4qFsK9dOZF",
       "title": "First appt between Aaron Dumas and Diego Bejerano Perez",
       "startTime": "2026-05-01T16:00:00-05:00",
@@ -63,7 +96,7 @@
       "title": "Appt w Brit Britton",
       "startTime": "2026-05-01T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -74,27 +107,16 @@
       "title": "Appt w Cortney Miranda",
       "startTime": "2026-05-01T15:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "kLy0tMqXuLyNjIBvzhCl",
-      "title": "First appt between Joe Williams and Nick Kennedy",
-      "startTime": "2026-05-01T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
       "id": "wlIcmtegjwEO7kaxUgNi",
-      "title": " Luis Diaz Design Consultation with  at 8327 Corinth Street Houston Texas 77051",
-      "startTime": "2026-05-01T09:00:00-05:00",
+      "title": " Luis Diaz Phone Call  at 8327 Corinth Street Houston Texas 77051",
+      "startTime": "2026-05-01T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "self",
@@ -2187,83 +2209,6 @@
       "startTime": "2026-04-02T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Vsoa0skYTAyWx8bdPJHX",
-      "title": "First appt between Cody Gilcrease and Vivian Guzman",
-      "startTime": "2026-04-01T17:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "ZglzeTouCHHPowWvyidV",
-      "title": "First appt between Daniel Falcon and Stacy Walters",
-      "startTime": "2026-04-01T17:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "8mFYrVJkPSW5Wlm6ttKV",
-      "title": "First appt between Jayson Masters and Raul Aguirre",
-      "startTime": "2026-04-01T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "d3g3spoi2xWqRpHfoC6t",
-      "title": " Moon Valenzuela Design Consultation with  at 617 promise land ct Leander Leander TX 78641",
-      "startTime": "2026-04-01T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "iKxjM49Kwy4xRBkSPyDY",
-      "title": "First appt between Cody Gilcrease and Paul Chalmers",
-      "startTime": "2026-04-01T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "qnT0vox2koB5eOXXtp25",
-      "title": "David Garcia Design Consultation with  at 2423 Cove Hill Schertz Texas 78154",
-      "startTime": "2026-04-01T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "CGu8j5f65zN6teS9oXOk",
-      "title": "Donnie Soto Design Consultation with  at 5935 Larkspur Valley San Antonio Texas 78218",
-      "startTime": "2026-04-01T09:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
