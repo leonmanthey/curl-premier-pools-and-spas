@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-05-02T07:49:12.734507+00:00",
-    "startDate": "2026-04-02T07:49:12.124919+00:00",
-    "endDate": "2026-05-02T07:49:12.124919+00:00",
+    "generatedAt": "2026-05-03T08:04:30.533237+00:00",
+    "startDate": "2026-04-03T08:04:29.809423+00:00",
+    "endDate": "2026-05-03T08:04:29.809423+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 199,
-    "human": 141,
+    "total": 192,
+    "human": 135,
     "auto": 10,
-    "selfBooked": 48,
+    "selfBooked": 47,
     "other": 0,
-    "humanPct": 71,
+    "humanPct": 70,
     "autoPct": 5,
-    "notHumanPct": 29
+    "notHumanPct": 30
   },
   "sourceCounts": {
-    "contactdetails_page": 129,
-    "booking_widget": 48,
+    "contactdetails_page": 123,
+    "booking_widget": 47,
     "third_party": 4,
     "conversations_ai": 6,
     "calendar_page": 6,
@@ -30,7 +30,7 @@
       "title": " Todd Carson Design Consultation with  at 2137 Llerena Lane League City TX 77573",
       "startTime": "2026-05-02T17:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2136,83 +2136,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "NUakEbOwzL7EnCfdm8pm",
-      "title": "First appt between Lenard West and Ron McGaugh",
-      "startTime": "2026-04-02T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "OxaYCmtZo8J3Wv4qqZZ2",
-      "title": " Leslie Bird Design Consultation with  at 10518 Eagle Rock Ct La Porte Texas 77571",
-      "startTime": "2026-04-02T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "58I7vZX49OK9YPxqeiKP",
-      "title": "Steven & Xochitl Design Consultation ",
-      "startTime": "2026-04-02T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "0cwCadS7kNnzTstrwhRD",
-      "title": "First appt between Jayson Masters and Chero Morgan",
-      "startTime": "2026-04-02T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "r8AQPSBeBuNgPcqaJfdg",
-      "title": "First appt between Lenard West and Fernando Cardoso",
-      "startTime": "2026-04-02T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "FmoesDhOUj5Sx8EecZWu",
-      "title": "Appt w JoAnne Flores",
-      "startTime": "2026-04-02T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "RvW5i8UQxgaJDTDU7LJs",
-      "title": " Tanner Jones Design Consultation with  at 2633 Matterhorn Mist Drive Arcola Texas 77583",
-      "startTime": "2026-04-02T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
