@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T08:04:30.533237+00:00",
-    "startDate": "2026-04-03T08:04:29.809423+00:00",
-    "endDate": "2026-05-03T08:04:29.809423+00:00",
+    "generatedAt": "2026-05-04T08:33:49.298759+00:00",
+    "startDate": "2026-04-04T08:33:48.731360+00:00",
+    "endDate": "2026-05-04T08:33:48.731360+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 192,
-    "human": 135,
+    "total": 189,
+    "human": 129,
     "auto": 10,
-    "selfBooked": 47,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 70,
+    "humanPct": 68,
     "autoPct": 5,
-    "notHumanPct": 30
+    "notHumanPct": 32
   },
   "sourceCounts": {
-    "contactdetails_page": 123,
-    "booking_widget": 47,
-    "third_party": 4,
-    "conversations_ai": 6,
+    "booking_widget": 50,
+    "contactdetails_page": 117,
+    "third_party": 3,
+    "conversations_ai": 7,
     "calendar_page": 6,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "CbMyyZXIaNIykEBvzwWm",
+      "title": " Mika Negron Design Consultation with  at 4208 Big Brooke Dr. Salado Texas 76571",
+      "startTime": "2026-05-04T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "WDXHHlWZRfD40TXAlN2V",
+      "title": " Gilbert Delacruz Design Consultation with  at 245 rubbertree way, buda tx 78610 Buda, TX TX 78610",
+      "startTime": "2026-05-04T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "5nK0XAn5XuPcGHIy5Rh0",
+      "title": "Vanessa Thomas Design Consultation with  at 12919 Spur Hollow Schertz Texas 78154",
+      "startTime": "2026-05-04T15:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "kLy0tMqXuLyNjIBvzhCl",
+      "title": "First appt between Joe Williams and Nick Kennedy",
+      "startTime": "2026-05-04T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "7sP8NB3L1drtNjF5u5KJ",
+      "title": " Siagny Ortiz Design Consultation with  at 638 Lotus Flower Wy Rosenberg Texas 77471",
+      "startTime": "2026-05-04T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ZOzoI2lURav0b0J6OgJV",
+      "title": " Selena Akers Design Consultation with  at 2020 Thunder Ridge Way Houston Texas 77089",
+      "startTime": "2026-05-04T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1lyRIA4fCHyn6Euuz7Pe",
+      "title": "First appt between Troy Johnson and Ethan Vernon",
+      "startTime": "2026-05-04T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "Y50SxorO4ymMmDudAcst",
       "title": " Todd Carson Design Consultation with  at 2137 Llerena Lane League City TX 77573",
@@ -2026,116 +2103,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "MaQFGobxuF38N7zuPrAP",
-      "title": "Appt w Walter Arballes",
-      "startTime": "2026-04-03T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "XxSpo8bN8XFyXCbRJs3x",
-      "title": "First appt between TJ Martin and Sharonda Harrell",
-      "startTime": "2026-04-03T16:15:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "khgUMw86dhfvtv2WDcuN",
-      "title": "HECTOR LEAL Design Consultation with  at 8706 Veranda Court San Antonio TX 78250",
-      "startTime": "2026-04-03T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "y0Ut3fz51sXrzEgxeOkZ",
-      "title": " Janena Norris Design Consultation with  at 15115 Arlington Park Avenue Mont Belvieu Texas 77523",
-      "startTime": "2026-04-03T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "1PkmAzqKWcCXKzT7nfwN",
-      "title": " Raiza Erika Espinoza-Rubio Design Consultation with  at Belton TX 76513",
-      "startTime": "2026-04-03T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "j6nGDv1QmbHIMZvJiVqm",
-      "title": "Appt w Michael Smith",
-      "startTime": "2026-04-03T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "GQKssattKK2UKC3VUKdf",
-      "title": "First appt between Aaron Dumas and Rachel Perkins",
-      "startTime": "2026-04-03T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "9iIaTU1qhG24AtMWKWih",
-      "title": "First appt between Cody Gilcrease Andre Tobon",
-      "startTime": "2026-04-03T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "mMa2Zo76iyM9FuWoIFt2",
-      "title": "Appt w Rocelyn Alandy",
-      "startTime": "2026-04-03T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "sr7XlwnweLUm9BxdypgC",
-      "title": "First appt between Lenard West and Bear Epps",
-      "startTime": "2026-04-03T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
