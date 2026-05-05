@@ -1,34 +1,67 @@
 {
   "meta": {
-    "generatedAt": "2026-05-04T08:33:49.298759+00:00",
-    "startDate": "2026-04-04T08:33:48.731360+00:00",
-    "endDate": "2026-05-04T08:33:48.731360+00:00",
+    "generatedAt": "2026-05-05T08:14:52.823319+00:00",
+    "startDate": "2026-04-05T08:14:52.128541+00:00",
+    "endDate": "2026-05-05T08:14:52.128541+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 189,
-    "human": 129,
+    "total": 185,
+    "human": 127,
     "auto": 10,
-    "selfBooked": 50,
+    "selfBooked": 48,
     "other": 0,
-    "humanPct": 68,
+    "humanPct": 69,
     "autoPct": 5,
-    "notHumanPct": 32
+    "notHumanPct": 31
   },
   "sourceCounts": {
-    "booking_widget": 50,
-    "contactdetails_page": 117,
+    "contactdetails_page": 116,
+    "booking_widget": 48,
     "third_party": 3,
     "conversations_ai": 7,
-    "calendar_page": 6,
+    "calendar_page": 5,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
     {
+      "id": "6vjZuUpYtZqHOhQsjERN",
+      "title": "Fabian Gonzalez Remodel",
+      "startTime": "2026-05-05T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "9PZJEq4IaRID0KVTUvgl",
+      "title": "First remodel appt between Joe Williams and Carrington Taylor",
+      "startTime": "2026-05-05T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "5ltOpzED2EtaVpsl3VZ1",
+      "title": "Phone Appt w Danlys Racet per customer request",
+      "startTime": "2026-05-05T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
       "id": "CbMyyZXIaNIykEBvzwWm",
       "title": " Mika Negron Design Consultation with  at 4208 Big Brooke Dr. Salado Texas 76571",
-      "startTime": "2026-05-04T16:30:00-05:00",
+      "startTime": "2026-05-04T18:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
@@ -45,17 +78,6 @@
       "type": "auto",
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "5nK0XAn5XuPcGHIy5Rh0",
-      "title": "Vanessa Thomas Design Consultation with  at 12919 Spur Hollow Schertz Texas 78154",
-      "startTime": "2026-05-04T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     },
     {
@@ -2037,72 +2059,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "GFSI7A9DfsgACQIKKGru",
-      "title": "First appt between Lenard West and Keajah Bermudez",
-      "startTime": "2026-04-04T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "NmWVFL0Mqhb1wJw8HlMi",
-      "title": "John Jackson Design Consultation with  at 512 Landmark Bluff Cibolo Texas 78108",
-      "startTime": "2026-04-04T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "CFUI36UTMsPnLxZf5QAW",
-      "title": " Colton Braun Design Consultation with  at 196 Mount Locke Road Dripping Springs Texas 78620",
-      "startTime": "2026-04-04T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "WH6yXgfVRCkKBf7HDfL9",
-      "title": "Remodel Appt w Jewell Jordan",
-      "startTime": "2026-04-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "pygVTMH8QEtFZLs4LTSD",
-      "title": "Appt w Ashley Weeks",
-      "startTime": "2026-04-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1775278800000_82800",
-      "title": "Block",
-      "startTime": "2026-04-04T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
