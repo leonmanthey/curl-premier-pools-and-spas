@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-05-05T08:14:52.823319+00:00",
-    "startDate": "2026-04-05T08:14:52.128541+00:00",
-    "endDate": "2026-05-05T08:14:52.128541+00:00",
+    "generatedAt": "2026-05-07T08:38:37.124683+00:00",
+    "startDate": "2026-04-07T08:38:36.247759+00:00",
+    "endDate": "2026-05-07T08:38:36.247759+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 185,
-    "human": 127,
+    "human": 128,
     "auto": 10,
-    "selfBooked": 48,
+    "selfBooked": 47,
     "other": 0,
     "humanPct": 69,
     "autoPct": 5,
@@ -17,14 +17,102 @@
   },
   "sourceCounts": {
     "contactdetails_page": 116,
-    "booking_widget": 48,
+    "booking_widget": 47,
     "third_party": 3,
     "conversations_ai": 7,
-    "calendar_page": 5,
+    "calendar_page": 6,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "s4xPcYlyQ3HywPyBQj4p",
+      "title": " John Ennis Design Consultation with  at 1307 Woodland Drive El Lago Texas 77586",
+      "startTime": "2026-05-07T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uJnaPCJAH0VAKLwAtuSo",
+      "title": "Appt w Scout Jacobs",
+      "startTime": "2026-05-07T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "PI2HZ8bYfGfOkA3P7r7H",
+      "title": " Octavio Morales Design Consultation with  at Houston TX 77502",
+      "startTime": "2026-05-07T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "aY747fE7XI5Re3ji0syA",
+      "title": " Robert Butler Design Consultation with  at 13217 Pecan Hill Cove manor tx 78653 Manor Texas 78653",
+      "startTime": "2026-05-07T11:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "MPTvP6J2LU2wDUXfujc6",
+      "title": "Spanish Appt w Eduardo Garza",
+      "startTime": "2026-05-06T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "dZoLpsOIE0NwFtbWJaA0",
+      "title": "First appt between Thomas Martin and Johanna Flas",
+      "startTime": "2026-05-06T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "j6cdxHmnTiBJVUOdtRni",
+      "title": "First appt between Lenard West and Tyese Harris",
+      "startTime": "2026-05-06T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "cDKOypYcVZ1QmkwdN8Ku",
+      "title": "First remodel appt between Jayson Masters and Woomera Abernathy",
+      "startTime": "2026-05-06T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
     {
       "id": "6vjZuUpYtZqHOhQsjERN",
       "title": "Fabian Gonzalez Remodel",
@@ -1971,94 +2059,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "N9qUmGgr8vpEHPzXWQTi",
-      "title": "First appt between Aaron Dumas and Linsey Jennings",
-      "startTime": "2026-04-06T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "y2uPc3cQf0Vl1Ula7zJt",
-      "title": "First appt between Lenard West and Christyan Lepiz",
-      "startTime": "2026-04-06T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "IHJttLxinw42VUpiXqsD",
-      "title": "Tony Capps Design Consultation with  at 714 14th St Bandera Texas 78003",
-      "startTime": "2026-04-06T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "O238JnjseQzPdJaPnQP2",
-      "title": "Meeting with Aaron Dumas Premier Pools ",
-      "startTime": "2026-04-06T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "3qS9HZdqX4mZrMo4JDf8",
-      "title": "Sara Villa Design Consultation with  at 3141 Ruby Canyon Bulverde Texas NULL",
-      "startTime": "2026-04-06T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "P4bD56XPRgFfqXIty3DQ",
-      "title": "First appt between Jayson Masters and Ken Evans",
-      "startTime": "2026-04-06T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "qNKznAB85UBcvawx3gNw",
-      "title": "First appt between Troy Johnson and Robert Brazier",
-      "startTime": "2026-04-06T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "J3WDY3SmjoAGZ1xilKp0",
-      "title": " Anita Bates Design Consultation with  at 20842 Beech Tree Drive Katy Texas 77449",
-      "startTime": "2026-04-06T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
