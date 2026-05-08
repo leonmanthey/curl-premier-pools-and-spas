@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-05-07T08:38:37.124683+00:00",
-    "startDate": "2026-04-07T08:38:36.247759+00:00",
-    "endDate": "2026-05-07T08:38:36.247759+00:00",
+    "generatedAt": "2026-05-08T07:45:57.841850+00:00",
+    "startDate": "2026-04-08T07:45:56.935850+00:00",
+    "endDate": "2026-05-08T07:45:56.935850+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 185,
-    "human": 128,
+    "total": 184,
+    "human": 126,
     "auto": 10,
-    "selfBooked": 47,
+    "selfBooked": 48,
     "other": 0,
-    "humanPct": 69,
+    "humanPct": 68,
     "autoPct": 5,
-    "notHumanPct": 31
+    "notHumanPct": 32
   },
   "sourceCounts": {
-    "contactdetails_page": 116,
-    "booking_widget": 47,
+    "contactdetails_page": 113,
     "third_party": 3,
     "conversations_ai": 7,
-    "calendar_page": 6,
+    "booking_widget": 48,
+    "calendar_page": 7,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1778302800000_82800",
+      "title": "Block",
+      "startTime": "2026-05-09T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "0HuNXNXl5ZgqyY0NK0PK",
+      "title": "Design Consultant with Troy",
+      "startTime": "2026-05-08T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "Lh7TaYcX1RfYZR03LePd",
+      "title": " Sarah Hatch Design Consultation with  at 13100 Turkey Roost Road Manchaca Texas 78652",
+      "startTime": "2026-05-08T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "RivTIX4gijoPMjHbPhNp",
+      "title": " William ELLIOTT Design Consultation with  at 12111 Perthshire Road Houston Texas 77024",
+      "startTime": "2026-05-08T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "0dmjO9C3fT6UL4PFpKYJ",
+      "title": "Phone Appt w Judith Gould",
+      "startTime": "2026-05-08T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "UQv0pJyz6lApMZL4pPsl",
+      "title": "First appt between Thomas Martin and Dinesh Reddy Rachala",
+      "startTime": "2026-05-08T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "4cLIyo32sw1hPKMC0yHc",
+      "title": " Bethany Magalhaes Design Consultation with  at 5210 Kinglet St Houston Texas 77035",
+      "startTime": "2026-05-08T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "s4xPcYlyQ3HywPyBQj4p",
       "title": " John Ennis Design Consultation with  at 1307 Woodland Drive El Lago Texas 77586",
@@ -41,6 +118,17 @@
       "title": "Appt w Scout Jacobs",
       "startTime": "2026-05-07T17:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "showed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "T8wNRnRlFD6H4ifUTHc5",
+      "title": "Remodel Appt w Hollee Lavi",
+      "startTime": "2026-05-07T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
@@ -52,7 +140,7 @@
       "title": " Octavio Morales Design Consultation with  at Houston TX 77502",
       "startTime": "2026-05-07T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
@@ -1960,105 +2048,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "dPRP4h5o2n7xV6jwOAkE",
-      "title": "Phone Appt w Elaine Ramirez",
-      "startTime": "2026-04-07T19:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "yBf8C8byot6FOEyq8T9m",
-      "title": " Michael Rogers Design Consultation with  at 194 Lost Tree Drive Buda Texas 78610",
-      "startTime": "2026-04-07T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "qN2dYwWy5xcJHOfWPhKy",
-      "title": "Luis Torres Design Consultation with  at 14018 Samuel Blair San Antonio Texas 78253",
-      "startTime": "2026-04-07T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "An6t6ZkbFDfL4rKN7fo5",
-      "title": "First appt between Aaron Dumas and Leighanna Webb",
-      "startTime": "2026-04-07T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "ZRVleWNec4FFC4AqijbQ",
-      "title": "First appt between Troy Johnson and Abrahan Garcia",
-      "startTime": "2026-04-07T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "blfbqK0Kg8C2KQtMX8T7",
-      "title": "First appt between Joe Williams and Nayara Vasconcelos Etomba",
-      "startTime": "2026-04-07T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "h3iuJ7MS2gnLm0zzrBaZ",
-      "title": "First appt between Cody Gilcrease and Michael Seelhammer",
-      "startTime": "2026-04-07T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "d3Iu8BLc4gXdDyeSzgWx",
-      "title": "Gretchen Martinez ",
-      "startTime": "2026-04-07T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "dsWbIP0EUHTnFsUllBtn",
-      "title": "Appt w Kisha Rogers",
-      "startTime": "2026-04-07T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
