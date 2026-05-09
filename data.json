@@ -1,30 +1,41 @@
 {
   "meta": {
-    "generatedAt": "2026-05-08T07:45:57.841850+00:00",
-    "startDate": "2026-04-08T07:45:56.935850+00:00",
-    "endDate": "2026-05-08T07:45:56.935850+00:00",
+    "generatedAt": "2026-05-09T08:00:31.445937+00:00",
+    "startDate": "2026-04-09T08:00:30.568803+00:00",
+    "endDate": "2026-05-09T08:00:30.568803+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 184,
-    "human": 126,
+    "total": 177,
+    "human": 120,
     "auto": 10,
-    "selfBooked": 48,
+    "selfBooked": 47,
     "other": 0,
     "humanPct": 68,
-    "autoPct": 5,
+    "autoPct": 6,
     "notHumanPct": 32
   },
   "sourceCounts": {
-    "contactdetails_page": 113,
     "third_party": 3,
+    "contactdetails_page": 107,
     "conversations_ai": 7,
-    "booking_widget": 48,
+    "booking_widget": 47,
     "calendar_page": 7,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "BMcluGLUKHkbUGRMarV1",
+      "title": " Adam Keen Design Consultation with  at 241 Yaupon Drive Brazoria Texas 77422",
+      "startTime": "2026-05-09T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1778302800000_82800",
       "title": "Block",
@@ -81,22 +92,11 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "UQv0pJyz6lApMZL4pPsl",
-      "title": "First appt between Thomas Martin and Dinesh Reddy Rachala",
-      "startTime": "2026-05-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
       "id": "4cLIyo32sw1hPKMC0yHc",
       "title": " Bethany Magalhaes Design Consultation with  at 5210 Kinglet St Houston Texas 77035",
       "startTime": "2026-05-08T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -1971,83 +1971,6 @@
       "source": "third_party",
       "sourceLabel": "Third party",
       "userId": null
-    },
-    {
-      "id": "Af1YueRv8n5AQJPSgP8X",
-      "title": "Roy Guerrero Design Consultation with  at 1 Tanglewood Drive Uvalde Texas 78801",
-      "startTime": "2026-04-08T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Epo7oQnBZs0zg7uiyFUQ",
-      "title": "First appt between Lenard West and Claire Tsai",
-      "startTime": "2026-04-08T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "QtOpaArqa97VwMptRf2j",
-      "title": "Appt w Charles Ewing Jr",
-      "startTime": "2026-04-08T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "H5rIO5VYmlT2Dz2Bm8xn",
-      "title": "First appt between Thomas Martin and Sara Honey",
-      "startTime": "2026-04-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "TSQ3dmSEid5s1hA0c77q",
-      "title": "First appt between Aaron Dumas and Shelly Lozano",
-      "startTime": "2026-04-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "ivfYbiLURHre6Mls8LrH",
-      "title": "Michael O\u2019Dell Design Consultation with  at 244 Post Oak Drive Bandera Texas 78003",
-      "startTime": "2026-04-08T08:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "JfMJJfd7NT9pZhW76GWA",
-      "title": "Susan Jackson",
-      "startTime": "2026-04-08T07:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
     }
   ]
 }
