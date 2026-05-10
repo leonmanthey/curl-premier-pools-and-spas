@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-05-09T08:00:31.445937+00:00",
-    "startDate": "2026-04-09T08:00:30.568803+00:00",
-    "endDate": "2026-05-09T08:00:30.568803+00:00",
+    "generatedAt": "2026-05-10T08:10:49.247215+00:00",
+    "startDate": "2026-04-10T08:10:48.488977+00:00",
+    "endDate": "2026-05-10T08:10:48.488977+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 177,
-    "human": 120,
-    "auto": 10,
-    "selfBooked": 47,
+    "total": 171,
+    "human": 117,
+    "auto": 8,
+    "selfBooked": 46,
     "other": 0,
     "humanPct": 68,
-    "autoPct": 6,
+    "autoPct": 5,
     "notHumanPct": 32
   },
   "sourceCounts": {
-    "third_party": 3,
-    "contactdetails_page": 107,
-    "conversations_ai": 7,
-    "booking_widget": 47,
+    "booking_widget": 46,
+    "contactdetails_page": 104,
     "calendar_page": 7,
+    "conversations_ai": 6,
+    "third_party": 2,
     "opportunity_page": 1,
     "mobile_app": 5
   },
@@ -1904,72 +1904,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "YvgKI5JEPOokwe95kvN6",
-      "title": " Lauren Wilson Design Consultation with  at 3302 Hacienda Drive Dickinson Texas 77539",
-      "startTime": "2026-04-09T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "UihA44NfI3ddmtKkob5m",
-      "title": "First appt between Aaron Dumas and Kevin & Crystal Nyman",
-      "startTime": "2026-04-09T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "ib5QasNo8vWi8iElsNZQ",
-      "title": "First remodel appt between Brian Snoddy and Sarah DiCicco",
-      "startTime": "2026-04-09T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "SJfsIiSiKRKbCAtJurgY",
-      "title": "First appt between Joe Williams and Katherine Wofford",
-      "startTime": "2026-04-09T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "gZHSRgiLJTk1qvf6CkE8",
-      "title": "Anita Bates",
-      "startTime": "2026-04-09T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "HdYt42109owUKzfSsMhp",
-      "title": " Larry De La Cruz Design Consultation with  at 19705 Wirrall Road, Pflugerville, Texas 78660 Pflugerville TX 78660",
-      "startTime": "2026-04-09T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
       "userId": null
     }
   ]
