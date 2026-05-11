@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-05-10T08:10:49.247215+00:00",
-    "startDate": "2026-04-10T08:10:48.488977+00:00",
-    "endDate": "2026-05-10T08:10:48.488977+00:00",
+    "generatedAt": "2026-05-11T09:45:25.787254+00:00",
+    "startDate": "2026-04-11T09:45:25.003174+00:00",
+    "endDate": "2026-05-11T09:45:25.003174+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 171,
+    "total": 172,
     "human": 117,
-    "auto": 8,
+    "auto": 9,
     "selfBooked": 46,
     "other": 0,
     "humanPct": 68,
@@ -16,15 +16,125 @@
     "notHumanPct": 32
   },
   "sourceCounts": {
+    "contactdetails_page": 103,
+    "calendar_page": 8,
     "booking_widget": 46,
-    "contactdetails_page": 104,
-    "calendar_page": 7,
     "conversations_ai": 6,
-    "third_party": 2,
+    "third_party": 3,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "TSaxcJvHDx4Lv3jXIE2P",
+      "title": "Appt w Violeta Gonzalez",
+      "startTime": "2026-05-11T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "p4h5CFGpMAR0VuquCCaA",
+      "title": "Traci Poteet Design Consultation with  at 2448 Ayers Drive Seguin Texas 78155",
+      "startTime": "2026-05-11T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "HLP4KQZJEyzhAGxovH6r",
+      "title": "TEST Leon Manthey Design Consultation with  at 438 Brioux Avenue Peterborough Ontario K9J 4G7",
+      "startTime": "2026-05-11T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "hGkjZP0tIYvtAcDleFAg"
+    },
+    {
+      "id": "2AkJcSbMWNeWAqvMGgzA",
+      "title": " Marijane DeTranaltes Design Consultation with  at 5081 County Road 631 Brazoria Texas 77422",
+      "startTime": "2026-05-11T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "JVXOrTc6Gm0DyVBLPEVR",
+      "title": " JOSE FARIAS Design Consultation with  at 2819 Totley Road, Pflugerville, Texas 78660 Pflugerville Tx 78660",
+      "startTime": "2026-05-11T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "e4Rdo8OsdoWQs5EmIbIr",
+      "title": "Appt w Tracy Kadlecek",
+      "startTime": "2026-05-11T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "4cAh0UroRXkO8kxunvZ6",
+      "title": "Morgan - Layout Meeting",
+      "startTime": "2026-05-11T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "YKRyWi364rIMwNanXFpS",
+      "title": "Phone Appt w Jordan McDowell",
+      "startTime": "2026-05-11T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "vqAkya92rfigkY0Hiqjq",
+      "title": "First appt between Cody Gilcrease and Julia Garcia",
+      "startTime": "2026-05-11T11:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "1WdJGvVtYtNYwOyS0B4Q"
+    },
+    {
+      "id": "H0oSpwBDRfPhAYaK6IcY",
+      "title": " Melinda Lopez Design Consultation with  at 512 Fowzer Street Taylor Texas 76574",
+      "startTime": "2026-05-11T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "BMcluGLUKHkbUGRMarV1",
       "title": " Adam Keen Design Consultation with  at 241 Yaupon Drive Brazoria Texas 77422",
@@ -1806,105 +1916,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "5XL70raXE6S4o3pKOety",
-      "title": "First appt between Troy Johnson and Thomas Brown",
-      "startTime": "2026-04-10T16:15:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "zb0SrMsD4QoljUaavZ1x",
-      "title": "First Remodel appt between Aaron Dumas and Sylvia White",
-      "startTime": "2026-04-10T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "RFl73whElUfSj89YRrz2",
-      "title": " Max Rogowski Design Consultation with  at 7902 Tranquil Glade Trl Austin Texas 78744",
-      "startTime": "2026-04-10T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "gwnLY0KhznQfcbxHidF5",
-      "title": " Taylor Barger Design Consultation with  at 3011 Myrtle Beach Lane League City Texas 77573",
-      "startTime": "2026-04-10T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "t9pPbLy5vk7h3phMU5Uh",
-      "title": " Scott Wilkins Design Consultation with  at 719 woodbinde League City TX 77573",
-      "startTime": "2026-04-10T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "fyYQekAXWb0nxeawGCLs",
-      "title": "First appt between TJ Martin and Giovanni Gallegos",
-      "startTime": "2026-04-10T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "zlHs6LGCh6AwvfoIUOZA",
-      "title": "First appt between Joe Williams and Greg Duncan",
-      "startTime": "2026-04-10T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "zeX1cQfFpMCSUbxGTBZx",
-      "title": "Appt w Todd Carson",
-      "startTime": "2026-04-10T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "iYKo6UmRfcBSWSVdSzzL",
-      "title": " Jessica Kirbie Design Consultation with  at 497 County Road 329 Granger Texas 76530",
-      "startTime": "2026-04-10T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
