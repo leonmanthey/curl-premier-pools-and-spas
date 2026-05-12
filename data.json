@@ -1,30 +1,151 @@
 {
   "meta": {
-    "generatedAt": "2026-05-11T09:45:25.787254+00:00",
-    "startDate": "2026-04-11T09:45:25.003174+00:00",
-    "endDate": "2026-05-11T09:45:25.003174+00:00",
+    "generatedAt": "2026-05-12T08:44:20.678728+00:00",
+    "startDate": "2026-04-12T08:44:20.020968+00:00",
+    "endDate": "2026-05-12T08:44:20.020968+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 172,
-    "human": 117,
-    "auto": 9,
-    "selfBooked": 46,
+    "total": 173,
+    "human": 111,
+    "auto": 12,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 68,
-    "autoPct": 5,
-    "notHumanPct": 32
+    "humanPct": 64,
+    "autoPct": 7,
+    "notHumanPct": 36
   },
   "sourceCounts": {
-    "contactdetails_page": 103,
-    "calendar_page": 8,
-    "booking_widget": 46,
-    "conversations_ai": 6,
-    "third_party": 3,
+    "calendar_page": 7,
+    "contactdetails_page": 98,
+    "booking_widget": 50,
+    "conversations_ai": 7,
+    "third_party": 5,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "6l6NZmnR3nPji8b5bafj",
+      "title": "Phone Appt w Armando Avila",
+      "startTime": "2026-05-12T18:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "vBBvRCnaakR88sk3M4BY",
+      "title": "Olga Tobar Design Consultation with  at Cibolo TX 78108",
+      "startTime": "2026-05-12T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "MidtsPExd97UHAWuPTB7",
+      "title": "Spanish Appt w Luis Velazquez",
+      "startTime": "2026-05-12T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "rHCTHZGig8c6RyueAhdW",
+      "title": " Ashley Sutton Design Consultation with  at 2112 Rolling Fog Drive, Saraland, Texas 77584 Saraland TX 77584",
+      "startTime": "2026-05-12T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "JLMlukWOYyyLnv0rGuoC",
+      "title": " David Arismendez Design Consultation with  at 10 Texian Trail North Angleton Texas 77515",
+      "startTime": "2026-05-12T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uRviaeqv1XU9lA5wwAwB",
+      "title": " Tom  Design Consultation with  at 7974 Arezzo Drive, Round Rock, Texas 78665 Round Rock TX 78665",
+      "startTime": "2026-05-12T13:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "jZ9VJKH94oXoQ3SFOLrM",
+      "title": "Appt w Aniruddha Dutta",
+      "startTime": "2026-05-12T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "IsRWWOo3kcydj4Lsw63V",
+      "title": " Christine Mangogna Design Consultation with  at 3511 Kaufman Ave Pearland Texas 77584",
+      "startTime": "2026-05-12T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "fj2QhaJShyMgSq0ZqHoo",
+      "title": " Jeremy Cole Design Consultation with  at 6607 Abilene Court Manvel Texas 77578",
+      "startTime": "2026-05-12T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "jCgGsviitWkf0PYYtgo5",
+      "title": " Tracee Watts Design Consultation with  at 53 Island Passage Galveston Texas 77554",
+      "startTime": "2026-05-12T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "S7Nhip1qv6Xee8zlEuit",
+      "title": "Phone Appt w Mario Riley",
+      "startTime": "2026-05-12T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "TSaxcJvHDx4Lv3jXIE2P",
       "title": "Appt w Violeta Gonzalez",
@@ -101,17 +222,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "YKRyWi364rIMwNanXFpS",
-      "title": "Phone Appt w Jordan McDowell",
-      "startTime": "2026-05-11T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "vqAkya92rfigkY0Hiqjq",
@@ -382,7 +492,7 @@
       "title": " Siagny Ortiz Design Consultation with  at 638 Lotus Flower Wy Rosenberg Texas 77471",
       "startTime": "2026-05-04T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -1817,105 +1927,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "TPspwc26MtqcPaP8Xf75",
-      "title": " Rich Chilleri Design Consultation with  at Georgetown TX 78633",
-      "startTime": "2026-04-11T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "rPGYSrsVjndIsD9zhvzQ",
-      "title": "Appt w Edith Bowers",
-      "startTime": "2026-04-11T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "JID7rkQHIzsQcSXUoxKa",
-      "title": "First appt between Joe Williams and Noureddine Boutella",
-      "startTime": "2026-04-11T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "IBLBBviRcnfqLCIiUE6D",
-      "title": "First appt between Cody Gilcrease and Kaleb Lopez",
-      "startTime": "2026-04-11T12:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "FjFv15Wn8jNBfWCvzHkN",
-      "title": "Appt w Jose Valdivia",
-      "startTime": "2026-04-11T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "ziu96yVGN7BSqASEP4dy",
-      "title": "First appt between Aaron Dumas and Helton Aguiar",
-      "startTime": "2026-04-11T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "9hRxSuESkrcSVynVtpsQ",
-      "title": "Ray Rodriguez Design Consultation with  at 791 Rawhide Road Seguin TX 78155",
-      "startTime": "2026-04-11T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "HqL3xpKfpEP8ohjJXxlG",
-      "title": "DK Hopwood",
-      "startTime": "2026-04-11T09:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1775883600000_82800",
-      "title": "Block",
-      "startTime": "2026-04-11T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
