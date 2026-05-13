@@ -1,30 +1,85 @@
 {
   "meta": {
-    "generatedAt": "2026-05-12T08:44:20.678728+00:00",
-    "startDate": "2026-04-12T08:44:20.020968+00:00",
-    "endDate": "2026-05-12T08:44:20.020968+00:00",
+    "generatedAt": "2026-05-13T08:48:02.949831+00:00",
+    "startDate": "2026-04-13T08:48:02.231230+00:00",
+    "endDate": "2026-05-13T08:48:02.231230+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 173,
-    "human": 111,
-    "auto": 12,
-    "selfBooked": 50,
+    "total": 177,
+    "human": 113,
+    "auto": 11,
+    "selfBooked": 53,
     "other": 0,
     "humanPct": 64,
-    "autoPct": 7,
+    "autoPct": 6,
     "notHumanPct": 36
   },
   "sourceCounts": {
     "calendar_page": 7,
-    "contactdetails_page": 98,
-    "booking_widget": 50,
-    "conversations_ai": 7,
+    "contactdetails_page": 100,
+    "booking_widget": 53,
+    "conversations_ai": 6,
     "third_party": 5,
     "opportunity_page": 1,
     "mobile_app": 5
   },
   "appointments": [
+    {
+      "id": "AXavpLEPVoDXJegYXwNl",
+      "title": " Jimmy Tomlinson Design Consultation with  at Pasadena Texas 77505",
+      "startTime": "2026-05-13T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "KPJ7ZtofAidiOi628Lpo",
+      "title": "Appt w Michael Wagner",
+      "startTime": "2026-05-13T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "gGIoF9ikw0fh91XTiIfq",
+      "title": "Appt w Alex Gonzalez",
+      "startTime": "2026-05-13T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "gpnQgVZVZE4Ethl3Wd6p",
+      "title": " Ariel Benigno Design Consultation with  at 10239 Scull Creek Drive Austin Texas 78730",
+      "startTime": "2026-05-13T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Iplvd65dE8qfUO3XARmx",
+      "title": "Emma Anderson Design Consultation with  at 7935 Andrews Pass San Antonio Texas 78254",
+      "startTime": "2026-05-13T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "6l6NZmnR3nPji8b5bafj",
       "title": "Phone Appt w Armando Avila",
@@ -37,22 +92,11 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "vBBvRCnaakR88sk3M4BY",
-      "title": "Olga Tobar Design Consultation with  at Cibolo TX 78108",
-      "startTime": "2026-05-12T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
       "id": "MidtsPExd97UHAWuPTB7",
       "title": "Spanish Appt w Luis Velazquez",
       "startTime": "2026-05-12T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
