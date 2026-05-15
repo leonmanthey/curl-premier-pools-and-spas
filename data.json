@@ -1,30 +1,96 @@
 {
   "meta": {
-    "generatedAt": "2026-05-14T08:41:08.835808+00:00",
-    "startDate": "2026-04-14T08:41:07.926506+00:00",
-    "endDate": "2026-05-14T08:41:07.926506+00:00",
+    "generatedAt": "2026-05-15T08:52:34.787326+00:00",
+    "startDate": "2026-04-15T08:52:33.938995+00:00",
+    "endDate": "2026-05-15T08:52:33.938995+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 177,
-    "human": 113,
+    "total": 174,
+    "human": 111,
     "auto": 10,
-    "selfBooked": 54,
+    "selfBooked": 53,
     "other": 0,
     "humanPct": 64,
     "autoPct": 6,
     "notHumanPct": 36
   },
   "sourceCounts": {
-    "contactdetails_page": 101,
-    "booking_widget": 54,
+    "booking_widget": 53,
     "conversations_ai": 5,
+    "contactdetails_page": 98,
     "third_party": 5,
     "opportunity_page": 1,
     "mobile_app": 5,
-    "calendar_page": 6
+    "calendar_page": 7
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1778907600000_82800",
+      "title": "Block",
+      "startTime": "2026-05-16T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "GSQ4L2aqZ7BLYR8SPQRI",
+      "title": "Appt w Lee Vu",
+      "startTime": "2026-05-15T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "W9LauNZFuOVVy4pTscys",
+      "title": "Spanish Appt w Miguel Figuera",
+      "startTime": "2026-05-15T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Gi7F5UqkRb5xNjZiafJL",
+      "title": "Appt w Henry Nguyen",
+      "startTime": "2026-05-15T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "jzfulVdgFNm4sZoiEwK4",
+      "title": " Tracey Adams Design Consultation with  at 1325 Cemetery Rd Santa Fe Texas 77517",
+      "startTime": "2026-05-15T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "17JF7WQYRFt3K5gb66J4",
+      "title": "Cristella Garcia Design Consultation with  at 7402 Fieldgate San Antonio TX 78204",
+      "startTime": "2026-05-15T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "jxyJVgyBraI0NmIu4Q5V",
       "title": " Eric Countryman Design Consultation with  at 2902 Verde Valley Drive Manvel Texas 77578",
@@ -63,7 +129,7 @@
       "title": "Theresa Satterwhite Remodel",
       "startTime": "2026-05-14T12:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -96,7 +162,7 @@
       "title": " Sarah Butcher Design Consultation with  at 3224 Finesterra Dr Dickinson Texas 77539",
       "startTime": "2026-05-14T11:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -1872,105 +1938,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "CKlVsKSRmNXyeZCfdJA1",
-      "title": " Brenda Mireles Design Consultation with  at 1914 Gianna Bella Ct Houston Texas 77089",
-      "startTime": "2026-04-14T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "0OQQ4hacN0fMNJ8LV3dJ",
-      "title": " Candace Kraus Design Consultation with  at 360 Maverick Way Briggs Texas 78608",
-      "startTime": "2026-04-14T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bjt5E36oI5MasrwGAKOS",
-      "title": "First appt between Daniel Falcon and Marcus Case",
-      "startTime": "2026-04-14T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "gss1blf3jkM2HvYp5Rbu",
-      "title": " Fatih Sahin Design Consultation with  at 1802 Claiborne Dr League City TX 77573",
-      "startTime": "2026-04-14T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "qBCJxOvacgh7ZoajuJJ8",
-      "title": "First appt between Joe Williams and Mark Almeida",
-      "startTime": "2026-04-14T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "uDIrgNJOGQ8WhJ3qA05n",
-      "title": "First remodel appt between Lenard West and Aaron Bergman",
-      "startTime": "2026-04-14T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "gYDX7rQwMGBBDJd6zyz8",
-      "title": "SA - First appt between Josh Provenzano and Pamela Price",
-      "startTime": "2026-04-14T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "NmdCL31l5rncOyIflrdf",
-      "title": "SA -First appt between Josh Provenzano and Juan Vazquez",
-      "startTime": "2026-04-14T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "sjLEaK1okQ7zZGybkCJd",
-      "title": "First appt between TJ Martin and Kellie Hackworth",
-      "startTime": "2026-04-14T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
