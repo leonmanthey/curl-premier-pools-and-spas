@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generatedAt": "2026-05-16T08:07:52.336894+00:00",
-    "startDate": "2026-04-16T08:07:51.788496+00:00",
-    "endDate": "2026-05-16T08:07:51.788496+00:00",
+    "generatedAt": "2026-05-17T08:24:38.658843+00:00",
+    "startDate": "2026-04-17T08:24:37.992968+00:00",
+    "endDate": "2026-05-17T08:24:37.992968+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 170,
-    "human": 110,
+    "total": 163,
+    "human": 104,
     "auto": 9,
-    "selfBooked": 51,
+    "selfBooked": 50,
     "other": 0,
-    "humanPct": 65,
-    "autoPct": 5,
-    "notHumanPct": 35
+    "humanPct": 64,
+    "autoPct": 6,
+    "notHumanPct": 36
   },
   "sourceCounts": {
-    "contactdetails_page": 97,
-    "booking_widget": 51,
+    "contactdetails_page": 91,
     "third_party": 5,
     "conversations_ai": 4,
+    "booking_widget": 50,
     "opportunity_page": 1,
     "mobile_app": 5,
     "calendar_page": 7
@@ -1812,83 +1812,6 @@
       "title": "First appt between Daniel Falcon and Delaine Godin",
       "startTime": "2026-04-17T10:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "tLEFjP15sE3HzcwIrJhj",
-      "title": "First appt between TJ Martin and Corly & Travis Lucas",
-      "startTime": "2026-04-16T18:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "BT7l7n0JcMFfyscWs0wC",
-      "title": "First appt between Lenard West and Tait Sugimura",
-      "startTime": "2026-04-16T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "sABhIIcd5QioQsLi5Rql",
-      "title": "First appt between Joe Williams and Rojan Maldonado",
-      "startTime": "2026-04-16T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "4CTAXcy6fqY8AFYPquNL",
-      "title": "First appt between TJ Martin and Rashan Dubose",
-      "startTime": "2026-04-16T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "NLMmlwpmdfyRmQtwzMc2",
-      "title": " Jerry LeBlanc Design Consultation with  at 213 Samuel Dr Bertram Texas 78605",
-      "startTime": "2026-04-16T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "oS9spPpJDiiPkHGLOQSF",
-      "title": " Evelyne Badinga Design Consultation with  at 1607 tonkawa trail Katy Tx 77493",
-      "startTime": "2026-04-16T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "FDZaxERPMpGsqtMT8v1c",
-      "title": "First appt between Aaron Dumas and Jamille Adriano",
-      "startTime": "2026-04-16T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
