@@ -1,30 +1,96 @@
 {
   "meta": {
-    "generatedAt": "2026-05-17T08:24:38.658843+00:00",
-    "startDate": "2026-04-17T08:24:37.992968+00:00",
-    "endDate": "2026-05-17T08:24:37.992968+00:00",
+    "generatedAt": "2026-05-18T10:10:22.248872+00:00",
+    "startDate": "2026-04-18T10:10:21.667863+00:00",
+    "endDate": "2026-05-18T10:10:21.667863+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 163,
-    "human": 104,
-    "auto": 9,
-    "selfBooked": 50,
+    "total": 161,
+    "human": 103,
+    "auto": 7,
+    "selfBooked": 51,
     "other": 0,
     "humanPct": 64,
-    "autoPct": 6,
+    "autoPct": 4,
     "notHumanPct": 36
   },
   "sourceCounts": {
-    "contactdetails_page": 91,
-    "third_party": 5,
-    "conversations_ai": 4,
-    "booking_widget": 50,
+    "contactdetails_page": 90,
+    "conversations_ai": 3,
+    "third_party": 4,
+    "booking_widget": 51,
     "opportunity_page": 1,
     "mobile_app": 5,
     "calendar_page": 7
   },
   "appointments": [
+    {
+      "id": "C6ewEf44G4xusdJSV6qq",
+      "title": " Johnny Quinine Design Consultation with  at 2819 Seabold Dr Missouri City Texas 77459",
+      "startTime": "2026-05-18T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "nDnoGQT3FWDZzD11GXom",
+      "title": "Appt w Johnny Bass",
+      "startTime": "2026-05-18T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "G5E2JrmcQfdyGdy7kjj8",
+      "title": " Jaime Henry Design Consultation with  at 501 Arborland Drive Georgetown Texas 78633",
+      "startTime": "2026-05-18T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "e5o8KhB01ss18Kk2zEIG",
+      "title": "layout - Tiffany & Jayson",
+      "startTime": "2026-05-18T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "6tNvYStonQwlBMPrapvf",
+      "title": "Appt w Desmond Berry",
+      "startTime": "2026-05-18T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "geVjeWNL7S7gtzwdIwg8",
+      "title": " Zae Farias Design Consultation with  at 2819 Totley Rd Pflugerville Texas 78660",
+      "startTime": "2026-05-18T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "P6ubVijPCFyM47nwTPFg",
       "title": "SA Appt w Nick Garcia",
@@ -420,17 +486,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "hGkjZP0tIYvtAcDleFAg"
-    },
-    {
-      "id": "2AkJcSbMWNeWAqvMGgzA",
-      "title": " Marijane DeTranaltes Design Consultation with  at 5081 County Road 631 Brazoria Texas 77422",
-      "startTime": "2026-05-11T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "JVXOrTc6Gm0DyVBLPEVR",
@@ -1740,83 +1795,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "SlwnOzqaHNe2vfBYeli4",
-      "title": " Krystal Curl Design Consultation with  at 1136 Wren Circle Copperas Cove, Texas Texas 76522",
-      "startTime": "2026-04-17T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "p29hNm6W6xx1t7z4IaZ3",
-      "title": " Ben Young Design Consultation with  at 108 Mallard Drive Clute Texas 77531",
-      "startTime": "2026-04-17T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ExiNakt7aTeAdCasXTXM",
-      "title": " VICTOR GOMEZ Design Consultation with  at 1302 Harvest Drive, Nolanville, Texas 76559 Nolanville TX 76559",
-      "startTime": "2026-04-17T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "b2Gj9QXghCbwggrvrNqR",
-      "title": " Greg Birdsell Design Consultation with  at 20522 Kurz Point Dr., Richmond Tx 77406 Richmond TX 77406",
-      "startTime": "2026-04-17T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "nkn1kA8E6GXwmUopUL3C",
-      "title": " 2nd Charles Jr Ewing Design Preso",
-      "startTime": "2026-04-17T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "3DrCPtLic3HwqIZyWg6V",
-      "title": "First appt between Jayson Masters and Angela Spencer",
-      "startTime": "2026-04-17T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "mnzgBEgVlt5E5HJuqVIm",
-      "title": "First appt between Daniel Falcon and Delaine Godin",
-      "startTime": "2026-04-17T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
