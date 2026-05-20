@@ -1,30 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T09:51:09.681692+00:00",
-    "startDate": "2026-04-19T09:51:09.027796+00:00",
-    "endDate": "2026-05-19T09:51:09.027796+00:00",
+    "generatedAt": "2026-05-20T09:39:20.067315+00:00",
+    "startDate": "2026-04-20T09:39:19.094436+00:00",
+    "endDate": "2026-05-20T09:39:19.094436+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 162,
-    "human": 103,
+    "total": 168,
+    "human": 105,
     "auto": 8,
-    "selfBooked": 51,
+    "selfBooked": 55,
     "other": 0,
-    "humanPct": 64,
+    "humanPct": 62,
     "autoPct": 5,
-    "notHumanPct": 36
+    "notHumanPct": 38
   },
   "sourceCounts": {
-    "contactdetails_page": 90,
+    "contactdetails_page": 92,
     "conversations_ai": 3,
     "third_party": 5,
-    "booking_widget": 51,
+    "booking_widget": 55,
     "opportunity_page": 1,
     "mobile_app": 6,
     "calendar_page": 6
   },
   "appointments": [
+    {
+      "id": "Q7XVZ8pRhr0PToDPD4GP",
+      "title": "Appt w Abdallah Jbara",
+      "startTime": "2026-05-20T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "z5gKDoeW3xg0v7rEdRTx",
+      "title": " Gabriella Jones Design Consultation with  at 221 Kerley Drive Hutto Texas 78634",
+      "startTime": "2026-05-20T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "OPiPeodtUtp6GpgYpxJk",
+      "title": " Fernando Rodriguez Design Consultation with  at 3711 Forney Ridge Ln Houston Texas 77047",
+      "startTime": "2026-05-20T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ZjNzon2tJAa73D8zmbdB",
+      "title": " Jessica Van Sweringen Design Consultation with  at 1515 24th St Galveston Texas 77550",
+      "startTime": "2026-05-20T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "YhFkY8qZ889NdicRmCO6",
+      "title": "Melissa Rodriguez Design Consultation with  at 26831 Highland Crest San Antonio Texas 78260",
+      "startTime": "2026-05-20T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "WOFq3d8Z0WQ3R5hX5ALb",
+      "title": " Ashley Salinas Design Consultation with  at 688 Fountain View Ln League City Texas 77573",
+      "startTime": "2026-05-20T12:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "8DCAGylSGFCWDEG2jRhS",
+      "title": " Brian Bertsch Design Consultation with  at 1702 Post Office St Tx",
+      "startTime": "2026-05-20T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "rJmpGmhaMk25H1I1MBiZ",
       "title": "Appt w Ernesto Ruiz Duque",
@@ -35,17 +112,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "0jcT7B2TzEgv8qVPrIf5",
-      "title": " Melody Jones Design Consultation with  at 3201 Creekside Ln Texas City Texas 77590",
-      "startTime": "2026-05-19T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "kt48e2eHkzvvfIE4RoD3",
@@ -107,7 +173,7 @@
       "title": " Russell Davis Design Consultation with  at 261 Cornelia Lane Angleton Texas 77515",
       "startTime": "2026-05-19T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -118,7 +184,7 @@
       "title": "Appt w Shanna Cook",
       "startTime": "2026-05-19T11:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
