@@ -1,30 +1,73 @@
 {
   "meta": {
-    "generatedAt": "2026-05-22T09:31:54.015847+00:00",
-    "startDate": "2026-04-22T09:31:53.432845+00:00",
-    "endDate": "2026-05-22T09:31:53.432845+00:00",
+    "generatedAt": "2026-05-23T08:23:14.402620+00:00",
+    "startDate": "2026-04-23T08:23:13.683741+00:00",
+    "endDate": "2026-05-23T08:23:13.683741+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 164,
-    "human": 102,
+    "total": 159,
+    "human": 99,
     "auto": 5,
-    "selfBooked": 57,
+    "selfBooked": 55,
     "other": 0,
     "humanPct": 62,
     "autoPct": 3,
     "notHumanPct": 38
   },
   "sourceCounts": {
-    "contactdetails_page": 87,
-    "booking_widget": 57,
-    "opportunity_page": 1,
+    "contactdetails_page": 85,
+    "booking_widget": 55,
     "conversations_ai": 1,
     "mobile_app": 7,
     "calendar_page": 7,
     "third_party": 4
   },
   "appointments": [
+    {
+      "id": "4bNkybBRFjgbEJaUUTjy",
+      "title": "Jorge Munoz Design Consultation with  at 513 Cardinal Manor New Braunfels Texas 78130",
+      "startTime": "2026-05-23T12:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "gxvSvcphjZqHik26EO1O",
+      "title": "Appt w Koustav Bhattacharya",
+      "startTime": "2026-05-23T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "aNpTqlLTcfyO2HS3KWIg",
+      "title": "Appt w Soji Matthew",
+      "startTime": "2026-05-23T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "V6IE5BV1UgwuEQeI5DFS",
+      "title": " Stacy Winfield Design Consultation with  at 7108 Valor Trail Temple TX 76502",
+      "startTime": "2026-05-23T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1779512400000_82800",
       "title": "Block",
@@ -140,7 +183,7 @@
       "title": "Appt w Abdallah Jbara",
       "startTime": "2026-05-20T16:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1729,105 +1772,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "W8DG0AhPAi8rlXBDZm3p",
-      "title": " Nichelle Powell Design Consultation with  at 126 County Road 3152 Kempner Texas 76539",
-      "startTime": "2026-04-22T16:45:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "opportunity_page",
-      "sourceLabel": "CRM page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "4n3fAc936UdZmDNxO54G",
-      "title": " Jerry Stiehl Design Consultation with  at 2209 Buffalo Gap Leander Texas 78641",
-      "startTime": "2026-04-22T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "aCuITUrxFPpE27mOK44U",
-      "title": "First appt between Lenard West and Karen Enloe-Doffing",
-      "startTime": "2026-04-22T16:15:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "rgUB4jiLpQL0yUtMVC0n",
-      "title": "First appt between Joe Williams and Susan Phillips",
-      "startTime": "2026-04-22T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "prK4WPpSGdwB3jM2ibDR",
-      "title": "Appt w Antjuan Jones",
-      "startTime": "2026-04-22T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "fNNjYBl1bUgpVbjwvH1f",
-      "title": "First appt between Cody Gilcrease and Victoria Turner",
-      "startTime": "2026-04-22T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "kRgsNsINE4chEOedZAtj",
-      "title": " Ana Torres Design Consultation with  at 10039 Napier Dr Rosharon Texas 77583",
-      "startTime": "2026-04-22T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "VygK3gTsB8rnVPQXaFSe",
-      "title": "Rebekah Sallot Design Consultation with  at 8325 Narcissus Path Boerne Texas 78015",
-      "startTime": "2026-04-22T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "uaaAOOdpC7VyVOgtGr9G",
-      "title": "First appt between Cody Gilcrease and Mike Quinn",
-      "startTime": "2026-04-22T09:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
