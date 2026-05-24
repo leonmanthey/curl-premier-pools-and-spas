@@ -1,40 +1,29 @@
 {
   "meta": {
-    "generatedAt": "2026-05-23T08:23:14.402620+00:00",
-    "startDate": "2026-04-23T08:23:13.683741+00:00",
-    "endDate": "2026-05-23T08:23:13.683741+00:00",
+    "generatedAt": "2026-05-24T08:32:44.340073+00:00",
+    "startDate": "2026-04-24T08:32:43.691993+00:00",
+    "endDate": "2026-05-24T08:32:43.691993+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 159,
-    "human": 99,
+    "total": 151,
+    "human": 95,
     "auto": 5,
-    "selfBooked": 55,
+    "selfBooked": 51,
     "other": 0,
-    "humanPct": 62,
+    "humanPct": 63,
     "autoPct": 3,
-    "notHumanPct": 38
+    "notHumanPct": 37
   },
   "sourceCounts": {
-    "contactdetails_page": 85,
-    "booking_widget": 55,
+    "contactdetails_page": 81,
+    "booking_widget": 51,
     "conversations_ai": 1,
     "mobile_app": 7,
     "calendar_page": 7,
     "third_party": 4
   },
   "appointments": [
-    {
-      "id": "4bNkybBRFjgbEJaUUTjy",
-      "title": "Jorge Munoz Design Consultation with  at 513 Cardinal Manor New Braunfels Texas 78130",
-      "startTime": "2026-05-23T12:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
     {
       "id": "gxvSvcphjZqHik26EO1O",
       "title": "Appt w Koustav Bhattacharya",
@@ -1695,83 +1684,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "eBPtIYsTEbdTLnQf2pCs",
-      "title": "First appt between Aaron Dumas and Lorenzo Scales",
-      "startTime": "2026-04-23T19:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "lRawuGt9Ih8N1jtRku5b",
-      "title": "Tambra Williams *Remodel*",
-      "startTime": "2026-04-23T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "6fX0li5Jzvzpg16GtkLV",
-      "title": "First appt between Cody Gilcrease and Jeremy Moersch",
-      "startTime": "2026-04-23T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "5TNVUmytBC3E96LAjUxQ",
-      "title": "First appt between Daniel Flacon and Genaye Rhodes",
-      "startTime": "2026-04-23T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "81vfDh2uPLD9BX1a0M5a",
-      "title": " Arianna Flores Design Consultation with  at 105 Canvasback Dr Clute Texas 77531",
-      "startTime": "2026-04-23T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "lBoiNJY3SbYiRlXLnjLa",
-      "title": "First appt between Aaron Dumas and Justin Sturgill",
-      "startTime": "2026-04-23T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "WD8zln3oSyMkOIF9vRlI",
-      "title": " Nicholas Ram Design Consultation with  at 2625 Bisbee Rd League City Texas 77573",
-      "startTime": "2026-04-23T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
