@@ -1,29 +1,84 @@
 {
   "meta": {
-    "generatedAt": "2026-05-24T08:32:44.340073+00:00",
-    "startDate": "2026-04-24T08:32:43.691993+00:00",
-    "endDate": "2026-05-24T08:32:43.691993+00:00",
+    "generatedAt": "2026-05-25T10:13:45.694433+00:00",
+    "startDate": "2026-04-25T10:13:44.994368+00:00",
+    "endDate": "2026-05-25T10:13:44.994368+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 151,
-    "human": 95,
-    "auto": 5,
+    "total": 149,
+    "human": 92,
+    "auto": 6,
     "selfBooked": 51,
     "other": 0,
-    "humanPct": 63,
-    "autoPct": 3,
-    "notHumanPct": 37
+    "humanPct": 62,
+    "autoPct": 4,
+    "notHumanPct": 38
   },
   "sourceCounts": {
-    "contactdetails_page": 81,
+    "contactdetails_page": 78,
     "booking_widget": 51,
     "conversations_ai": 1,
     "mobile_app": 7,
     "calendar_page": 7,
-    "third_party": 4
+    "third_party": 5
   },
   "appointments": [
+    {
+      "id": "5xP8bus5BWkE9Rgfsx7g",
+      "title": "Gary Willis Design Consultation with  at 441 Sunrise Park Seguin Texas 78155",
+      "startTime": "2026-05-25T17:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "N3RfbCMgmdfI3iukrnNp",
+      "title": "DERECK SYFERT Design Consultation with  at 180 Kerr Canyon Pass, Pruittville, Texas, 78028 Pruittville TX 78028",
+      "startTime": "2026-05-25T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "yHAQ8HunA84fc8vBv1qA",
+      "title": " Leslie Johnstone Design Consultation with  at 2104 Noblewood Court League City Texas 77573",
+      "startTime": "2026-05-25T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ggJtgwuyeDEFZmJgOMEX",
+      "title": "Premier Pools consultation with David Charles",
+      "startTime": "2026-05-25T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "Q97cm058PY9SLQlV09ie"
+    },
+    {
+      "id": "QPLb0DqNPawUZCKaoOMx",
+      "title": "Spanish Speaking Phone Appt w Oscar Escobar",
+      "startTime": "2026-05-25T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "gxvSvcphjZqHik26EO1O",
       "title": "Appt w Koustav Bhattacharya",
@@ -1607,83 +1662,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "pozY3onvvhetv2NOCMpm",
-      "title": "First appt between Troy Johnson and Raghuteja Kollarapu",
-      "startTime": "2026-04-24T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "Pp1G8Dw75BV4BneLLRnb",
-      "title": " Steven Cortez Design Consultation with  at Houston TX 77584",
-      "startTime": "2026-04-24T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "nUrxp8f36OUgGA1UK5Ss",
-      "title": "Cheryl Benson Design Consultation with  at 12410 Wethersfield St San Antonio Texas 78216",
-      "startTime": "2026-04-24T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5brmbXC0qjjtJsZdjiSF",
-      "title": " Michael Arnold Design Consultation with  at 6202 Sourwood Drive League City Texas 77573",
-      "startTime": "2026-04-24T14:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "7t1taLIHU6sVYvv5Dz1t",
-      "title": "Appt w Justin Benard",
-      "startTime": "2026-04-24T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "HSOLlRDx4FMBTDrRO4Nx",
-      "title": "Appt w Curtis Hines",
-      "startTime": "2026-04-24T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "z2zWqBnhaRlbyN4G4vMG",
-      "title": "Appt w Tricia Lewis",
-      "startTime": "2026-04-24T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
