@@ -1,29 +1,150 @@
 {
   "meta": {
-    "generatedAt": "2026-05-26T10:01:09.854075+00:00",
-    "startDate": "2026-04-26T10:01:07.328591+00:00",
-    "endDate": "2026-05-26T10:01:07.328591+00:00",
+    "generatedAt": "2026-05-27T09:57:33.877051+00:00",
+    "startDate": "2026-04-27T09:57:33.197617+00:00",
+    "endDate": "2026-05-27T09:57:33.197617+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 151,
-    "human": 92,
-    "auto": 7,
-    "selfBooked": 52,
+    "total": 162,
+    "human": 99,
+    "auto": 9,
+    "selfBooked": 54,
     "other": 0,
     "humanPct": 61,
-    "autoPct": 5,
+    "autoPct": 6,
     "notHumanPct": 39
   },
   "sourceCounts": {
-    "contactdetails_page": 79,
-    "booking_widget": 52,
+    "contactdetails_page": 85,
+    "booking_widget": 54,
     "conversations_ai": 1,
-    "mobile_app": 7,
+    "mobile_app": 8,
     "calendar_page": 6,
-    "third_party": 6
+    "third_party": 8
   },
   "appointments": [
+    {
+      "id": "d4wUNyJ7aLuOsrk1m812",
+      "title": "Phone Appt w MJ7 Mirville",
+      "startTime": "2026-05-27T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "CqWVhlW8i3O1ogBLNyIv",
+      "title": "Appt w Andy Gore",
+      "startTime": "2026-05-27T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Z6itrtOkJu874FUfcwfh",
+      "title": " Joel Duverge Design Consultation with  at 323 Sierra Trail, Dripping Springs, 78620 Dripping Springs TX 78620",
+      "startTime": "2026-05-27T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "pVWthEZIvGfzyXsnDnAr",
+      "title": "Tim Sitka",
+      "startTime": "2026-05-27T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "v0WSHzYs2JirdYQkx2jP"
+    },
+    {
+      "id": "IoKxJBpcPseZMVtwjSxU",
+      "title": "Appt w Warren Rivera",
+      "startTime": "2026-05-27T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "SfEYJitJb8MO4aYWcrhL",
+      "title": "Clint Wolf Design Consultation with  at 339 Allemania Drive New Braunfels Texas 78132",
+      "startTime": "2026-05-27T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1QtJ8rF6Cfoq0HoA4eEr",
+      "title": "Silverio Salazar Design Consultation",
+      "startTime": "2026-05-27T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "dy1vGjjkEeItsC18eD6G",
+      "title": "Appt w Heather Chambers",
+      "startTime": "2026-05-27T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "9LiLUI9kHvVWUrbNCNpM",
+      "title": "Appt w Harvin Mendoza",
+      "startTime": "2026-05-27T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "wqSvoN7EDNTXXwmQzzm6",
+      "title": " Everett Lowenstein Design Consultation with  at 3075 Tam O'Shanter Lane, Missouri City 77459 Missouri City TX 77459",
+      "startTime": "2026-05-27T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "fKuIDWaXxNaDQicAA8X0",
+      "title": "Gregory Mack Design Consultation with  at 9703 Mohawk Ridge Drive Converse Texas 78109",
+      "startTime": "2026-05-27T08:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "sWOM4Tpfhjg6UjgbVWSf",
       "title": " Manuel Flores Design Consultation with  at 2212 Nates Pl Georgetown Texas 78633",
@@ -71,19 +192,8 @@
     {
       "id": "D96bL90D2BsSLZgKul15",
       "title": " Keith Outlaw Design Consultation with  at 910 County Road 422 Taylor Texas 76574",
-      "startTime": "2026-05-26T13:00:00-05:00",
+      "startTime": "2026-05-26T14:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "yHAQ8HunA84fc8vBv1qA",
-      "title": " Leslie Johnstone Design Consultation with  at 2104 Noblewood Court League City Texas 77573",
-      "startTime": "2026-05-26T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
@@ -95,7 +205,7 @@
       "title": "Jorge Munoz Design Consultation with  at 513 Cardinal Manor New Braunfels Texas 78130",
       "startTime": "2026-05-26T13:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -117,11 +227,22 @@
       "title": "Spanish Speaking Phone Appt w Oscar Escobar",
       "startTime": "2026-05-26T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "noshow",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Y4LVV1F74tOZw5zAAhpl",
+      "title": "Cassandra Villarreal Remodel",
+      "startTime": "2026-05-26T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
     },
     {
       "id": "eduBTxHKA4d7GRBCd0Ni",
