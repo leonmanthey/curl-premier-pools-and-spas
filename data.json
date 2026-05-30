@@ -1,29 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-05-29T09:57:46.909725+00:00",
-    "startDate": "2026-04-29T09:57:46.121932+00:00",
-    "endDate": "2026-05-29T09:57:46.121932+00:00",
+    "generatedAt": "2026-05-30T08:31:00.247746+00:00",
+    "startDate": "2026-04-30T08:30:58.419324+00:00",
+    "endDate": "2026-05-30T08:30:58.419324+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 168,
-    "human": 93,
+    "total": 162,
+    "human": 90,
     "auto": 11,
-    "selfBooked": 64,
+    "selfBooked": 61,
     "other": 0,
-    "humanPct": 55,
+    "humanPct": 56,
     "autoPct": 7,
-    "notHumanPct": 45
+    "notHumanPct": 44
   },
   "sourceCounts": {
-    "contactdetails_page": 81,
-    "booking_widget": 64,
+    "contactdetails_page": 78,
+    "booking_widget": 61,
     "conversations_ai": 2,
     "mobile_app": 5,
     "calendar_page": 7,
     "third_party": 9
   },
   "appointments": [
+    {
+      "id": "BMilPRxvFAqMk5WmUiEX",
+      "title": "Appt w Robert Mendez",
+      "startTime": "2026-05-30T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "xH9BerXulJvzz2A37HDC",
+      "title": "Appt w Nyah Jackson",
+      "startTime": "2026-05-30T13:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "66o0VKp4sJN6mQNTH9rH",
+      "title": "Appt w Dina Lujan",
+      "startTime": "2026-05-30T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1780117200000_82800",
       "title": "Block",
@@ -73,10 +106,21 @@
       "title": " Amber McLain Design Consultation with  at 640 County Road 772 Damon Texas 77430",
       "startTime": "2026-05-29T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Z6itrtOkJu874FUfcwfh",
+      "title": "Joel Duverge Design Consultation with Troy Johnson  at 323 Sierra Trail, Dripping Springs, 78620 Dripping Springs TX 78620",
+      "startTime": "2026-05-29T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
       "userId": null
     },
     {
@@ -91,22 +135,11 @@
       "userId": null
     },
     {
-      "id": "Z6itrtOkJu874FUfcwfh",
-      "title": "Joel Duverge Design Consultation with Troy Johnson  at 323 Sierra Trail, Dripping Springs, 78620 Dripping Springs TX 78620",
-      "startTime": "2026-05-29T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
       "id": "Nm0FOq1LVnNVly9iS5iF",
       "title": "Amy Brown Design Consultation",
       "startTime": "2026-05-29T14:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1768,105 +1801,6 @@
       "startTime": "2026-04-30T09:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "q99b2ZecBjdgCfeUIanF",
-      "title": " Adan Ruiz Design Consultation with Troy at 10025 Majorca Drive Austin TX 78717",
-      "startTime": "2026-04-29T18:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "9EoTgTkUJHfGB4MdAweX",
-      "title": "Appt w Karen Gresham",
-      "startTime": "2026-04-29T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "t8sffx6pgT8IQkrU3uGz",
-      "title": "Katy Bueche Design Consultation with  at 9515 Geneva Point San Antonio Texas 78254",
-      "startTime": "2026-04-29T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "XxRsvN6MO7QyfMeBNfl4",
-      "title": "Phone Appt w Octavio Morales",
-      "startTime": "2026-04-29T15:15:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "noshow",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "KiBrSSbJIcq71EtIf9Ie",
-      "title": "First appt between Daniel Falcon and Juan Chapa for Miguel Algara",
-      "startTime": "2026-04-29T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "WtplvL4zqowNuWihpCwR",
-      "title": "Tamara Alms Design Consultation with  at 140 Quail Valley Drive Bandera Texas 78003",
-      "startTime": "2026-04-29T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "hkzB5pwBSv4k4fSsjhXS",
-      "title": "First appt between Lenard West and Robert Sauls",
-      "startTime": "2026-04-29T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "S3GPSRemmgbLLANA4tav",
-      "title": " Quinn Fox Design Consultation with  at 2007 Heritage Well Ln Pflugerville Texas 78660",
-      "startTime": "2026-04-29T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "cRE7RLWy3fHee61PaYdB",
-      "title": "Remodel appt between Jayson Masters and Ben Cripps",
-      "startTime": "2026-04-29T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
