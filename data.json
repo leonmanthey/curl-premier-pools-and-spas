@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-05-30T08:31:00.247746+00:00",
-    "startDate": "2026-04-30T08:30:58.419324+00:00",
-    "endDate": "2026-05-30T08:30:58.419324+00:00",
+    "generatedAt": "2026-05-31T08:49:53.218583+00:00",
+    "startDate": "2026-05-01T08:49:52.491109+00:00",
+    "endDate": "2026-05-31T08:49:52.491109+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 162,
-    "human": 90,
+    "total": 154,
+    "human": 84,
     "auto": 11,
-    "selfBooked": 61,
+    "selfBooked": 59,
     "other": 0,
-    "humanPct": 56,
+    "humanPct": 55,
     "autoPct": 7,
-    "notHumanPct": 44
+    "notHumanPct": 45
   },
   "sourceCounts": {
-    "contactdetails_page": 78,
-    "booking_widget": 61,
+    "contactdetails_page": 72,
     "conversations_ai": 2,
+    "booking_widget": 59,
     "mobile_app": 5,
     "calendar_page": 7,
     "third_party": 9
@@ -1717,94 +1717,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "PkHNlewhtlKcMm8sVrE5",
-      "title": "Appt w Nuria Contreras",
-      "startTime": "2026-04-30T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "dToR3E50GMrUEK9LsOMy",
-      "title": " Andressa Morris Design Consultation with  at 3008 Columbus Loop Round Rock Texas 78665",
-      "startTime": "2026-04-30T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "lnEoUQF7HDWe7ucyQ1Kf",
-      "title": "Christina De La Cerda-Sustaita Design Consultation with  at 317 Blue Oak Blvd San Marcos TX 78666",
-      "startTime": "2026-04-30T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "xx5Jmfbq2uiHBgfItTAw",
-      "title": " Mindy & Mike Boyett - Design & Pricing Options",
-      "startTime": "2026-04-30T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "UPDoSsBQubtj5TyLMuVP",
-      "title": " Kyle Maxfield Design Consultation with  at 3712 Ebony Hollow Pass Austin Texas 78739",
-      "startTime": "2026-04-30T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "4UDjYjPZJtyJLRt1VMUF",
-      "title": "First phone appt between Thomas Martin and Mike Maynard",
-      "startTime": "2026-04-30T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "ojXgQ9cYJhEV3Kq3Qoj4",
-      "title": " Falon Dill Design Consultation with  at 1001 Spaniel Hl Rd Georgetown Texas 78633",
-      "startTime": "2026-04-30T09:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "y4SBVE5GjG46k1PUQkkL",
-      "title": "First appt between Lenard West and Brian Nachlas",
-      "startTime": "2026-04-30T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
