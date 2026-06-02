@@ -1,29 +1,95 @@
 {
   "meta": {
-    "generatedAt": "2026-06-01T11:40:54.527948+00:00",
-    "startDate": "2026-05-02T11:40:53.718020+00:00",
-    "endDate": "2026-06-01T11:40:53.718020+00:00",
+    "generatedAt": "2026-06-02T10:41:31.693758+00:00",
+    "startDate": "2026-05-03T10:41:30.874738+00:00",
+    "endDate": "2026-06-02T10:41:30.874738+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 157,
+    "total": 160,
     "human": 83,
     "auto": 12,
-    "selfBooked": 62,
+    "selfBooked": 65,
     "other": 0,
-    "humanPct": 53,
+    "humanPct": 52,
     "autoPct": 8,
-    "notHumanPct": 47
+    "notHumanPct": 48
   },
   "sourceCounts": {
-    "contactdetails_page": 69,
+    "contactdetails_page": 70,
     "conversations_ai": 3,
-    "booking_widget": 62,
+    "booking_widget": 65,
     "mobile_app": 7,
-    "calendar_page": 7,
+    "calendar_page": 6,
     "third_party": 9
   },
   "appointments": [
+    {
+      "id": "yF9BOvcUFIHsAXtMWkPf",
+      "title": "Steve Reichert Design Consultation with  at 26107 Tivoli Mesa San Antonio Texas 78260",
+      "startTime": "2026-06-02T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "PhnEXs6jutDFpvieNMxR",
+      "title": "Appt w John Douzat",
+      "startTime": "2026-06-02T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "CHLNkS36uGWva4vx9YZ0",
+      "title": "Appt w Rick Cortez",
+      "startTime": "2026-06-02T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "8nmOViOOZdypogo5DpUT",
+      "title": " Jesse Otts Design Consultation with Troy Johnson at 17032 Lomond Way Pflugerville Texas 78660",
+      "startTime": "2026-06-02T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "FcJUjTs0eHStT5BzEFSm",
+      "title": "Appt w Amanda Broeders",
+      "startTime": "2026-06-02T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "CuWBZhSjGZcGsgObP4uo",
+      "title": " Toni Barker Design Consultation with  at 1516 Indian Camp Trail Copperas Cove Texas 76522",
+      "startTime": "2026-06-02T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "0zb74ahGtYx0Gl5kbpJo",
       "title": "Adrian Gatica Design Consultation with  at 4911 Driskill Street San Antonio Texas 78228",
@@ -150,7 +216,7 @@
       "title": "Appt w Dina Lujan",
       "startTime": "2026-05-30T12:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1717,39 +1783,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "Y50SxorO4ymMmDudAcst",
-      "title": " Todd Carson Design Consultation with  at 2137 Llerena Lane League City TX 77573",
-      "startTime": "2026-05-02T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "v0WSHzYs2JirdYQkx2jP"
-    },
-    {
-      "id": "ImZrZYeZi3qzNLvLhiqN",
-      "title": "First appt between Thomas Martin and Patrick Dennis",
-      "startTime": "2026-05-02T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1777698000000_82800",
-      "title": "Block",
-      "startTime": "2026-05-02T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
