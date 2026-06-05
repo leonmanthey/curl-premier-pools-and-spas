@@ -1,29 +1,139 @@
 {
   "meta": {
-    "generatedAt": "2026-06-04T09:59:33.141502+00:00",
-    "startDate": "2026-05-05T09:59:32.438995+00:00",
-    "endDate": "2026-06-04T09:59:32.438995+00:00",
+    "generatedAt": "2026-06-05T09:56:09.111854+00:00",
+    "startDate": "2026-05-06T09:56:07.797364+00:00",
+    "endDate": "2026-06-05T09:56:07.797364+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 176,
-    "human": 95,
-    "auto": 13,
-    "selfBooked": 68,
+    "total": 182,
+    "human": 96,
+    "auto": 14,
+    "selfBooked": 72,
     "other": 0,
-    "humanPct": 54,
-    "autoPct": 7,
-    "notHumanPct": 46
+    "humanPct": 53,
+    "autoPct": 8,
+    "notHumanPct": 47
   },
   "sourceCounts": {
     "contactdetails_page": 80,
-    "booking_widget": 68,
+    "booking_widget": 72,
     "mobile_app": 8,
-    "calendar_page": 7,
+    "calendar_page": 8,
     "third_party": 10,
-    "conversations_ai": 3
+    "conversations_ai": 4
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1780722000000_82800",
+      "title": "Block",
+      "startTime": "2026-06-06T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "KmZMXfvqu9DA5ogr0nsW",
+      "title": "Fiberglass Remodel Appt w Michael Hiebert",
+      "startTime": "2026-06-05T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "NNm0FQ34z0muQmXX86rm",
+      "title": " Matt Eggenschwiler Design Consultation with  at 11118 Celina Knoll Missouri City Texas 77459",
+      "startTime": "2026-06-05T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "n22tEtwhV3sD8bdZCQxr",
+      "title": "Appt w Dionely Rodriguez",
+      "startTime": "2026-06-05T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "VwLRbVtW7h2i380g9II2",
+      "title": "Venancia Martinez Design Consultation with  at 6507 Wind Arbor Windcrest Texas 78239",
+      "startTime": "2026-06-05T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "bfwZVhaJ3HjemfBFQNEq",
+      "title": " Cynthia And Clint Andrews Design Consultation with  at 4206 Adelphi Lane Austin Texas 78727",
+      "startTime": "2026-06-05T13:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "h19571MdPzYXqE48m6I1",
+      "title": " Christina Aguilar Design Consultation with  at 504 Stockport Dr League City Texas 77573",
+      "startTime": "2026-06-05T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ZNJfsZCs9Xs4ZA3QZtuR",
+      "title": " Andrew Frascone Design Consultation with  at 4031 Aerie St Salado TX 76571",
+      "startTime": "2026-06-05T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "D5KKW4dWw9kpYbm5Q3rh",
+      "title": "Kassandra Garcia Madrigal Design Consultation with  at Tx",
+      "startTime": "2026-06-05T08:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "rsUOdIPt7tpPiA8VttlH",
+      "title": " Johnny Hinton Design Consultation with  at 1239 Watermont Drive Missouri City Texas 77459",
+      "startTime": "2026-06-05T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "pGBDfdjofWFbaK4sjsOy",
       "title": "Appt w Silas Williams",
@@ -40,7 +150,7 @@
       "title": "Appt w Brittany Gainous-Richmond",
       "startTime": "2026-06-04T18:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -117,7 +227,7 @@
       "title": " Torrance  Design Consultation with  at 2632 Salon Way, Round Rock, Texas 78681 Round Rock TX 78681",
       "startTime": "2026-06-04T10:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "auto",
       "source": "third_party",
       "sourceLabel": "Third party",
@@ -133,17 +243,6 @@
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
       "userId": null
-    },
-    {
-      "id": "eduBTxHKA4d7GRBCd0Ni",
-      "title": "Appt w Lauren Patterson",
-      "startTime": "2026-06-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "99H9UukHjB74KJYNUTWp",
@@ -1926,39 +2025,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "6vjZuUpYtZqHOhQsjERN",
-      "title": "Fabian Gonzalez Remodel",
-      "startTime": "2026-05-05T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "9PZJEq4IaRID0KVTUvgl",
-      "title": "First remodel appt between Joe Williams and Carrington Taylor",
-      "startTime": "2026-05-05T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "5ltOpzED2EtaVpsl3VZ1",
-      "title": "Phone Appt w Danlys Racet per customer request",
-      "startTime": "2026-05-05T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
