@@ -1,29 +1,51 @@
 {
   "meta": {
-    "generatedAt": "2026-06-05T09:56:09.111854+00:00",
-    "startDate": "2026-05-06T09:56:07.797364+00:00",
-    "endDate": "2026-06-05T09:56:07.797364+00:00",
+    "generatedAt": "2026-06-06T08:36:54.985241+00:00",
+    "startDate": "2026-05-07T08:36:54.294782+00:00",
+    "endDate": "2026-06-06T08:36:54.294782+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 182,
-    "human": 96,
+    "total": 179,
+    "human": 92,
     "auto": 14,
-    "selfBooked": 72,
+    "selfBooked": 73,
     "other": 0,
-    "humanPct": 53,
+    "humanPct": 51,
     "autoPct": 8,
-    "notHumanPct": 47
+    "notHumanPct": 49
   },
   "sourceCounts": {
-    "contactdetails_page": 80,
-    "booking_widget": 72,
+    "booking_widget": 73,
+    "contactdetails_page": 76,
     "mobile_app": 8,
     "calendar_page": 8,
     "third_party": 10,
     "conversations_ai": 4
   },
   "appointments": [
+    {
+      "id": "IPMMshR4I8HY8CVB6xPZ",
+      "title": "Appt w Vanessa Gudahl",
+      "startTime": "2026-06-06T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "hwy6qSH4j5wpJPl7nlot",
+      "title": " Ivan A. Zamora Design Consultation with  at 5711 Barton Heights Ct Sugar Land Texas 77479",
+      "startTime": "2026-06-06T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1780722000000_82800",
       "title": "Block",
@@ -51,7 +73,7 @@
       "title": " Matt Eggenschwiler Design Consultation with  at 11118 Celina Knoll Missouri City Texas 77459",
       "startTime": "2026-06-05T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -95,7 +117,7 @@
       "title": " Christina Aguilar Design Consultation with  at 504 Stockport Dr League City Texas 77573",
       "startTime": "2026-06-05T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -128,7 +150,7 @@
       "title": " Johnny Hinton Design Consultation with  at 1239 Watermont Drive Missouri City Texas 77459",
       "startTime": "2026-06-05T00:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -386,17 +408,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "PhnEXs6jutDFpvieNMxR",
-      "title": "Appt w John Douzat",
-      "startTime": "2026-06-02T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "CHLNkS36uGWva4vx9YZ0",
@@ -1981,50 +1992,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "MPTvP6J2LU2wDUXfujc6",
-      "title": "Spanish Appt w Eduardo Garza",
-      "startTime": "2026-05-06T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "dZoLpsOIE0NwFtbWJaA0",
-      "title": "First appt between Thomas Martin and Johanna Flas",
-      "startTime": "2026-05-06T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "j6cdxHmnTiBJVUOdtRni",
-      "title": "First appt between Lenard West and Tyese Harris",
-      "startTime": "2026-05-06T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "cDKOypYcVZ1QmkwdN8Ku",
-      "title": "First remodel appt between Jayson Masters and Woomera Abernathy",
-      "startTime": "2026-05-06T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
     }
   ]
 }
