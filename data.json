@@ -1,40 +1,29 @@
 {
   "meta": {
-    "generatedAt": "2026-06-06T08:36:54.985241+00:00",
-    "startDate": "2026-05-07T08:36:54.294782+00:00",
-    "endDate": "2026-06-06T08:36:54.294782+00:00",
+    "generatedAt": "2026-06-07T09:17:15.527792+00:00",
+    "startDate": "2026-05-08T09:17:14.799580+00:00",
+    "endDate": "2026-06-07T09:17:14.799580+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 179,
-    "human": 92,
+    "total": 173,
+    "human": 88,
     "auto": 14,
-    "selfBooked": 73,
+    "selfBooked": 71,
     "other": 0,
     "humanPct": 51,
     "autoPct": 8,
     "notHumanPct": 49
   },
   "sourceCounts": {
-    "booking_widget": 73,
-    "contactdetails_page": 76,
+    "contactdetails_page": 73,
+    "booking_widget": 71,
     "mobile_app": 8,
-    "calendar_page": 8,
+    "calendar_page": 7,
     "third_party": 10,
     "conversations_ai": 4
   },
   "appointments": [
-    {
-      "id": "IPMMshR4I8HY8CVB6xPZ",
-      "title": "Appt w Vanessa Gudahl",
-      "startTime": "2026-06-06T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
     {
       "id": "hwy6qSH4j5wpJPl7nlot",
       "title": " Ivan A. Zamora Design Consultation with  at 5711 Barton Heights Ct Sugar Land Texas 77479",
@@ -1933,61 +1922,6 @@
       "startTime": "2026-05-08T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "s4xPcYlyQ3HywPyBQj4p",
-      "title": " John Ennis Design Consultation with  at 1307 Woodland Drive El Lago Texas 77586",
-      "startTime": "2026-05-07T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "uJnaPCJAH0VAKLwAtuSo",
-      "title": "Appt w Scout Jacobs",
-      "startTime": "2026-05-07T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "T8wNRnRlFD6H4ifUTHc5",
-      "title": "Remodel Appt w Hollee Lavi",
-      "startTime": "2026-05-07T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "PI2HZ8bYfGfOkA3P7r7H",
-      "title": " Octavio Morales Design Consultation with  at Houston TX 77502",
-      "startTime": "2026-05-07T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "aY747fE7XI5Re3ji0syA",
-      "title": " Robert Butler Design Consultation with  at 13217 Pecan Hill Cove manor tx 78653 Manor Texas 78653",
-      "startTime": "2026-05-07T11:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
