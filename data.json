@@ -1,29 +1,84 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T09:17:15.527792+00:00",
-    "startDate": "2026-05-08T09:17:14.799580+00:00",
-    "endDate": "2026-06-07T09:17:14.799580+00:00",
+    "generatedAt": "2026-06-08T11:01:13.402157+00:00",
+    "startDate": "2026-05-09T11:01:12.690824+00:00",
+    "endDate": "2026-06-08T11:01:12.690824+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 173,
-    "human": 88,
+    "human": 89,
     "auto": 14,
-    "selfBooked": 71,
+    "selfBooked": 70,
     "other": 0,
     "humanPct": 51,
     "autoPct": 8,
     "notHumanPct": 49
   },
   "sourceCounts": {
-    "contactdetails_page": 73,
-    "booking_widget": 71,
-    "mobile_app": 8,
+    "booking_widget": 70,
     "calendar_page": 7,
     "third_party": 10,
+    "contactdetails_page": 75,
+    "mobile_app": 7,
     "conversations_ai": 4
   },
   "appointments": [
+    {
+      "id": "PhnEXs6jutDFpvieNMxR",
+      "title": "2nd Appt w John Douzat",
+      "startTime": "2026-06-08T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "oF0dWY5uXPjommwonXjx",
+      "title": " Daniel Rivera Design Consultation with  at 2625 Bernadino Dr La Marque Texas 77568",
+      "startTime": "2026-06-08T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "9FeJJGMhzIfRZkSgNMCP",
+      "title": "Appt w Eric Scott",
+      "startTime": "2026-06-08T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "eduBTxHKA4d7GRBCd0Ni",
+      "title": "Appt w Lauren Patterson",
+      "startTime": "2026-06-08T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "deQi3ozO6KkM4dYtY14i",
+      "title": " Karen Birch Design Consultation with  at 7611 Tejas Lakes Trail Needville Texas 77461",
+      "startTime": "2026-06-08T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "hwy6qSH4j5wpJPl7nlot",
       "title": " Ivan A. Zamora Design Consultation with  at 5711 Barton Heights Ct Sugar Land Texas 77479",
@@ -1871,61 +1926,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "0HuNXNXl5ZgqyY0NK0PK",
-      "title": "Design Consultant with Troy",
-      "startTime": "2026-05-08T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "Lh7TaYcX1RfYZR03LePd",
-      "title": " Sarah Hatch Design Consultation with  at 13100 Turkey Roost Road Manchaca Texas 78652",
-      "startTime": "2026-05-08T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "RivTIX4gijoPMjHbPhNp",
-      "title": " William ELLIOTT Design Consultation with  at 12111 Perthshire Road Houston Texas 77024",
-      "startTime": "2026-05-08T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "0dmjO9C3fT6UL4PFpKYJ",
-      "title": "Phone Appt w Judith Gould",
-      "startTime": "2026-05-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "4cLIyo32sw1hPKMC0yHc",
-      "title": " Bethany Magalhaes Design Consultation with  at 5210 Kinglet St Houston Texas 77035",
-      "startTime": "2026-05-08T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
