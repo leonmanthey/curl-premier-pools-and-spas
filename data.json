@@ -1,29 +1,150 @@
 {
   "meta": {
-    "generatedAt": "2026-06-08T11:01:13.402157+00:00",
-    "startDate": "2026-05-09T11:01:12.690824+00:00",
-    "endDate": "2026-06-08T11:01:12.690824+00:00",
+    "generatedAt": "2026-06-09T09:50:45.523961+00:00",
+    "startDate": "2026-05-10T09:50:44.665863+00:00",
+    "endDate": "2026-06-09T09:50:44.665863+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 173,
-    "human": 89,
+    "total": 181,
+    "human": 94,
     "auto": 14,
-    "selfBooked": 70,
+    "selfBooked": 73,
     "other": 0,
-    "humanPct": 51,
+    "humanPct": 52,
     "autoPct": 8,
-    "notHumanPct": 49
+    "notHumanPct": 48
   },
   "sourceCounts": {
-    "booking_widget": 70,
-    "calendar_page": 7,
+    "booking_widget": 73,
+    "calendar_page": 6,
     "third_party": 10,
-    "contactdetails_page": 75,
-    "mobile_app": 7,
+    "contactdetails_page": 80,
+    "mobile_app": 8,
     "conversations_ai": 4
   },
   "appointments": [
+    {
+      "id": "KyxJxFCSY01iYBLiglPp",
+      "title": " Courtney Davidson Design Consultation with  at 1426 Talco Garden Court League City TX 77573",
+      "startTime": "2026-06-09T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "cJX6IQUbZKBCabZ3tWnp",
+      "title": " Marshall Frascone Design Consultation with  at 1127 Northcross Dr Salado tx 76571",
+      "startTime": "2026-06-09T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "IPMMshR4I8HY8CVB6xPZ",
+      "title": "Appt w Vanessa Gudahl",
+      "startTime": "2026-06-09T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "ipUo6By4QoISLp7FRGml",
+      "title": "Villarreal pool design- premier pools ",
+      "startTime": "2026-06-09T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "Q97cm058PY9SLQlV09ie"
+    },
+    {
+      "id": "8RkYWgrvaO8MHdxnMUel",
+      "title": " Doug Matthijetz Design Consultation with  at 4244 Cold Springs Road Kempner Texas 76539",
+      "startTime": "2026-06-09T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "AAbkgK1e5pWN109PXSbO",
+      "title": " Bill Nelson Design Consultation with  at 815 Cool Cucumber Way Richmond Texas 77406",
+      "startTime": "2026-06-09T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "MmrebtrRXuNZpom6FlgF",
+      "title": " Bonnie Bauto Design Consultation with  at 2704 Barons Cove Court Pearland Texas 77584",
+      "startTime": "2026-06-09T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "dp2pqaDZDniFnAEjl32s",
+      "title": " Jennifer Carroll Design Consultation with  at 354 Merion Drive Austin Texas 78737",
+      "startTime": "2026-06-09T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uqvuoP5MQIb7ek6gvwH9",
+      "title": " Yuliya Nash Design Consultation with  at 16736 Aminia Ave Pflugerville Texas 78660",
+      "startTime": "2026-06-09T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "FcJUjTs0eHStT5BzEFSm",
+      "title": "Amanda Broeders Design Consultation with  at 8935 Willingham Bay San Antonio TX 78254",
+      "startTime": "2026-06-09T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "fIpN0e8cO7sVViQCbIjt",
+      "title": " Troy Melchor Design Consultation with  at 2112 Commander St Pasadena TX 77502",
+      "startTime": "2026-06-09T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "PhnEXs6jutDFpvieNMxR",
       "title": "2nd Appt w John Douzat",
@@ -67,17 +188,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "deQi3ozO6KkM4dYtY14i",
-      "title": " Karen Birch Design Consultation with  at 7611 Tejas Lakes Trail Needville Texas 77461",
-      "startTime": "2026-06-08T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "hwy6qSH4j5wpJPl7nlot",
@@ -1904,28 +2014,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "BMcluGLUKHkbUGRMarV1",
-      "title": " Adam Keen Design Consultation with  at 241 Yaupon Drive Brazoria Texas 77422",
-      "startTime": "2026-05-09T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1778302800000_82800",
-      "title": "Block",
-      "startTime": "2026-05-09T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
