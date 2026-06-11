@@ -1,29 +1,139 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T10:06:23.731487+00:00",
-    "startDate": "2026-05-11T10:06:23.030969+00:00",
-    "endDate": "2026-06-10T10:06:23.030969+00:00",
+    "generatedAt": "2026-06-11T10:40:36.787475+00:00",
+    "startDate": "2026-05-12T10:40:36.234340+00:00",
+    "endDate": "2026-06-11T10:40:36.234340+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 188,
-    "human": 99,
-    "auto": 14,
-    "selfBooked": 75,
+    "total": 190,
+    "human": 96,
+    "auto": 15,
+    "selfBooked": 79,
     "other": 0,
-    "humanPct": 53,
-    "autoPct": 7,
-    "notHumanPct": 47
+    "humanPct": 51,
+    "autoPct": 8,
+    "notHumanPct": 49
   },
   "sourceCounts": {
-    "booking_widget": 75,
-    "calendar_page": 7,
-    "third_party": 10,
-    "contactdetails_page": 85,
+    "contactdetails_page": 83,
+    "third_party": 9,
+    "booking_widget": 79,
     "mobile_app": 7,
-    "conversations_ai": 4
+    "conversations_ai": 6,
+    "calendar_page": 6
   },
   "appointments": [
+    {
+      "id": "AwY7PdLcDikkRAGMrMbu",
+      "title": "Nicole Vera, Design Consultation",
+      "startTime": "2026-06-11T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "q3tIPPu3VSFCUmMU9qxI",
+      "title": " Rosario DeLeon Design Consultation with  at 11020 Roy Butler Drive Austin Texas 78717",
+      "startTime": "2026-06-11T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "jl1FG5lGZkTrMViNlCq1",
+      "title": " Linh Nguyen Design Consultation with  at 10606 Nicoles Place Trail Houston Texas 77089",
+      "startTime": "2026-06-11T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "dQC77rpS0pu5n2CbnNLF",
+      "title": "Samuel Medellin Design Consultation with  at 8215 Via Sita Court, San Antonio, Texas 78250 San Antonio TX 78250",
+      "startTime": "2026-06-11T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "XQBgDdndE2UKR7Myem9z",
+      "title": " Joe Norman Design Consultation with  at 14205 Jacobson Rd, Del Valle Austin Texas 78617",
+      "startTime": "2026-06-11T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "x22JMB4T8m7grirWfp4v",
+      "title": " Jerrod Johnson Design Consultation with  at 1806 Grand River Drive Richmond Texas 77406",
+      "startTime": "2026-06-11T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "oyBMxRqwt3vo26MciAVy",
+      "title": " Melody Guzman Design Consultation with  at 6500 McGregor Loop killeen TX 76549",
+      "startTime": "2026-06-11T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "DP4vsnYcND13dud8dVI6",
+      "title": "Jen Miller Design Consultation with  at 2143 Parker Grove Drive Arcola Texas 77583",
+      "startTime": "2026-06-11T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "B3v1gGnCTu1KiJVLy9hn",
+      "title": " Angie Goldstein Design Consultation with  at Kyle TX 78640",
+      "startTime": "2026-06-11T09:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "SdLQwTe7UbQEiVnoX9K7",
+      "title": "Elizabeth Perez Design Consultation with  at 8819 Hideout Bend San Antonio Texas 78254",
+      "startTime": "2026-06-11T00:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "6qyR7ZIgEtxx4vpjvvkL",
       "title": " Cecilia Griffith Design Consultation with  at 5913 Becky Lane Pearland Texas 77584",
@@ -2003,94 +2113,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "TSaxcJvHDx4Lv3jXIE2P",
-      "title": "Appt w Violeta Gonzalez",
-      "startTime": "2026-05-11T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "p4h5CFGpMAR0VuquCCaA",
-      "title": "Traci Poteet Design Consultation with  at 2448 Ayers Drive Seguin Texas 78155",
-      "startTime": "2026-05-11T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "HLP4KQZJEyzhAGxovH6r",
-      "title": "TEST Leon Manthey Design Consultation with  at 438 Brioux Avenue Peterborough Ontario K9J 4G7",
-      "startTime": "2026-05-11T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "hGkjZP0tIYvtAcDleFAg"
-    },
-    {
-      "id": "JVXOrTc6Gm0DyVBLPEVR",
-      "title": " JOSE FARIAS Design Consultation with  at 2819 Totley Road, Pflugerville, Texas 78660 Pflugerville Tx 78660",
-      "startTime": "2026-05-11T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "e4Rdo8OsdoWQs5EmIbIr",
-      "title": "Appt w Tracy Kadlecek",
-      "startTime": "2026-05-11T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "4cAh0UroRXkO8kxunvZ6",
-      "title": "Morgan - Layout Meeting",
-      "startTime": "2026-05-11T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "vqAkya92rfigkY0Hiqjq",
-      "title": "First appt between Cody Gilcrease and Julia Garcia",
-      "startTime": "2026-05-11T11:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "invalid",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "1WdJGvVtYtNYwOyS0B4Q"
-    },
-    {
-      "id": "H0oSpwBDRfPhAYaK6IcY",
-      "title": " Melinda Lopez Design Consultation with  at 512 Fowzer Street Taylor Texas 76574",
-      "startTime": "2026-05-11T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
