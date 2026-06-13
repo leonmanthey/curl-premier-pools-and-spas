@@ -1,29 +1,117 @@
 {
   "meta": {
-    "generatedAt": "2026-06-12T10:18:11.351626+00:00",
-    "startDate": "2026-05-13T10:18:10.574770+00:00",
-    "endDate": "2026-06-12T10:18:10.574770+00:00",
+    "generatedAt": "2026-06-13T09:20:13.820373+00:00",
+    "startDate": "2026-05-14T09:20:12.007931+00:00",
+    "endDate": "2026-06-13T09:20:12.007931+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 193,
-    "human": 99,
-    "auto": 14,
-    "selfBooked": 80,
+    "total": 196,
+    "human": 103,
+    "auto": 16,
+    "selfBooked": 77,
     "other": 0,
-    "humanPct": 51,
-    "autoPct": 7,
-    "notHumanPct": 49
+    "humanPct": 53,
+    "autoPct": 8,
+    "notHumanPct": 47
   },
   "sourceCounts": {
-    "booking_widget": 80,
-    "contactdetails_page": 84,
-    "mobile_app": 7,
-    "conversations_ai": 7,
+    "contactdetails_page": 87,
+    "mobile_app": 8,
+    "booking_widget": 77,
+    "conversations_ai": 9,
     "third_party": 7,
     "calendar_page": 8
   },
   "appointments": [
+    {
+      "id": "R9w3hM8TxyF6YmcbKRJ0",
+      "title": "Appt w Mary Ortega",
+      "startTime": "2026-06-13T17:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "p4sHNvwg2O1BpONOq6BE",
+      "title": " Tarun Sharma Design Consultation with  at 2632 Salorn Way Round Rock Texas 78681",
+      "startTime": "2026-06-13T13:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "6OnMWhoE6OjSRZoxz8FF",
+      "title": " Alicia Prum Design Consultation with  at Rosharon, Tx Rosharon TX 77583",
+      "startTime": "2026-06-13T10:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "HvWOAp9yO9T1LTLPu38o",
+      "title": "Appt w Janet Green",
+      "startTime": "2026-06-13T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "gGTPvRzGEFF9Ri9cVV5P",
+      "title": "Appt w Darren Green",
+      "startTime": "2026-06-13T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "fWMJs3b5Uxn8iVm0tC2M",
+      "title": " Tomas Jimenez Design Consultation with  at League City TX 77539",
+      "startTime": "2026-06-13T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "puOvmZk9ViA026TmZb2Y"
+    },
+    {
+      "id": "hWQGRjFPzYNi6KHrQnyH",
+      "title": "Remodel Appt w Staci Houlton",
+      "startTime": "2026-06-13T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "FVZcjRsh9zRplgBkePkx",
+      "title": "Valerie Marin Design Consultation with  at 12515 hillside ranch San Antonio TX 78254",
+      "startTime": "2026-06-13T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1781326800000_82800",
       "title": "Block",
@@ -36,22 +124,22 @@
       "userId": "4LgGLxudGj69FZOb6goB"
     },
     {
+      "id": "ztP7EzW1tdCvFDOHcG9r",
+      "title": "Appt w Tara and Chris Gray",
+      "startTime": "2026-06-12T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
       "id": "lUZqVdXIVKB1x1Gqla9B",
       "title": " Maria Davis Design Consultation with  at 560 Hammersmith Ln League City Texas 77573",
       "startTime": "2026-06-12T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "sPSJEfXNnVXcZlbyRtur",
-      "title": " Juan D\u00edas Design Consultation with  at 315 Pennsylvania St South Houston Texas 77587",
-      "startTime": "2026-06-12T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2091,61 +2179,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "AXavpLEPVoDXJegYXwNl",
-      "title": " Jimmy Tomlinson Design Consultation with  at Pasadena Texas 77505",
-      "startTime": "2026-05-13T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "KPJ7ZtofAidiOi628Lpo",
-      "title": "Appt w Michael Wagner",
-      "startTime": "2026-05-13T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "gGIoF9ikw0fh91XTiIfq",
-      "title": "Appt w Alex Gonzalez",
-      "startTime": "2026-05-13T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "gpnQgVZVZE4Ethl3Wd6p",
-      "title": " Ariel Benigno Design Consultation with  at 10239 Scull Creek Drive Austin Texas 78730",
-      "startTime": "2026-05-13T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Iplvd65dE8qfUO3XARmx",
-      "title": "Emma Anderson Design Consultation with  at 7935 Andrews Pass San Antonio Texas 78254",
-      "startTime": "2026-05-13T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
