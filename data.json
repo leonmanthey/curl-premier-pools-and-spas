@@ -1,35 +1,134 @@
 {
   "meta": {
-    "generatedAt": "2026-06-15T12:20:41.999229+00:00",
-    "startDate": "2026-05-16T12:20:41.305493+00:00",
-    "endDate": "2026-06-15T12:20:41.305493+00:00",
+    "generatedAt": "2026-06-16T11:16:32.511008+00:00",
+    "startDate": "2026-05-17T11:16:30.924472+00:00",
+    "endDate": "2026-06-16T11:16:30.924472+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 193,
-    "human": 99,
-    "auto": 18,
-    "selfBooked": 76,
+    "total": 195,
+    "human": 100,
+    "auto": 17,
+    "selfBooked": 78,
     "other": 0,
     "humanPct": 51,
     "autoPct": 9,
     "notHumanPct": 49
   },
   "sourceCounts": {
-    "contactdetails_page": 83,
     "mobile_app": 8,
-    "booking_widget": 76,
-    "conversations_ai": 11,
+    "booking_widget": 78,
+    "contactdetails_page": 84,
+    "conversations_ai": 10,
     "third_party": 7,
     "calendar_page": 8
   },
   "appointments": [
     {
+      "id": "Sc1KWKk5XbPQQ2SWmtDg",
+      "title": "Appt w Dee Hollingworth",
+      "startTime": "2026-06-16T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "G0YnGO9dGNfU8SwchcAQ",
+      "title": "Chuck Richardson Design Consultation with  at 610 Torrey Pines Cibolo Texas 78108",
+      "startTime": "2026-06-16T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uwue19wyCWhGOfPTysWQ",
+      "title": " Kody Karsteter Design Consultation with  at 9831 Willow Crown Lane Richmond Texas 77406",
+      "startTime": "2026-06-16T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "mGGJiasLQ0sVQ5YwDIqA",
+      "title": "Rhonda Pourzadi Design Consultation with  at 1212 Steeple Run New Braunfels Texas 78132",
+      "startTime": "2026-06-16T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "2c0JwmUeTnqf0zCl0zG7",
+      "title": " Dalton Stickley Design Consultation with  at 103 Robin Trail Richwood Texas 77531",
+      "startTime": "2026-06-16T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "8rILZHW0q4e78fA9ueUq",
+      "title": "Design Consultation with Marilyn",
+      "startTime": "2026-06-16T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "UhAMg0OuVVe1Hjdt0kwb",
+      "title": "Appt w Samuel Schoolcraft",
+      "startTime": "2026-06-16T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "bpDM0VA25yVo9K3XLw7W",
+      "title": "2nd Appt Matt Eggenschwiler, Design & Pricing Options",
+      "startTime": "2026-06-16T08:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "esPtpHqs64UzSQlofs6u",
+      "title": "Appt w Carla Hardy",
+      "startTime": "2026-06-16T08:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
       "id": "yNdeUkAV548zVv86DyYw",
       "title": " Paige Webster Design Consultation with  at Angleton TX 77515",
       "startTime": "2026-06-15T18:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -40,22 +139,11 @@
       "title": "Nicole Vera, Design Consultation",
       "startTime": "2026-06-15T17:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "VyE2yrfC2PAQXEHNdm15",
-      "title": " Kayla Courtright Design Consultation with  at 1741 White Carp Lane Alvin Texas 77511",
-      "startTime": "2026-06-15T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "Y9BMrvBiJX3lyUOpOsUz",
@@ -73,22 +161,11 @@
       "title": "Appt w Fernando Cornier",
       "startTime": "2026-06-15T15:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "y20HStJa8h7G5BjtdjFt",
-      "title": " Laura Cano Design Consultation with  at 12501 Barker Hollow Cove Austin Texas 78739",
-      "startTime": "2026-06-15T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
     },
     {
       "id": "yEyeQjEMpTqZxgscRiqB",
@@ -260,7 +337,7 @@
       "title": "Beth Hanak Remodel",
       "startTime": "2026-06-12T15:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2091,61 +2168,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "P6ubVijPCFyM47nwTPFg",
-      "title": "SA Appt w Nick Garcia",
-      "startTime": "2026-05-16T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "kVrSrPxPDVxvSD5wV29O",
-      "title": "Appt w Zenia Hinojosa",
-      "startTime": "2026-05-16T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "snEuIqJHGYxF5xpBwRT8",
-      "title": "Appt w Noah Cantu",
-      "startTime": "2026-05-16T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "8onoDgdpnKlS8d3QYCzY",
-      "title": "Mark Torrez Design Consultation with  at 818 Town Creek Way Cibolo Texas 78108",
-      "startTime": "2026-05-16T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1778907600000_82800",
-      "title": "Block",
-      "startTime": "2026-05-16T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
