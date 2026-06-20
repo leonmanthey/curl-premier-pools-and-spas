@@ -1,29 +1,40 @@
 {
   "meta": {
-    "generatedAt": "2026-06-19T10:41:30.728087+00:00",
-    "startDate": "2026-05-20T10:41:29.999402+00:00",
-    "endDate": "2026-06-19T10:41:29.999402+00:00",
+    "generatedAt": "2026-06-20T09:19:54.820795+00:00",
+    "startDate": "2026-05-21T09:19:54.181772+00:00",
+    "endDate": "2026-06-20T09:19:54.181772+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 205,
-    "human": 101,
+    "total": 200,
+    "human": 99,
     "auto": 18,
-    "selfBooked": 86,
+    "selfBooked": 83,
     "other": 0,
-    "humanPct": 49,
+    "humanPct": 50,
     "autoPct": 9,
-    "notHumanPct": 51
+    "notHumanPct": 50
   },
   "sourceCounts": {
-    "booking_widget": 86,
-    "contactdetails_page": 86,
+    "contactdetails_page": 84,
     "mobile_app": 7,
+    "booking_widget": 83,
     "conversations_ai": 12,
     "third_party": 6,
     "calendar_page": 8
   },
   "appointments": [
+    {
+      "id": "YACP4lbkABFRyv4FZsjy",
+      "title": "Alberto Trujillo Design Consultation with  at 5127 Pine Lake Drive San Antonio Texas 78244",
+      "startTime": "2026-06-20T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1781931600000_82800",
       "title": "Block",
@@ -62,7 +73,7 @@
       "title": "Appt w Randy Nunez",
       "startTime": "2026-06-19T16:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -88,6 +99,17 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "2s4qtYCjNggRgmEAzV0B",
+      "title": " Kimberly Jones Design Consultation with  at Manvel TX 77578",
+      "startTime": "2026-06-19T12:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
       "userId": null
     },
     {
@@ -121,17 +143,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "2s4qtYCjNggRgmEAzV0B",
-      "title": " Kimberly Jones Design Consultation with  at Manvel TX 77578",
-      "startTime": "2026-06-19T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
       "userId": null
     },
     {
@@ -2207,72 +2218,6 @@
       "title": "Appt w Patrick Taylor",
       "startTime": "2026-05-21T10:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Q7XVZ8pRhr0PToDPD4GP",
-      "title": "Appt w Abdallah Jbara",
-      "startTime": "2026-05-20T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "z5gKDoeW3xg0v7rEdRTx",
-      "title": " Gabriella Jones Design Consultation with  at 221 Kerley Drive Hutto Texas 78634",
-      "startTime": "2026-05-20T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "OPiPeodtUtp6GpgYpxJk",
-      "title": " Fernando Rodriguez Design Consultation with  at 3711 Forney Ridge Ln Houston Texas 77047",
-      "startTime": "2026-05-20T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "YhFkY8qZ889NdicRmCO6",
-      "title": "Melissa Rodriguez Design Consultation with  at 26831 Highland Crest San Antonio Texas 78260",
-      "startTime": "2026-05-20T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "WOFq3d8Z0WQ3R5hX5ALb",
-      "title": " Ashley Salinas Design Consultation with  at 688 Fountain View Ln League City Texas 77573",
-      "startTime": "2026-05-20T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "8DCAGylSGFCWDEG2jRhS",
-      "title": " Brian Bertsch Design Consultation with  at 1702 Post Office St Tx",
-      "startTime": "2026-05-20T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
