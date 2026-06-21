@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-06-20T09:19:54.820795+00:00",
-    "startDate": "2026-05-21T09:19:54.181772+00:00",
-    "endDate": "2026-06-20T09:19:54.181772+00:00",
+    "generatedAt": "2026-06-21T09:53:48.199528+00:00",
+    "startDate": "2026-05-22T09:53:47.375922+00:00",
+    "endDate": "2026-06-21T09:53:47.375922+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 200,
-    "human": 99,
+    "total": 195,
+    "human": 97,
     "auto": 18,
-    "selfBooked": 83,
+    "selfBooked": 80,
     "other": 0,
     "humanPct": 50,
     "autoPct": 9,
     "notHumanPct": 50
   },
   "sourceCounts": {
-    "contactdetails_page": 84,
+    "contactdetails_page": 82,
     "mobile_app": 7,
-    "booking_widget": 83,
+    "booking_widget": 80,
     "conversations_ai": 12,
     "third_party": 6,
     "calendar_page": 8
@@ -2163,61 +2163,6 @@
       "title": "Appt w Mandy Shane ",
       "startTime": "2026-05-22T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "trGS6QSDG36953BnfnYd",
-      "title": " Amy Parigi Design Consultation with  at 10415 Harmon Smith Drive Houston Texas 77025",
-      "startTime": "2026-05-21T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "yYiius4JS9H0kLlq3bGb",
-      "title": "Appt w Carolyn McMahan",
-      "startTime": "2026-05-21T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Mfhiz8XjC8TD6gXc4vZG",
-      "title": "Christine Trejo Design Consultation with  at 8548 Murray Grey San Antonio Texas 78254",
-      "startTime": "2026-05-21T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "tp7SFBbccf47AyTyYbgM",
-      "title": "Marquis Billingsley Design Consultation with  at 436 Westmont Cibolo Texas 78108",
-      "startTime": "2026-05-21T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "KfcCDD03Wjcf6s6L0nF7",
-      "title": "Appt w Patrick Taylor",
-      "startTime": "2026-05-21T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
