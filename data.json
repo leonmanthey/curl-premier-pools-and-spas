@@ -1,29 +1,128 @@
 {
   "meta": {
-    "generatedAt": "2026-06-21T09:53:48.199528+00:00",
-    "startDate": "2026-05-22T09:53:47.375922+00:00",
-    "endDate": "2026-06-21T09:53:47.375922+00:00",
+    "generatedAt": "2026-06-22T12:09:08.322122+00:00",
+    "startDate": "2026-05-23T12:09:07.481221+00:00",
+    "endDate": "2026-06-22T12:09:07.481221+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 195,
+    "total": 200,
     "human": 97,
-    "auto": 18,
-    "selfBooked": 80,
+    "auto": 19,
+    "selfBooked": 84,
     "other": 0,
-    "humanPct": 50,
-    "autoPct": 9,
-    "notHumanPct": 50
+    "humanPct": 48,
+    "autoPct": 10,
+    "notHumanPct": 52
   },
   "sourceCounts": {
-    "contactdetails_page": 82,
+    "contactdetails_page": 81,
     "mobile_app": 7,
-    "booking_widget": 80,
-    "conversations_ai": 12,
+    "booking_widget": 84,
+    "conversations_ai": 13,
     "third_party": 6,
-    "calendar_page": 8
+    "calendar_page": 9
   },
   "appointments": [
+    {
+      "id": "HP0Kr8ebn9SAnRttk541",
+      "title": " Sand Williams Design Consultation with  at 19 Indian Wells Dr Manvel Texas 77578",
+      "startTime": "2026-06-22T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "jYe33dWBJznjiwTiKNbf",
+      "title": "2nd appointment w Rosario & Jayson ",
+      "startTime": "2026-06-22T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "ju0b2ydBRfEJfssgJ5bw",
+      "title": "Pool Layout",
+      "startTime": "2026-06-22T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "72PBXH2yAivw26jYyv9L"
+    },
+    {
+      "id": "TmyE1Lt3lUQl9JDWKfE4",
+      "title": " Charles Amashta Design Consultation with  at 104 Cupa Monti Rd Hutto Texas 78634",
+      "startTime": "2026-06-22T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uwue19wyCWhGOfPTysWQ",
+      "title": " Kody Karsteter Design Consultation with  at 9831 Willow Crown Lane Richmond Texas 77406",
+      "startTime": "2026-06-22T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "MBIwza9bKa2dAfBmHvVo",
+      "title": " Chelsea Stover Design Consultation with  at 361 Los Cobos Lane Georgetown Texas 78626",
+      "startTime": "2026-06-22T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "FA9oGqNgvibpPWeaw2uP",
+      "title": " Erick Carter Design Consultation with  at 704 Olinda Way Liberty Hill Texas 78642",
+      "startTime": "2026-06-22T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Dmy068jMmBnW5oJp48xL",
+      "title": " Jeff Jones Design Consultation with  at 688 Oyster Creek Buda Texas 78610",
+      "startTime": "2026-06-22T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "hDW0JkGHSFVyO5SxQdSy",
+      "title": " Marylou Taijeron Design Consultation with  at 203 Owen Ct Killeen Texas 76542",
+      "startTime": "2026-06-22T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "YACP4lbkABFRyv4FZsjy",
       "title": "Alberto Trujillo Design Consultation with  at 5127 Pine Lake Drive San Antonio Texas 78244",
@@ -2124,50 +2223,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "ZjNzon2tJAa73D8zmbdB",
-      "title": " Jessica Van Sweringen Design Consultation with  at 1515 24th St Galveston Texas 77550",
-      "startTime": "2026-05-22T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bBb2QOBuEMi2kKwxjPOR",
-      "title": " Brandy Coborn Design Consultation with  at 120 Wedgewood Trace Lane La Porte Texas 77571",
-      "startTime": "2026-05-22T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "lBvj6r0GcuiaYP5QUjny",
-      "title": "First appointment with David Torres",
-      "startTime": "2026-05-22T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "verZhCVnUaZpDq23frxa",
-      "title": "Appt w Mandy Shane ",
-      "startTime": "2026-05-22T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
