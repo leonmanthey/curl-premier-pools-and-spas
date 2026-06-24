@@ -1,29 +1,161 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T09:45:27.272247+00:00",
-    "startDate": "2026-05-24T09:45:26.539585+00:00",
-    "endDate": "2026-06-23T09:45:26.539585+00:00",
+    "generatedAt": "2026-06-24T09:34:58.333257+00:00",
+    "startDate": "2026-05-25T09:34:57.332582+00:00",
+    "endDate": "2026-06-24T09:34:57.332582+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 204,
-    "human": 96,
-    "auto": 20,
-    "selfBooked": 88,
+    "total": 217,
+    "human": 101,
+    "auto": 21,
+    "selfBooked": 95,
     "other": 0,
     "humanPct": 47,
     "autoPct": 10,
     "notHumanPct": 53
   },
   "sourceCounts": {
-    "mobile_app": 9,
-    "booking_widget": 88,
-    "contactdetails_page": 79,
-    "conversations_ai": 14,
+    "mobile_app": 12,
+    "booking_widget": 95,
+    "contactdetails_page": 81,
+    "conversations_ai": 15,
     "third_party": 6,
     "calendar_page": 8
   },
   "appointments": [
+    {
+      "id": "JqNbmRNrrtBNQQy0eSpq",
+      "title": "Henderson pool consultation ",
+      "startTime": "2026-06-24T18:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "Q97cm058PY9SLQlV09ie"
+    },
+    {
+      "id": "9tpRJEX6YbSmOBVRriZh",
+      "title": "Layout Meeting with Jayson and Anthony",
+      "startTime": "2026-06-24T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "YPiizoKRknf1hCVjUFS2",
+      "title": " Lindsay Millican Design Consultation with  at 132 Ridgeview Ct Georgetown Texas 78628",
+      "startTime": "2026-06-24T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "AHhcAi0OtN7OxFbbStgC",
+      "title": " Mika Reed Design Consultation with  at Richmond TX 77469",
+      "startTime": "2026-06-24T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "z0EPqIRyxUcbP0QDbDiE",
+      "title": "Gloria Rapkin Design Consultation with  at 944 Black Horse Way San Antonio Texas 78260",
+      "startTime": "2026-06-24T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "yoToFZqyuntCuxSuepai",
+      "title": " Norma Sepulveda Design Consultation with  at 1902 Woodvale Dr Missouri City Texas 77489",
+      "startTime": "2026-06-24T13:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "tyDZfjQYXumLDft1A8mG",
+      "title": "Jamil Cofer Design Consultation with  at Converse Texas 78109",
+      "startTime": "2026-06-24T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1P2MtsX5E1TgBA0Oax7k",
+      "title": " Roxanne Felton Design Consultation with  at 10807 Amador Peak Drive Arcola Texas 77583",
+      "startTime": "2026-06-24T11:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "YvRJdjMCSqcIKDyesgfd",
+      "title": " Nelli Sims Design Consultation with  at 1906 River Rock Trail Harker Heights TX 76548",
+      "startTime": "2026-06-24T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Lf2vhXfKBzlyflHMiQIK",
+      "title": "Appt w Amber Drones",
+      "startTime": "2026-06-24T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "zM7wGPVIhkfxRfZjZvEL",
+      "title": "Rebecca Froman Design Consultation with  at 114 Dekoch Ridge Kerrville Texas 78028",
+      "startTime": "2026-06-24T09:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "JESgIe36hgizD3Ol3QBk",
+      "title": "Terry Skaggs Design Consultation with  at 422 Blue Gill Dr Lakehills Texas 78063",
+      "startTime": "2026-06-24T08:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "ipUo6By4QoISLp7FRGml",
       "title": "Villarreal pool design- premier pools ",
@@ -45,6 +177,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "5I7cGKI1va9LGg2dxCZi",
+      "title": "Chris Gross Design Consultation with  at 2256 Oakleaf Trail Lane League City Texas 77573",
+      "startTime": "2026-06-23T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
     },
     {
       "id": "E7ohRTdaphekLx5gn5zx",
@@ -106,7 +249,7 @@
       "title": " Renee Saenz Design Consultation with  at 173 Bayou Bend Blvd Angleton Texas 77515",
       "startTime": "2026-06-23T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
