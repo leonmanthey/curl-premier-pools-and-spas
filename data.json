@@ -1,29 +1,62 @@
 {
   "meta": {
-    "generatedAt": "2026-06-26T09:31:47.109201+00:00",
-    "startDate": "2026-05-27T09:31:45.892781+00:00",
-    "endDate": "2026-06-26T09:31:45.892781+00:00",
+    "generatedAt": "2026-06-27T08:39:12.033176+00:00",
+    "startDate": "2026-05-28T08:39:10.937317+00:00",
+    "endDate": "2026-06-27T08:39:10.937317+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 221,
-    "human": 101,
-    "auto": 20,
-    "selfBooked": 100,
+    "total": 216,
+    "human": 98,
+    "auto": 19,
+    "selfBooked": 99,
     "other": 0,
-    "humanPct": 46,
+    "humanPct": 45,
     "autoPct": 9,
-    "notHumanPct": 54
+    "notHumanPct": 55
   },
   "sourceCounts": {
-    "contactdetails_page": 82,
     "conversations_ai": 16,
-    "third_party": 4,
-    "booking_widget": 100,
+    "third_party": 3,
+    "contactdetails_page": 79,
+    "booking_widget": 99,
     "mobile_app": 10,
     "calendar_page": 9
   },
   "appointments": [
+    {
+      "id": "pbY1TzcICzLNbWTs6scY",
+      "title": "Appt w Priya Brahmbhatt",
+      "startTime": "2026-06-27T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "jcM8JLxT64TrksWcS31L",
+      "title": " Larry Seeton Design Consultation with  at 2727 Cumberland Drive, Tex Santa Fe Texas 77510",
+      "startTime": "2026-06-27T10:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "36xD0XBq3v4scxZZavTx",
+      "title": "Appt w Chris Scheffier",
+      "startTime": "2026-06-27T09:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1782536400000_82800",
       "title": "Block",
@@ -2365,94 +2398,6 @@
       "type": "auto",
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "d4wUNyJ7aLuOsrk1m812",
-      "title": "Phone Appt w MJ7 Mirville",
-      "startTime": "2026-05-27T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "IoKxJBpcPseZMVtwjSxU",
-      "title": "Appt w Warren Rivera",
-      "startTime": "2026-05-27T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "SfEYJitJb8MO4aYWcrhL",
-      "title": "Clint Wolf Design Consultation with  at 339 Allemania Drive New Braunfels Texas 78132",
-      "startTime": "2026-05-27T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "1QtJ8rF6Cfoq0HoA4eEr",
-      "title": "Silverio Salazar Design Consultation",
-      "startTime": "2026-05-27T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "dy1vGjjkEeItsC18eD6G",
-      "title": "Appt w Heather Chambers",
-      "startTime": "2026-05-27T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "9LiLUI9kHvVWUrbNCNpM",
-      "title": "Appt w Harvin Mendoza",
-      "startTime": "2026-05-27T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "wqSvoN7EDNTXXwmQzzm6",
-      "title": " Everett Lowenstein Design Consultation with  at 3075 Tam O'Shanter Lane, Missouri City 77459 Missouri City TX 77459",
-      "startTime": "2026-05-27T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "fKuIDWaXxNaDQicAA8X0",
-      "title": "Gregory Mack Design Consultation with  at 9703 Mohawk Ridge Drive Converse Texas 78109",
-      "startTime": "2026-05-27T08:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "noshow",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
