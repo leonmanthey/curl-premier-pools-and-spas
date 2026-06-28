@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generatedAt": "2026-06-27T08:39:12.033176+00:00",
-    "startDate": "2026-05-28T08:39:10.937317+00:00",
-    "endDate": "2026-06-27T08:39:10.937317+00:00",
+    "generatedAt": "2026-06-28T08:56:14.554518+00:00",
+    "startDate": "2026-05-29T08:56:13.912786+00:00",
+    "endDate": "2026-06-28T08:56:13.912786+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 216,
-    "human": 98,
-    "auto": 19,
-    "selfBooked": 99,
+    "total": 204,
+    "human": 94,
+    "auto": 17,
+    "selfBooked": 93,
     "other": 0,
-    "humanPct": 45,
-    "autoPct": 9,
-    "notHumanPct": 55
+    "humanPct": 46,
+    "autoPct": 8,
+    "notHumanPct": 54
   },
   "sourceCounts": {
-    "conversations_ai": 16,
-    "third_party": 3,
-    "contactdetails_page": 79,
-    "booking_widget": 99,
+    "contactdetails_page": 75,
+    "booking_widget": 93,
+    "third_party": 2,
+    "conversations_ai": 15,
     "mobile_app": 10,
     "calendar_page": 9
   },
@@ -2266,138 +2266,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5t8evrBEnHWvaXCALnHT",
-      "title": "Appt w Tori Murphy",
-      "startTime": "2026-05-28T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "0jcT7B2TzEgv8qVPrIf5",
-      "title": " Melody Jones Design Consultation with  at 3201 Creekside Ln Texas City Texas 77590",
-      "startTime": "2026-05-28T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Qx09MVx53ohUu2lYKbrZ",
-      "title": "Danett Frarmbs Design Consultation with  at 325 Scholl Rd Canyon Lake Texas 78133",
-      "startTime": "2026-05-28T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "8vDfUxs0nfkgmMwsyXoe",
-      "title": "Appt w IIika Rajbhandari",
-      "startTime": "2026-05-28T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "vpydvCydOuyAkEqBjsaT",
-      "title": " Nadeem Rajani Design Consultation with  at 9418 Sweet Palm Street Richmond Texas 77407",
-      "startTime": "2026-05-28T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "E71fuNqPFmx374m5ixu9",
-      "title": "Jacob Randles Design Consultation with  at 2933 Countryside Path Seguin Texas 78155",
-      "startTime": "2026-05-28T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "P7yWW8pkhMuwKvOamGbe",
-      "title": "Robert Jamison Design Consultation with  at 2094 shire meadows New Braunfels TX 78130",
-      "startTime": "2026-05-28T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "o87Ie3OML98R6nhuQdZR",
-      "title": " Jorge Plantier Design Consultation with  at 1403 Doral Ct Baytown Texas 77523",
-      "startTime": "2026-05-28T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "eYGCRl6wtFpxdTXyAsKy",
-      "title": "Joe Pisano",
-      "startTime": "2026-05-28T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "6A0jO6AsWKKvlYadxtX2",
-      "title": " Ricardo  Design Consultation with  at 1937 Beoder Drive Belton Tx 76513",
-      "startTime": "2026-05-28T08:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "doUe9HwEa7SmYlJLDxEo",
-      "title": "Adrian Gatica Design Consultation with  at 4911 Driskill Street San Antonio Texas 78228",
-      "startTime": "2026-05-28T08:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "xYtacGjAarajp5L5f0hL",
-      "title": " Lindsay Millican Design Consultation with  at 132 Ridgeview Ct Georgetown Texas 78628",
-      "startTime": "2026-05-28T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
       "userId": null
     }
   ]
