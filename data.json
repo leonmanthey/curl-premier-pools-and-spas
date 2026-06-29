@@ -1,29 +1,106 @@
 {
   "meta": {
-    "generatedAt": "2026-06-28T08:56:14.554518+00:00",
-    "startDate": "2026-05-29T08:56:13.912786+00:00",
-    "endDate": "2026-06-28T08:56:13.912786+00:00",
+    "generatedAt": "2026-06-29T11:04:54.410999+00:00",
+    "startDate": "2026-05-30T11:04:53.467725+00:00",
+    "endDate": "2026-06-29T11:04:53.467725+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 204,
+    "total": 199,
     "human": 94,
-    "auto": 17,
-    "selfBooked": 93,
+    "auto": 16,
+    "selfBooked": 89,
     "other": 0,
-    "humanPct": 46,
+    "humanPct": 47,
     "autoPct": 8,
-    "notHumanPct": 54
+    "notHumanPct": 53
   },
   "sourceCounts": {
-    "contactdetails_page": 75,
-    "booking_widget": 93,
-    "third_party": 2,
     "conversations_ai": 15,
+    "contactdetails_page": 75,
     "mobile_app": 10,
+    "booking_widget": 89,
+    "third_party": 1,
     "calendar_page": 9
   },
   "appointments": [
+    {
+      "id": "On2pdrdTBAyC3UkCk9Q2",
+      "title": "Appt w Carla Selvera",
+      "startTime": "2026-06-29T16:45:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "vRILF48HQ6QNZlRc4agX",
+      "title": "Jared Beck Remodel",
+      "startTime": "2026-06-29T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "elFNX96wITtJf8HtjlpE",
+      "title": "Romish Abdulrashid Design Consultation with  at 23318 Cawley Run San Antonio Texas 78255",
+      "startTime": "2026-06-29T15:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "bum0IUPTaFCP442rU5YZ",
+      "title": "Remodel Appt w Mayank Mishra",
+      "startTime": "2026-06-29T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "DHzaou1RBElXWV3DIwLH",
+      "title": " Belinda And Paul Thibault Design Consultation with  at 12334 Burgoyne Dr Houston Texas 77077",
+      "startTime": "2026-06-29T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "WtUkx9MCPnDuht3JbqTl",
+      "title": "Clint Kocurek Design Consultation",
+      "startTime": "2026-06-29T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "yXnjmT6HjhGdvu4JdM27"
+    },
+    {
+      "id": "nzBl2CXs7ecy4TR9xJQv",
+      "title": "Phone Appt only--  Issac Molina Design Consultation with  at 687 Reliance Dr Buda Texas 78610",
+      "startTime": "2026-06-29T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "pbY1TzcICzLNbWTs6scY",
       "title": "Appt w Priya Brahmbhatt",
@@ -2135,138 +2212,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "ivpbL66EvrQO5cudrrU2",
-      "title": "Phone Appt w Jason Davis",
-      "startTime": "2026-05-29T21:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "C6ewEf44G4xusdJSV6qq",
-      "title": " Johnny Quinine Design Consultation with  at 2819 Seabold Dr Missouri City Texas 77459",
-      "startTime": "2026-05-29T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Bpde4aStq02bXjIqUYIe",
-      "title": "Frank De La Cruz Design Consultation with  at 9329 Boiling Rapid San Antonio Texas 78254",
-      "startTime": "2026-05-29T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "EOcNAe1LQ9hx7bPfx5RS",
-      "title": " Amber McLain Design Consultation with  at 640 County Road 772 Damon Texas 77430",
-      "startTime": "2026-05-29T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Z6itrtOkJu874FUfcwfh",
-      "title": "Joel Duverge Design Consultation with Troy Johnson  at 323 Sierra Trail, Dripping Springs, 78620 Dripping Springs TX 78620",
-      "startTime": "2026-05-29T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "7fDkwHTEem8CFQ1yarmM",
-      "title": " Luke Rodgers Design Consultation with  at 2918 Wickwood Drive Pearland Texas 77584",
-      "startTime": "2026-05-29T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Nm0FOq1LVnNVly9iS5iF",
-      "title": "Amy Brown Design Consultation",
-      "startTime": "2026-05-29T14:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "alvJH0fu85Lj59nghCtw",
-      "title": " Elle Costello Design Consultation with  at 7902 Marsala Dr Temple Texas 76502",
-      "startTime": "2026-05-29T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "t6bLuqPuEJyziB96XluM",
-      "title": " Daniel Lewis Design Consultation with  at 1307 Flint Rdg Lp Salado Texas 76571",
-      "startTime": "2026-05-29T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "CqWVhlW8i3O1ogBLNyIv",
-      "title": "Appt w Andy Gore",
-      "startTime": "2026-05-29T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "tFcjU6yqI33VfwolKMYW",
-      "title": " Kenshara Cravens Design Consultation with  at 2719 8th St N Texas City Texas 77590",
-      "startTime": "2026-05-29T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "8gKowvpGGrgLDYL5uroG",
-      "title": "Jay Soliz Design Consultation with  at 338 Montfort Drive San Antonio Texas 78216",
-      "startTime": "2026-05-29T09:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
