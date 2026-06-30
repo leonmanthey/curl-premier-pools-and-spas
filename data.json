@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-06-29T11:04:54.410999+00:00",
-    "startDate": "2026-05-30T11:04:53.467725+00:00",
-    "endDate": "2026-06-29T11:04:53.467725+00:00",
+    "generatedAt": "2026-06-30T09:41:34.854353+00:00",
+    "startDate": "2026-05-31T09:41:34.092617+00:00",
+    "endDate": "2026-06-30T09:41:34.092617+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 199,
+    "total": 202,
     "human": 94,
     "auto": 16,
-    "selfBooked": 89,
+    "selfBooked": 92,
     "other": 0,
     "humanPct": 47,
     "autoPct": 8,
@@ -17,19 +17,96 @@
   },
   "sourceCounts": {
     "conversations_ai": 15,
-    "contactdetails_page": 75,
+    "contactdetails_page": 76,
     "mobile_app": 10,
-    "booking_widget": 89,
+    "booking_widget": 92,
     "third_party": 1,
-    "calendar_page": 9
+    "calendar_page": 8
   },
   "appointments": [
+    {
+      "id": "H09T4ActZXcbhjVScqYC",
+      "title": "Appt w Emanuel Ward",
+      "startTime": "2026-06-30T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "e3Lwxd1iW3tTF9dxyJgt",
+      "title": " Jordan Smith Design Consultation with  at 19 Lilah Springs Court Manvel Texas 77578",
+      "startTime": "2026-06-30T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "KgmtVKjuENgFM2Ome3pe",
+      "title": "Appt w Dalton Stickley",
+      "startTime": "2026-06-30T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "wb7LGKBnbV3AWMWPgNRu",
+      "title": "Appt w Bobby James",
+      "startTime": "2026-06-30T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "WktHfkpLmWnwzZjvvR2D",
+      "title": " Marlo Decluitt Design Consultation with  at 820 Cade Cove Georgetown Texas 78626",
+      "startTime": "2026-06-30T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "5cNy6MaEK6erN8FdvlgR",
+      "title": "Appt w Chris Almeyda",
+      "startTime": "2026-06-30T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "i9EgL7hfItQjdZdQoXoe",
+      "title": " GABRIELLE FINNEY Design Consultation with  at 14202 Cypress Meadows Drive Houston Texas 77047",
+      "startTime": "2026-06-30T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "On2pdrdTBAyC3UkCk9Q2",
       "title": "Appt w Carla Selvera",
       "startTime": "2026-06-29T16:45:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -84,7 +161,7 @@
       "title": "Clint Kocurek Design Consultation",
       "startTime": "2026-06-29T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2168,50 +2245,6 @@
       "source": "conversations_ai",
       "sourceLabel": "Conversations AI",
       "userId": null
-    },
-    {
-      "id": "BMilPRxvFAqMk5WmUiEX",
-      "title": "Appt w Robert Mendez",
-      "startTime": "2026-05-30T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "xH9BerXulJvzz2A37HDC",
-      "title": "Appt w Nyah Jackson",
-      "startTime": "2026-05-30T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "66o0VKp4sJN6mQNTH9rH",
-      "title": "Appt w Dina Lujan",
-      "startTime": "2026-05-30T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1780117200000_82800",
-      "title": "Block",
-      "startTime": "2026-05-30T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
