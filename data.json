@@ -1,29 +1,150 @@
 {
   "meta": {
-    "generatedAt": "2026-07-01T09:52:41.046542+00:00",
-    "startDate": "2026-06-01T09:52:40.430411+00:00",
-    "endDate": "2026-07-01T09:52:40.430411+00:00",
+    "generatedAt": "2026-07-02T09:16:30.961178+00:00",
+    "startDate": "2026-06-02T09:16:30.163659+00:00",
+    "endDate": "2026-07-02T09:16:30.163659+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 213,
-    "human": 100,
-    "auto": 18,
-    "selfBooked": 95,
+    "total": 215,
+    "human": 99,
+    "auto": 17,
+    "selfBooked": 99,
     "other": 0,
-    "humanPct": 47,
+    "humanPct": 46,
     "autoPct": 8,
-    "notHumanPct": 53
+    "notHumanPct": 54
   },
   "sourceCounts": {
-    "conversations_ai": 17,
-    "contactdetails_page": 81,
-    "mobile_app": 11,
-    "booking_widget": 95,
+    "booking_widget": 99,
+    "contactdetails_page": 82,
     "third_party": 1,
-    "calendar_page": 8
+    "mobile_app": 9,
+    "calendar_page": 8,
+    "conversations_ai": 16
   },
   "appointments": [
+    {
+      "id": "K0nmg8vgaXdAmjSotm3s",
+      "title": " Shreeya Parajuli Design Consultation with  at 121 Magnolia Springs Drive Georgetown Texas 78628",
+      "startTime": "2026-07-02T18:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "50Db7OwZyksJqSP1Vp9q",
+      "title": " Ishan Patel Design Consultation with  at 604 Mallow Rd Leander Texas 78641",
+      "startTime": "2026-07-02T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "GIug8YlJKTHIAlxcyLr6",
+      "title": "Appt w Jason Flowers",
+      "startTime": "2026-07-02T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "hGJTcpw6ZvFMGGrhCFUg",
+      "title": " Jaideep Sagar Design Consultation with  at 605 Wolf Ridge Road Georgetown Texas 78628",
+      "startTime": "2026-07-02T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "BWwM7GpRp9a8x9Osoebm",
+      "title": "Appt w Grayling Pop Bocage",
+      "startTime": "2026-07-02T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "90QVTssvHOQRotOjsla9",
+      "title": "Griselda Sandoval Design Consultation with  at 9115 Laguna Falls San Antonio Texas 78251",
+      "startTime": "2026-07-02T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "6R8VpyinYullIbaYYW9H",
+      "title": " Joshua Jackson Design Consultation with  at 2924 Wigeon Way Copperas Cove Texas 76522",
+      "startTime": "2026-07-02T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "jFv3kVXnJccrxioQ1HRi",
+      "title": " Joshua Jackson Design Consultation with  at 2924 Wigeon Way Copperas Cove Texas 76522",
+      "startTime": "2026-07-02T10:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "gNGXMFIWdQmaaS0ebN84",
+      "title": " Phone Appt w BJ Stampley Design Consultation with  at El Lago TX 77586",
+      "startTime": "2026-07-02T09:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "NzB3Y2CdplkbctNA6M9S",
+      "title": "Clayton Porter Design Consultation with  at 1334 Wilson Creek New Braunfels Texas 78132",
+      "startTime": "2026-07-02T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "sBfbJP5E0xCF5xdRnTJJ",
+      "title": " Justin Grosz Design Consultation with  at 5625 Knob Creek Road Temple Texas 76501",
+      "startTime": "2026-07-02T08:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "6LVKxUJX3MihYEzUH2YH",
       "title": " Jason Hughes Design Consultation with  at 4617 Neal Dr Seabrook Texas 77586",
@@ -58,22 +179,11 @@
       "userId": null
     },
     {
-      "id": "E6PO7EcHKKUC6TmQWW0J",
-      "title": " Revelino Saa Design Consultation with  at 5209 Limousin dr. Belton TX 76513 Belton Tx 76513",
-      "startTime": "2026-07-01T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
       "id": "54qQQL3WdjnfguZBn8y6",
       "title": "Appt w Rahi Ali",
       "startTime": "2026-07-01T15:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "new",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -100,6 +210,17 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
+    },
+    {
+      "id": "E6PO7EcHKKUC6TmQWW0J",
+      "title": " Revelino Saa Design Consultation with  at 5209 Limousin dr. Belton TX 76513 Belton Tx 76513",
+      "startTime": "2026-07-01T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "a3Q0IJ4LbYkbiCavO01C",
@@ -139,7 +260,7 @@
       "title": "Appt w Kay Henry",
       "startTime": "2026-07-01T10:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2266,105 +2387,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "0zb74ahGtYx0Gl5kbpJo",
-      "title": "Adrian Gatica Design Consultation with  at 4911 Driskill Street San Antonio Texas 78228",
-      "startTime": "2026-06-01T18:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "nBhvkuL6E8XBWKij8Fjo",
-      "title": " Natacha Smith Design Consultation with  at 3621 Soft Shore Lane Pflugerville Texas 78660",
-      "startTime": "2026-06-01T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "IJKwlElOc3KaWGObpWiO",
-      "title": " Matthew Muecke Design Consultation with  at 106 22nd Street San Leon Texas 77539",
-      "startTime": "2026-06-01T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "jwg11hFPMdcbJUFzU9Lw",
-      "title": "Phone Call",
-      "startTime": "2026-06-01T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "UmkQfM1PfDc5Swpvw1Pz",
-      "title": " Julie Ramirez Design Consultation with  at 4420 Glenwood Dr Richmond Texas 77406",
-      "startTime": "2026-06-01T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "lw9AYxMFyLVjaDGE2yeo",
-      "title": "Erika Reyes Design Consultation with  at 115 Jean St San Antonio Texas 78207",
-      "startTime": "2026-06-01T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "yuA0GSQLDwSwpcQ25f79",
-      "title": " Melody Guzman Design Consultation with  at 6500 McGregor Loop killeen TX 76549",
-      "startTime": "2026-06-01T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "jmpprzEFWXUKAq8AkuyS",
-      "title": "Appt w Jeremy Carter",
-      "startTime": "2026-06-01T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "3SjTdMzomXYwmOxuAXcL",
-      "title": " Adrianne Strong Design Consultation with  at Austin TX 78739",
-      "startTime": "2026-06-01T09:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
       "userId": null
     }
   ]
