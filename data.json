@@ -1,29 +1,40 @@
 {
   "meta": {
-    "generatedAt": "2026-07-03T09:22:04.006566+00:00",
-    "startDate": "2026-06-03T09:22:03.183729+00:00",
-    "endDate": "2026-07-03T09:22:03.183729+00:00",
+    "generatedAt": "2026-07-04T08:40:35.507327+00:00",
+    "startDate": "2026-06-04T08:40:34.789024+00:00",
+    "endDate": "2026-07-04T08:40:34.789024+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 215,
-    "human": 100,
-    "auto": 18,
-    "selfBooked": 97,
+    "total": 203,
+    "human": 92,
+    "auto": 17,
+    "selfBooked": 94,
     "other": 0,
-    "humanPct": 47,
+    "humanPct": 45,
     "autoPct": 8,
-    "notHumanPct": 53
+    "notHumanPct": 55
   },
   "sourceCounts": {
-    "contactdetails_page": 81,
-    "booking_widget": 97,
     "third_party": 1,
     "mobile_app": 10,
+    "contactdetails_page": 73,
+    "booking_widget": 94,
     "calendar_page": 9,
-    "conversations_ai": 17
+    "conversations_ai": 16
   },
   "appointments": [
+    {
+      "id": "stAzDV6fvyImLp7dfaRu",
+      "title": "Faifua Taafaasasau Design Consultation with  at 9931 Medicine Hat San Antonio Texas 78254",
+      "startTime": "2026-07-04T12:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1783141200000_82800",
       "title": "Block",
@@ -36,22 +47,11 @@
       "userId": "4LgGLxudGj69FZOb6goB"
     },
     {
-      "id": "vBBvRCnaakR88sk3M4BY",
-      "title": "Olga Tobar Design Consultation with  at Cibolo TX 78108",
-      "startTime": "2026-07-03T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
       "id": "5nK0XAn5XuPcGHIy5Rh0",
       "title": "Vanessa Thomas Design Consultation with  at 12919 Spur Hollow Schertz Texas 78154",
       "startTime": "2026-07-03T15:30:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -67,17 +67,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "deQi3ozO6KkM4dYtY14i",
-      "title": " Karen Birch Design Consultation with  at 7611 Tejas Lakes Trail Needville Texas 77461",
-      "startTime": "2026-07-03T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "jYe33dWBJznjiwTiKNbf",
@@ -2261,127 +2250,6 @@
       "id": "99H9UukHjB74KJYNUTWp",
       "title": "Kimberly Shaner Design Consultation with  at 7523 Redman Pass Converse Texas 78109",
       "startTime": "2026-06-04T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "zK11SC4JBCIfrim7lH9r",
-      "title": "Phone Appt w Julia Burns",
-      "startTime": "2026-06-03T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "TIjKNzRTRr8nyy3jW1Kk",
-      "title": " Ana Leal Design Consultation with  at 4710 jasmine heathe lane Baytown TX 77521",
-      "startTime": "2026-06-03T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "dbsVuJX45bYikh7vDzo9",
-      "title": "Appt w Pedro Chavez",
-      "startTime": "2026-06-03T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "0v5Uoi8jtuqDuHWBhT9i",
-      "title": " Christopher Jack Design Consultation with  at 2000 Spanish Oak Trail Round Rock Texas 78681",
-      "startTime": "2026-06-03T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Dsc3l8fj2vA4Omm5JsSD",
-      "title": " Yeehaw Stock Design Consultation with  at 1524 Caylea Bluff Lane Georgetown TX 78628",
-      "startTime": "2026-06-03T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "YeA0t07fyHpouHJmYlYf",
-      "title": "Appt w Luis Chavez",
-      "startTime": "2026-06-03T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "RLE5vaCk0rrpLy5JNFdB",
-      "title": " Hugo Gonzalez Design Consultation with  at 10602 Edgar Street Houston Texas 77047",
-      "startTime": "2026-06-03T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "alZ8eAre8Eu3NFaTVucX",
-      "title": "Appt w Nycia Emerson",
-      "startTime": "2026-06-03T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "5i2a18ue0zchjKSFgN0g",
-      "title": "Appt w Karen Allee",
-      "startTime": "2026-06-03T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "SXhlLx5Jx86Sd65XxqYw",
-      "title": " Chris Day Design Consultation",
-      "startTime": "2026-06-03T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "BeKHmBBtxeYvChU407Ge",
-      "title": "Meredith Upshaw Design Consultation with  at 373 Rhapsody View Spring Branch Texas 78070",
-      "startTime": "2026-06-03T10:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "confirmed",
       "type": "self",
