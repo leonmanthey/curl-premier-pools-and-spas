@@ -1,29 +1,39 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T08:40:35.507327+00:00",
-    "startDate": "2026-06-04T08:40:34.789024+00:00",
-    "endDate": "2026-07-04T08:40:34.789024+00:00",
+    "generatedAt": "2026-07-05T08:55:59.643159+00:00",
+    "startDate": "2026-06-05T08:55:58.865977+00:00",
+    "endDate": "2026-07-05T08:55:58.865977+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 203,
-    "human": 92,
-    "auto": 17,
-    "selfBooked": 94,
+    "total": 193,
+    "human": 87,
+    "auto": 15,
+    "selfBooked": 91,
     "other": 0,
     "humanPct": 45,
     "autoPct": 8,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "third_party": 1,
-    "mobile_app": 10,
-    "contactdetails_page": 73,
-    "booking_widget": 94,
-    "calendar_page": 9,
-    "conversations_ai": 16
+    "contactdetails_page": 70,
+    "booking_widget": 91,
+    "calendar_page": 8,
+    "conversations_ai": 15,
+    "mobile_app": 9
   },
   "appointments": [
+    {
+      "id": "SykjPsgg0MVrBnpO9NGK",
+      "title": "First Appt w/ Antonio Talamante and Tyler Schlinke ",
+      "startTime": "2026-07-05T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "gSZoD6vamU3AzDp0UHmy"
+    },
     {
       "id": "stAzDV6fvyImLp7dfaRu",
       "title": "Faifua Taafaasasau Design Consultation with  at 9931 Medicine Hat San Antonio Texas 78254",
@@ -2131,127 +2141,6 @@
       "startTime": "2026-06-05T00:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "pGBDfdjofWFbaK4sjsOy",
-      "title": "Appt w Silas Williams",
-      "startTime": "2026-06-04T18:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "9K1k3ggTK16AOQliP5YF",
-      "title": "Appt w Brittany Gainous-Richmond",
-      "startTime": "2026-06-04T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "7JVXei7dcJFmBsk8120e",
-      "title": "Danett Frarmbs Design Consultation with  at 325 Scholl Rd Canyon Lake Texas 78133",
-      "startTime": "2026-06-04T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "Xizp9AROvUz3dkl3z67K",
-      "title": "Design Conultatiom with Troy Johnson",
-      "startTime": "2026-06-04T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "a5SZXcpry1f1LehEvOTJ",
-      "title": "Appt w Anne Myers",
-      "startTime": "2026-06-04T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "2AkJcSbMWNeWAqvMGgzA",
-      "title": " Marijane DeTranaltes Design Consultation with  at 5081 County Road 631 Brazoria Texas 77422",
-      "startTime": "2026-06-04T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "89px4RQUswIETiIVzksE",
-      "title": " Jamarques Pipkins Design Consultation with  at 124 Kelly St Angleton Texas 77515",
-      "startTime": "2026-06-04T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "X1iv6KgyZFRo6YXk7hIL",
-      "title": "Appt w Robert Gemignani",
-      "startTime": "2026-06-04T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "LJyhpxOadvIWueUQkTe0",
-      "title": " Torrance  Design Consultation with  at 2632 Salon Way, Round Rock, Texas 78681 Round Rock TX 78681",
-      "startTime": "2026-06-04T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "NC35rldSg4EG155yi4jD",
-      "title": " Kathy Hoot Design Consultation with  at 10219 SageRoyal land Houston TX 77089 Sweeny TX 77480",
-      "startTime": "2026-06-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "99H9UukHjB74KJYNUTWp",
-      "title": "Kimberly Shaner Design Consultation with  at 7523 Redman Pass Converse Texas 78109",
-      "startTime": "2026-06-04T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
