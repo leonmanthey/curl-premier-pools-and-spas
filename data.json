@@ -1,28 +1,116 @@
 {
   "meta": {
-    "generatedAt": "2026-07-05T08:55:59.643159+00:00",
-    "startDate": "2026-06-05T08:55:58.865977+00:00",
-    "endDate": "2026-07-05T08:55:58.865977+00:00",
+    "generatedAt": "2026-07-06T10:41:27.734257+00:00",
+    "startDate": "2026-06-06T10:41:26.688643+00:00",
+    "endDate": "2026-07-06T10:41:26.688643+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 193,
-    "human": 87,
-    "auto": 15,
+    "human": 88,
+    "auto": 14,
     "selfBooked": 91,
     "other": 0,
-    "humanPct": 45,
-    "autoPct": 8,
-    "notHumanPct": 55
+    "humanPct": 46,
+    "autoPct": 7,
+    "notHumanPct": 54
   },
   "sourceCounts": {
     "contactdetails_page": 70,
     "booking_widget": 91,
     "calendar_page": 8,
-    "conversations_ai": 15,
-    "mobile_app": 9
+    "conversations_ai": 14,
+    "mobile_app": 10
   },
   "appointments": [
+    {
+      "id": "bUzxiWWDOjB9F7mgBGoL",
+      "title": "Appt w Angelica Najera",
+      "startTime": "2026-07-06T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "2GT2Rh4o1vo9EdPR1t7C",
+      "title": "Garrison Parrish Design Consultation with  at 14523 Camperdown San Antonio Texas 78245",
+      "startTime": "2026-07-06T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "rJSZOPu5tyfC6YJ78EbE",
+      "title": " Bailey Hammonds Design Consultation with  at 2210 Wildwood Dr Clute Texas 77531",
+      "startTime": "2026-07-06T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "XPh4u8myFyEwE156b0bT",
+      "title": "first appointment with Premier Pools ",
+      "startTime": "2026-07-06T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "5j2fd8J3Jt1XBYHIHWPD",
+      "title": " Joan Galiardo Design Consultation with  at 6700 Belmont Street Houston Texas 77005",
+      "startTime": "2026-07-06T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "3sWQ4J6HsV36kiNtmUsL",
+      "title": "Appt w Kiela Hammel",
+      "startTime": "2026-07-06T12:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "KnLmIolDSbptSNYCvLkQ",
+      "title": " Ruben Perez Design Consultation with  at 815 S 24th St Temple Texas 76501",
+      "startTime": "2026-07-06T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "rLqYggalFEp29KcpnutT",
+      "title": "Nick Wales Remodel",
+      "startTime": "2026-07-06T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "SykjPsgg0MVrBnpO9NGK",
       "title": "First Appt w/ Antonio Talamante and Tyler Schlinke ",
@@ -2057,94 +2145,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "KmZMXfvqu9DA5ogr0nsW",
-      "title": "Fiberglass Remodel Appt w Michael Hiebert",
-      "startTime": "2026-06-05T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "NNm0FQ34z0muQmXX86rm",
-      "title": " Matt Eggenschwiler Design Consultation with  at 11118 Celina Knoll Missouri City Texas 77459",
-      "startTime": "2026-06-05T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "VwLRbVtW7h2i380g9II2",
-      "title": "Venancia Martinez Design Consultation with  at 6507 Wind Arbor Windcrest Texas 78239",
-      "startTime": "2026-06-05T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bfwZVhaJ3HjemfBFQNEq",
-      "title": " Cynthia And Clint Andrews Design Consultation with  at 4206 Adelphi Lane Austin Texas 78727",
-      "startTime": "2026-06-05T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "h19571MdPzYXqE48m6I1",
-      "title": " Christina Aguilar Design Consultation with  at 504 Stockport Dr League City Texas 77573",
-      "startTime": "2026-06-05T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ZNJfsZCs9Xs4ZA3QZtuR",
-      "title": " Andrew Frascone Design Consultation with  at 4031 Aerie St Salado TX 76571",
-      "startTime": "2026-06-05T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "D5KKW4dWw9kpYbm5Q3rh",
-      "title": "Kassandra Garcia Madrigal Design Consultation with  at Tx",
-      "startTime": "2026-06-05T08:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "rsUOdIPt7tpPiA8VttlH",
-      "title": " Johnny Hinton Design Consultation with  at 1239 Watermont Drive Missouri City Texas 77459",
-      "startTime": "2026-06-05T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
