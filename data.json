@@ -1,28 +1,51 @@
 {
   "meta": {
-    "generatedAt": "2026-07-10T09:39:12.711758+00:00",
-    "startDate": "2026-06-10T09:39:11.850402+00:00",
-    "endDate": "2026-07-10T09:39:11.850402+00:00",
+    "generatedAt": "2026-07-11T07:59:37.172038+00:00",
+    "startDate": "2026-06-11T07:59:36.066349+00:00",
+    "endDate": "2026-07-11T07:59:36.066349+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 226,
-    "human": 99,
+    "total": 219,
+    "human": 93,
     "auto": 16,
-    "selfBooked": 111,
-    "other": 0,
-    "humanPct": 44,
+    "selfBooked": 109,
+    "other": 1,
+    "humanPct": 42,
     "autoPct": 7,
-    "notHumanPct": 56
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "contactdetails_page": 80,
-    "calendar_page": 8,
     "conversations_ai": 16,
-    "booking_widget": 111,
-    "mobile_app": 11
+    "contactdetails_page": 75,
+    "booking_widget": 109,
+    "mobile_app": 11,
+    "voice_ai": 1,
+    "calendar_page": 7
   },
   "appointments": [
+    {
+      "id": "8SBLIIlEKkI06K4oBdXo",
+      "title": "Appt Cesar Campos",
+      "startTime": "2026-07-11T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "9kIaOZYPB2plLcEFdoGo",
+      "title": "Jeremy Daniels Design Consultation with  at 299 Rolling Hills New Braunfels Texas 78130",
+      "startTime": "2026-07-11T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1783746000000_82800",
       "title": "Block",
@@ -79,6 +102,17 @@
       "userId": null
     },
     {
+      "id": "gII63Rk5tkVZZ00BkISh",
+      "title": " Kelly Money Design Consultation with  at 124 Barrel Bend Georgetown, Texas Georgetown TX 78628",
+      "startTime": "2026-07-10T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
       "id": "VSa1YbyIO3iL3BA42QfG",
       "title": "Cimmino Pool consultation ",
       "startTime": "2026-07-10T12:30:00-05:00",
@@ -92,17 +126,6 @@
     {
       "id": "TuApJ0QEVfT5hYVJGdE5",
       "title": " Brandon Sifuentes Design Consultation with  at 6808 Rounded Pebble Ln Buda Texas 78610",
-      "startTime": "2026-07-10T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "imBCe4mvRAG3MQtLdbAj",
-      "title": " Rosalie Garcia Design Consultation with at 18360 Lake Edge Ct Pflugerville Texas 78660",
       "startTime": "2026-07-10T12:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
@@ -2409,105 +2432,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "6qyR7ZIgEtxx4vpjvvkL",
-      "title": " Cecilia Griffith Design Consultation with  at 5913 Becky Lane Pearland Texas 77584",
-      "startTime": "2026-06-10T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "76Zaa4tqFw7uybLXGi86",
-      "title": "2nd Appt Matthew Muecke",
-      "startTime": "2026-06-10T17:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "FZ3A5cKKTcgd1jKsbryU",
-      "title": "Shanette Mitchell Design Consultation with  at 10311 Monte Carmel Pl Converse Texas 78109",
-      "startTime": "2026-06-10T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Zqy9LUaB7vFXa6P47yMc",
-      "title": " Maggie Donaldson Design Consultation with  at Pflugerville TX 78660",
-      "startTime": "2026-06-10T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "XuRQl1aaTarouEVWSMVM",
-      "title": "Appt w Daniel Paredes",
-      "startTime": "2026-06-10T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "5NT6hcmOcS6zTNC8qDqT",
-      "title": "Appt w Herbert Lorfing",
-      "startTime": "2026-06-10T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "QMLiJSW13B4bT7BYPlqU",
-      "title": "Appt w Jake Walther",
-      "startTime": "2026-06-10T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "IR4GOPagoAgLWnM49vXF",
-      "title": "Appt w Bear Epps",
-      "startTime": "2026-06-10T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "vNwES5MqL2W9vytMhOK6",
-      "title": "Design Consultation with Igor & Jayson at 5810 Misty Hill Cove, Austin 78759",
-      "startTime": "2026-06-10T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
     }
   ]
 }
