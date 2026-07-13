@@ -1,29 +1,139 @@
 {
   "meta": {
-    "generatedAt": "2026-07-12T08:21:12.172042+00:00",
-    "startDate": "2026-06-12T08:21:11.514875+00:00",
-    "endDate": "2026-07-12T08:21:11.514875+00:00",
+    "generatedAt": "2026-07-13T09:31:41.416597+00:00",
+    "startDate": "2026-06-13T09:31:39.711327+00:00",
+    "endDate": "2026-07-13T09:31:39.711327+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 210,
-    "human": 92,
-    "auto": 14,
-    "selfBooked": 103,
+    "total": 207,
+    "human": 86,
+    "auto": 13,
+    "selfBooked": 107,
     "other": 1,
-    "humanPct": 44,
-    "autoPct": 7,
-    "notHumanPct": 56
+    "humanPct": 42,
+    "autoPct": 6,
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "booking_widget": 103,
-    "contactdetails_page": 74,
+    "contactdetails_page": 69,
+    "booking_widget": 107,
     "mobile_app": 11,
-    "conversations_ai": 14,
+    "conversations_ai": 13,
     "voice_ai": 1,
-    "calendar_page": 7
+    "calendar_page": 6
   },
   "appointments": [
+    {
+      "id": "9oL5Fd8cCOktaAzf2yJ7",
+      "title": " Shameka Chambers Design Consultation with  at 2430 Flickering Leaf Lane Fresno Texas 77545",
+      "startTime": "2026-07-13T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "J7uwycatTzdMkkD8y8hN",
+      "title": " Christeen Indira Design Consultation with  at 12802 lindsey lane Houston TX 77477",
+      "startTime": "2026-07-13T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "mtbIShqoA43nBGmDKEcA",
+      "title": " Shannon Karabanoff Design Consultation with  at 5902 Quiet Meadow Ct Pasadena Texas 77505",
+      "startTime": "2026-07-13T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "2Gvk9fUOCOqFpTRRyEOk",
+      "title": "Appt w Clarise Sanchez",
+      "startTime": "2026-07-13T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "xq7oqbcmhlvtF6oeb9eF",
+      "title": "Georgia Richards Design Consultation with  at 222 Turnberry Drive Cibolo Texas 78108",
+      "startTime": "2026-07-13T15:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "zVW4iQMH33kEjPKTIHzs",
+      "title": " Martha Ann Jones Design Consultation with  at 703 Dumble Street Houston Texas 77023",
+      "startTime": "2026-07-13T13:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "9EUlbcQQQrbFiSb8SFIF",
+      "title": " Diana Ortiz Design Consultation with  at 6704 Cool Creek Dr Killeen Texas 76549",
+      "startTime": "2026-07-13T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ImK8EgiIQQKEsxlJSqoc",
+      "title": " Matt Griswold Design Consultation with  at 507 San Gabriel Blvd Georgetown Texas 78628",
+      "startTime": "2026-07-13T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "SzlMSsh9oInWTXPsCmMJ",
+      "title": " Shane Cooper Design Consultation with  at 22303 Chenango Lake Drive Angleton Texas 77515",
+      "startTime": "2026-07-13T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "LpLII1a3mMhnuKPcXOGd",
+      "title": " Valerie Cantwell Design Consultation with  at 21001 Isle of Glass Street Pflugerville Texas 78660",
+      "startTime": "2026-07-13T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "8SBLIIlEKkI06K4oBdXo",
       "title": "Appt Cesar Campos",
@@ -2190,149 +2300,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "ztP7EzW1tdCvFDOHcG9r",
-      "title": "Appt w Tara and Chris Gray",
-      "startTime": "2026-06-12T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "lUZqVdXIVKB1x1Gqla9B",
-      "title": " Maria Davis Design Consultation with  at 560 Hammersmith Ln League City Texas 77573",
-      "startTime": "2026-06-12T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "6JEt5lNyxxDmitmdxmGg",
-      "title": "Beth Hanak Remodel",
-      "startTime": "2026-06-12T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "LUGrGGXPkDygpBrzufEs",
-      "title": "Appt w Zebulon Scoville",
-      "startTime": "2026-06-12T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "T4JiLYc9WMEnhRjob1lK",
-      "title": "Appt w Vince Moore",
-      "startTime": "2026-06-12T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "HEvRleiGH1i83GKzlGMd",
-      "title": "Laura Rodriguez Design Consultation with  at 415 Knights Cross Drive San Antonio Texas 78258",
-      "startTime": "2026-06-12T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "OVXzXERxOmBHuOn5SbIh",
-      "title": "Appt w Cameron Cooper",
-      "startTime": "2026-06-12T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "SwM3Ali6RNcHNdwcAXH0",
-      "title": "Appt w Betty Tucker",
-      "startTime": "2026-06-12T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "K7Nq4vdAwWTJ7ZWts9jX",
-      "title": "Appt w Rosa Romano",
-      "startTime": "2026-06-12T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "3Sy5coMyjemnWiGtGUsY",
-      "title": "Appt w Andrea Stevens",
-      "startTime": "2026-06-12T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "qcUfB7BeefQuNI49HuD6",
-      "title": "First Appointment",
-      "startTime": "2026-06-12T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "j3b90f6Ye5qAMVLfKze4",
-      "title": " Sonny Tamayo Design Consultation with  at 710 Galway dr deer park Tx 77536 Deer Park TX 77536",
-      "startTime": "2026-06-12T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "clI6rjVgCZ71LqsYYrw7",
-      "title": " Matthew Martin Design Consultation with  at 905 Ridgeoak Drive Belton Texas 76513",
-      "startTime": "2026-06-12T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
