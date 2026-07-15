@@ -1,29 +1,128 @@
 {
   "meta": {
-    "generatedAt": "2026-07-14T08:09:54.737333+00:00",
-    "startDate": "2026-06-14T08:09:54.206254+00:00",
-    "endDate": "2026-07-14T08:09:54.206254+00:00",
+    "generatedAt": "2026-07-15T08:16:51.752983+00:00",
+    "startDate": "2026-06-15T08:16:51.142505+00:00",
+    "endDate": "2026-07-15T08:16:51.142505+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 204,
-    "human": 87,
+    "total": 213,
+    "human": 89,
     "auto": 11,
-    "selfBooked": 105,
+    "selfBooked": 112,
     "other": 1,
-    "humanPct": 43,
+    "humanPct": 42,
     "autoPct": 5,
-    "notHumanPct": 57
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "contactdetails_page": 72,
-    "booking_widget": 105,
-    "mobile_app": 10,
+    "contactdetails_page": 73,
+    "booking_widget": 112,
+    "mobile_app": 11,
     "conversations_ai": 11,
     "voice_ai": 1,
     "calendar_page": 5
   },
   "appointments": [
+    {
+      "id": "9oL5Fd8cCOktaAzf2yJ7",
+      "title": " Shameka Chambers Design Consultation with  at 2430 Flickering Leaf Lane Fresno Texas 77545",
+      "startTime": "2026-07-15T17:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ctPiANLI3xFGA3oowUgR",
+      "title": "Yvette Alcantar-Banda Design Consultation with  at 5610 Meadow Sky New Braunfels Texas 78132",
+      "startTime": "2026-07-15T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "72PBXH2yAivw26jYyv9L"
+    },
+    {
+      "id": "plhmDtlbfFgc070qlZND",
+      "title": " Amanda Rohleder Design Consultation with  at 672 Imperial Loop Alvin Texas 77511",
+      "startTime": "2026-07-15T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "vpw0vzt4DxYPIPUY2l4A",
+      "title": " Stacy Smith Design Consultation with  at 10330 S Morningview St Santa Fe Texas 77510",
+      "startTime": "2026-07-15T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "rRRBA1paLAAYn2d8T81p",
+      "title": "Laura Torres Design Consultation with  at 8744 Rucker Pond Trl San Antonio Texas 78252",
+      "startTime": "2026-07-15T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "FVHH7R13eujuoa6mPTVG",
+      "title": " Tyler Hehn Design Consultation with  at Georgetown Texas 78628",
+      "startTime": "2026-07-15T11:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "idY9T6MnTCT1UrMWNDnH",
+      "title": " Cynthia Beckett Design Consultation with  at 12370 Romberg Rd Holland Texas 76534",
+      "startTime": "2026-07-15T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "LXb86Xi4APO57M1zv3ig",
+      "title": "Appt w Joan Gallardo",
+      "startTime": "2026-07-15T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "1mcrbXYIZ5NN80HoWbC7",
+      "title": " Zach Burger Design Consultation with Troy at 1001 Sydney Boulevard Thorndale Texas 76577",
+      "startTime": "2026-07-15T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "GIug8YlJKTHIAlxcyLr6",
       "title": "Appt w Jason Flowers",
