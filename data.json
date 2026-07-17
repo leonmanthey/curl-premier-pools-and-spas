@@ -1,29 +1,139 @@
 {
   "meta": {
-    "generatedAt": "2026-07-16T08:17:41.960389+00:00",
-    "startDate": "2026-06-16T08:17:41.296342+00:00",
-    "endDate": "2026-07-16T08:17:41.296342+00:00",
+    "generatedAt": "2026-07-17T08:12:56.811476+00:00",
+    "startDate": "2026-06-17T08:12:56.153886+00:00",
+    "endDate": "2026-07-17T08:12:56.153886+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 215,
-    "human": 91,
+    "total": 218,
+    "human": 92,
     "auto": 10,
-    "selfBooked": 113,
-    "other": 1,
+    "selfBooked": 114,
+    "other": 2,
     "humanPct": 42,
     "autoPct": 5,
     "notHumanPct": 58
   },
   "sourceCounts": {
     "contactdetails_page": 75,
-    "booking_widget": 113,
+    "booking_widget": 114,
     "mobile_app": 11,
     "conversations_ai": 10,
-    "voice_ai": 1,
-    "calendar_page": 5
+    "voice_ai": 2,
+    "calendar_page": 6
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1784350800000_82800",
+      "title": "Block",
+      "startTime": "2026-07-18T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "OcAfHiaYCa6K3YkdjEh4",
+      "title": "Leslie Keller Design Consultation with  at 504 Flaman Rd Canyon Lake Texas 78133",
+      "startTime": "2026-07-17T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "7RZP48PhWH6GIwhzpYKc",
+      "title": " ISELA VALLES Design Consultation with  at 6804 Donato Cove Round Rock Texas 78665",
+      "startTime": "2026-07-17T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "9im3wlqCIcZwEmxn5e16",
+      "title": " Penny Thinnes Design Consultation with  at 5711 Cherry Ridge Road Richmond Texas 77406",
+      "startTime": "2026-07-17T13:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "7hNsaknKU8XrKyuQO9eu",
+      "title": "Appt w Kiera Jessop",
+      "startTime": "2026-07-17T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "H4ZEzLWkx3jbYgRnkA4r",
+      "title": "Appt w Christopher Harney",
+      "startTime": "2026-07-17T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "5rmwYvRxb5O02n6atqQP",
+      "title": " Keith Ferguson Design Consultation with  at 4602 Lakefront Terrace Drive Pearland Texas 77584",
+      "startTime": "2026-07-17T10:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "AGMjbC5Qp9TYsdWcJAUQ",
+      "title": " Cornelia Crittenden Design Consultation with  at 2303 Napier Drive Killeen Texas 76542",
+      "startTime": "2026-07-17T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1gQZ5MpjGXd53jyCi0DL",
+      "title": " Norean Gardner Design Consultation with  at Round Rock Texas 78681",
+      "startTime": "2026-07-17T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "F1EVmEm7ebELSaoNydxP",
+      "title": "NATALIE UGALDE Design Consultation with  at 6218 Katie Star, San Antonio, 78220 San Antonio CA 78220",
+      "startTime": "2026-07-17T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "jaeqwaub67OOuyQqkSIJ",
       "title": "Appt w Casey Quamme",
@@ -58,22 +168,11 @@
       "userId": null
     },
     {
-      "id": "SX2QEtIZwfQxHNG8WwCH",
-      "title": " Rhiannon McKay Design Consultation with  at 20312 Martin Ln Pflugerville Texas 78660",
-      "startTime": "2026-07-16T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
       "id": "R1Miti5z9eS5Be0KXQag",
       "title": "Appt w Rahmaa Alrahmani",
       "startTime": "2026-07-16T15:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -89,17 +188,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "R4XhUWi6M9IisxYgAqgk",
-      "title": " Nitish Shrivastava Design Consultation with  at 4300 College Square Drive Round Rock Texas 78665",
-      "startTime": "2026-07-16T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "zVW4iQMH33kEjPKTIHzs",
@@ -2329,61 +2417,6 @@
       "startTime": "2026-06-17T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "G0YnGO9dGNfU8SwchcAQ",
-      "title": "Chuck Richardson Design Consultation with  at 610 Torrey Pines Cibolo Texas 78108",
-      "startTime": "2026-06-16T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "mGGJiasLQ0sVQ5YwDIqA",
-      "title": "Rhonda Pourzadi Design Consultation with  at 1212 Steeple Run New Braunfels Texas 78132",
-      "startTime": "2026-06-16T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "2c0JwmUeTnqf0zCl0zG7",
-      "title": " Dalton Stickley Design Consultation with  at 103 Robin Trail Richwood Texas 77531",
-      "startTime": "2026-06-16T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bpDM0VA25yVo9K3XLw7W",
-      "title": "2nd Appt Matt Eggenschwiler, Design & Pricing Options",
-      "startTime": "2026-06-16T08:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "esPtpHqs64UzSQlofs6u",
-      "title": "Appt w Carla Hardy",
-      "startTime": "2026-06-16T08:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
