@@ -1,29 +1,106 @@
 {
   "meta": {
-    "generatedAt": "2026-07-17T08:12:56.811476+00:00",
-    "startDate": "2026-06-17T08:12:56.153886+00:00",
-    "endDate": "2026-07-17T08:12:56.153886+00:00",
+    "generatedAt": "2026-07-18T07:54:51.142917+00:00",
+    "startDate": "2026-06-18T07:54:50.590776+00:00",
+    "endDate": "2026-07-18T07:54:50.590776+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 218,
+    "total": 214,
     "human": 92,
     "auto": 10,
-    "selfBooked": 114,
+    "selfBooked": 110,
     "other": 2,
-    "humanPct": 42,
+    "humanPct": 43,
     "autoPct": 5,
-    "notHumanPct": 58
+    "notHumanPct": 57
   },
   "sourceCounts": {
+    "booking_widget": 110,
     "contactdetails_page": 75,
-    "booking_widget": 114,
     "mobile_app": 11,
     "conversations_ai": 10,
     "voice_ai": 2,
     "calendar_page": 6
   },
   "appointments": [
+    {
+      "id": "KvUT16XzCQq7IgbPlu2i",
+      "title": "Appt w Harold Cummins",
+      "startTime": "2026-07-18T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "FIKUpFyrlzln5rdMnA9K",
+      "title": "Stephanie Mosley Design Consultation with  at 27423 Falls Bridge Boerne Texas 78015",
+      "startTime": "2026-07-18T14:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "UjTGbtj9GxvRk8knCu5z",
+      "title": "Appt w Corey Mosley",
+      "startTime": "2026-07-18T14:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "XCoBETaz7o1bVKBTwlKm",
+      "title": "Sizzling Summer Meeting Aaron Dumas",
+      "startTime": "2026-07-18T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "P39NwpK0YPZFVNtHyiCs",
+      "title": "Sizzling Summer Meeting (Aaron Dumas) In Office ",
+      "startTime": "2026-07-18T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "UvSQrJsQoFHteNEV02ya",
+      "title": "Appt w Annalisa Navarro",
+      "startTime": "2026-07-18T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "AfXrCzFisNKSxml2XOxC",
+      "title": "Tarsha Bryant Design Consultation with  at 3028 Bristow Park Bulverde Texas 78163",
+      "startTime": "2026-07-18T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1784350800000_82800",
       "title": "Block",
@@ -95,7 +172,7 @@
       "title": " Keith Ferguson Design Consultation with  at 4602 Lakefront Terrace Drive Pearland Texas 77584",
       "startTime": "2026-07-17T10:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -117,7 +194,7 @@
       "title": " Norean Gardner Design Consultation with  at Round Rock Texas 78681",
       "startTime": "2026-07-17T09:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2300,127 +2377,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "EmosmyBPMrObB1y4JUMD",
-      "title": "Appt w David Rosales",
-      "startTime": "2026-06-17T17:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "vBrBvd5m0LakmfTOQzKq",
-      "title": "Spanish Appt w Yasmari Toscano",
-      "startTime": "2026-06-17T17:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "5MhOHTxleUz7NOQ2dEYP",
-      "title": " Benny Mota Design Consultation with  at 52 Hybiscus Court Lake Jackson Texas 77566",
-      "startTime": "2026-06-17T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "sCTHWUuqUHqN4VRMOV94",
-      "title": " Tony Guffey Design Consultation with  at 2320 Ruby Dr Texas City Texas 77591",
-      "startTime": "2026-06-17T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "UhAMg0OuVVe1Hjdt0kwb",
-      "title": "Appt w Samuel Schoolcraft",
-      "startTime": "2026-06-17T14:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "sPSJEfXNnVXcZlbyRtur",
-      "title": " Juan D\u00edas Design Consultation with  at 315 Pennsylvania St South Houston Texas 77587",
-      "startTime": "2026-06-17T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "VaIEmytnqism6lGAsJRL",
-      "title": "Marina Cruz Ramirez Design Consultation with  at 30931 Honeycomb Rock Fair Oaks Ranch Texas 78015",
-      "startTime": "2026-06-17T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "F4d5acHXKnnHTIC91D9w",
-      "title": " Marisela Herrera Design Consultation with  at 2908 Landing Edge Lane Dickinson Texas 77539",
-      "startTime": "2026-06-17T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "h11MQRCbMWwRoJob02l1",
-      "title": "Robert Bledsoe Design Consultation with  at 4 Tudor Glen San Antonio Texas 78257",
-      "startTime": "2026-06-17T11:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "E3n7VUvbwXdmSVoMULxf",
-      "title": "Appt w Matthews Phelps",
-      "startTime": "2026-06-17T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "BgDQflVT3J4T4tnLRWhB",
-      "title": "Appt w Barbie Villarreal",
-      "startTime": "2026-06-17T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
