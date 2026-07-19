@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-18T07:54:51.142917+00:00",
-    "startDate": "2026-06-18T07:54:50.590776+00:00",
-    "endDate": "2026-07-18T07:54:50.590776+00:00",
+    "generatedAt": "2026-07-19T08:22:32.704867+00:00",
+    "startDate": "2026-06-19T08:22:32.075162+00:00",
+    "endDate": "2026-07-19T08:22:32.075162+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 214,
-    "human": 92,
-    "auto": 10,
-    "selfBooked": 110,
+    "total": 207,
+    "human": 88,
+    "auto": 9,
+    "selfBooked": 108,
     "other": 2,
     "humanPct": 43,
-    "autoPct": 5,
+    "autoPct": 4,
     "notHumanPct": 57
   },
   "sourceCounts": {
-    "booking_widget": 110,
-    "contactdetails_page": 75,
-    "mobile_app": 11,
-    "conversations_ai": 10,
+    "booking_widget": 108,
+    "contactdetails_page": 72,
+    "mobile_app": 10,
     "voice_ai": 2,
-    "calendar_page": 6
+    "calendar_page": 6,
+    "conversations_ai": 9
   },
   "appointments": [
     {
@@ -2294,83 +2294,6 @@
       "id": "DhKs5uXbi0VmwP5Oui6Y",
       "title": " Hanna Ohlenschlager Design Consultation with  at 512 Three Feathers Court Georgetown Texas 78628",
       "startTime": "2026-06-19T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "nnLZOxMwSNw7ga8aaERL",
-      "title": " David Lopez Design Consultation with  at 11511 Sagevale Lane Houston Texas 77089",
-      "startTime": "2026-06-18T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Sc1KWKk5XbPQQ2SWmtDg",
-      "title": " Dee (Martha) Hollingsworth (Weaks) Design Consultation with  at Lampasas TX 76550",
-      "startTime": "2026-06-18T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "y20HStJa8h7G5BjtdjFt",
-      "title": " Laura Cano Design Consultation with  at 12501 Barker Hollow Cove Austin Texas 78739",
-      "startTime": "2026-06-18T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "gGTPvRzGEFF9Ri9cVV5P",
-      "title": "Appt w Darren Green",
-      "startTime": "2026-06-18T12:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "DGpP8w4FCfQ5hdjC1Y4g",
-      "title": "Appt w Johanna Flas",
-      "startTime": "2026-06-18T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "T7AG6Fd8Mmh35xckpWLm",
-      "title": " premeir Pools initial meeting Pool Remodel ",
-      "startTime": "2026-06-18T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "XIxSLeIX7Z5iMP1x3H9Z",
-      "title": " Noe Granados Design Consultation with  at 11909 Emerald Springs Ln Manor Texas 78653",
-      "startTime": "2026-06-18T09:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
