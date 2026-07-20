@@ -1,29 +1,73 @@
 {
   "meta": {
-    "generatedAt": "2026-07-19T08:22:32.704867+00:00",
-    "startDate": "2026-06-19T08:22:32.075162+00:00",
-    "endDate": "2026-07-19T08:22:32.075162+00:00",
+    "generatedAt": "2026-07-20T09:18:21.308188+00:00",
+    "startDate": "2026-06-20T09:18:18.936595+00:00",
+    "endDate": "2026-07-20T09:18:18.936595+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 207,
-    "human": 88,
-    "auto": 9,
-    "selfBooked": 108,
+    "total": 202,
+    "human": 85,
+    "auto": 8,
+    "selfBooked": 107,
     "other": 2,
-    "humanPct": 43,
+    "humanPct": 42,
     "autoPct": 4,
-    "notHumanPct": 57
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "booking_widget": 108,
-    "contactdetails_page": 72,
+    "booking_widget": 107,
     "mobile_app": 10,
+    "contactdetails_page": 69,
     "voice_ai": 2,
     "calendar_page": 6,
-    "conversations_ai": 9
+    "conversations_ai": 8
   },
   "appointments": [
+    {
+      "id": "soJzUVoGX6V6tEmE3Tu6",
+      "title": " Lindsay Rouse Design Consultation with  at 511 Summer Wilson Cv, Lakeway Austin Texas 78738",
+      "startTime": "2026-07-20T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "RkvKjMNPxHosb9U8ojZH",
+      "title": " Amber Dodson Design Consultation with  at 5101 Azura Way Killeen Texas 76549",
+      "startTime": "2026-07-20T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "VQEw2ZETFyKNbkinsXlS",
+      "title": " Cynthia Beckett Design Consultation with  at 12370 Romberg Rd Holland Texas 76534",
+      "startTime": "2026-07-20T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "Xb94uOzWBYNUkU3MDw3p",
+      "title": "Dennis Weber Design Consultation with  at 8227 Greenbrier San Antonio Texas 78209",
+      "startTime": "2026-07-20T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "KvUT16XzCQq7IgbPlu2i",
       "title": "Appt w Harold Cummins",
@@ -2201,105 +2245,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "K6XLEVZ10TwtIeXjYBTE",
-      "title": "2nd Appt Silverio Salazar",
-      "startTime": "2026-06-19T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "Zrq2t1C7z2ggm5NMcJ8T",
-      "title": "George Chandarlis Design Consultation with  at 213 Springtree Pkwy Cibolo Texas 78108",
-      "startTime": "2026-06-19T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "7c0HZ0ngkg8QzxEzTcBt",
-      "title": "Appt w Randy Nunez",
-      "startTime": "2026-06-19T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "cxRXqysamOgw7Fl5LySV",
-      "title": "Appt w Edward Fitzgerald ",
-      "startTime": "2026-06-19T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Qmg7uTSKYWsK3KViZPx6",
-      "title": " Antonio Gonzalez Design Consultation with  at 2614 Lazy Vine Ln Missouri City Texas 77459",
-      "startTime": "2026-06-19T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "2s4qtYCjNggRgmEAzV0B",
-      "title": " Kimberly Jones Design Consultation with  at Manvel TX 77578",
-      "startTime": "2026-06-19T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "7aaaMp6ZPxDjGBy76dFa",
-      "title": "Appt w Halima Madjid",
-      "startTime": "2026-06-19T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "JFUDdkWyvkgEPsMDxNMg",
-      "title": "Stacy Miller Design Consultation with  at 2905 Flaxen Way Seguin Texas 78155",
-      "startTime": "2026-06-19T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "DhKs5uXbi0VmwP5Oui6Y",
-      "title": " Hanna Ohlenschlager Design Consultation with  at 512 Three Feathers Court Georgetown Texas 78628",
-      "startTime": "2026-06-19T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
