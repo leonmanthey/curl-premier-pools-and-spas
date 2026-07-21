@@ -1,33 +1,55 @@
 {
   "meta": {
-    "generatedAt": "2026-07-20T09:18:21.308188+00:00",
-    "startDate": "2026-06-20T09:18:18.936595+00:00",
-    "endDate": "2026-07-20T09:18:18.936595+00:00",
+    "generatedAt": "2026-07-21T08:32:39.068824+00:00",
+    "startDate": "2026-06-21T08:32:38.446513+00:00",
+    "endDate": "2026-07-21T08:32:38.446513+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 202,
-    "human": 85,
+    "total": 206,
+    "human": 87,
     "auto": 8,
-    "selfBooked": 107,
+    "selfBooked": 109,
     "other": 2,
     "humanPct": 42,
     "autoPct": 4,
     "notHumanPct": 58
   },
   "sourceCounts": {
-    "booking_widget": 107,
+    "booking_widget": 109,
     "mobile_app": 10,
-    "contactdetails_page": 69,
+    "contactdetails_page": 72,
     "voice_ai": 2,
-    "calendar_page": 6,
+    "calendar_page": 5,
     "conversations_ai": 8
   },
   "appointments": [
     {
-      "id": "soJzUVoGX6V6tEmE3Tu6",
-      "title": " Lindsay Rouse Design Consultation with  at 511 Summer Wilson Cv, Lakeway Austin Texas 78738",
-      "startTime": "2026-07-20T13:00:00-05:00",
+      "id": "yLNqty48l52ltENNIMAw",
+      "title": "Appt w Matt Dworaczyk",
+      "startTime": "2026-07-21T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "EtDbqvMbi0d0VnGkl0Wm",
+      "title": "Appt w Brad Ellis",
+      "startTime": "2026-07-21T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "2bAVQqGbE8KxPRuvkYsg",
+      "title": " MACRINO VILLEDAS Design Consultation with  at 2600 County Road 150 Georgetown Texas 78626",
+      "startTime": "2026-07-21T13:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
@@ -36,9 +58,53 @@
       "userId": null
     },
     {
+      "id": "JnSB3CHjwGX9xWDjwwGT",
+      "title": " Lori Marrs Design Consultation with  at 103 West Hogan Drive Copperas Cove Texas 76522",
+      "startTime": "2026-07-21T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "SzlMSsh9oInWTXPsCmMJ",
+      "title": " Shane Cooper Design Consultation with  at 22303 Chenango Lake Drive Angleton Texas 77515",
+      "startTime": "2026-07-21T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "dHUsJt5KIXi3nvrNxrUG",
+      "title": "Phone Appt w Emmett Smith",
+      "startTime": "2026-07-20T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
       "id": "RkvKjMNPxHosb9U8ojZH",
       "title": " Amber Dodson Design Consultation with  at 5101 Azura Way Killeen Texas 76549",
-      "startTime": "2026-07-20T12:00:00-05:00",
+      "startTime": "2026-07-20T13:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "soJzUVoGX6V6tEmE3Tu6",
+      "title": " Lindsay Rouse Design Consultation with  at 511 Summer Wilson Cv, Lakeway Austin Texas 78738",
+      "startTime": "2026-07-20T13:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
@@ -2223,28 +2289,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "YACP4lbkABFRyv4FZsjy",
-      "title": "Alberto Trujillo Design Consultation with  at 5127 Pine Lake Drive San Antonio Texas 78244",
-      "startTime": "2026-06-20T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1781931600000_82800",
-      "title": "Block",
-      "startTime": "2026-06-20T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
