@@ -1,29 +1,117 @@
 {
   "meta": {
-    "generatedAt": "2026-07-21T08:32:39.068824+00:00",
-    "startDate": "2026-06-21T08:32:38.446513+00:00",
-    "endDate": "2026-07-21T08:32:38.446513+00:00",
+    "generatedAt": "2026-07-22T08:32:07.455061+00:00",
+    "startDate": "2026-06-22T08:32:06.864171+00:00",
+    "endDate": "2026-07-22T08:32:06.864171+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 206,
-    "human": 87,
+    "total": 214,
+    "human": 90,
     "auto": 8,
-    "selfBooked": 109,
-    "other": 2,
+    "selfBooked": 112,
+    "other": 4,
     "humanPct": 42,
     "autoPct": 4,
     "notHumanPct": 58
   },
   "sourceCounts": {
-    "booking_widget": 109,
-    "mobile_app": 10,
-    "contactdetails_page": 72,
-    "voice_ai": 2,
+    "booking_widget": 112,
+    "mobile_app": 11,
+    "contactdetails_page": 74,
+    "voice_ai": 4,
     "calendar_page": 5,
     "conversations_ai": 8
   },
   "appointments": [
+    {
+      "id": "QwixLRX8dYwSL9aajw2O",
+      "title": " Latina  Design Consultation with  at 7103 American West Drive, Killeen, Texas 76549 Killeen HI 76549",
+      "startTime": "2026-07-22T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "u1DVIwLzWZYtxiHaLGoD",
+      "title": "LAKEETA ADAMS Design Consultation with  at 11712 Clearwell, Shirts, Texas 78154 Shirts TX 78154",
+      "startTime": "2026-07-22T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "OpoKSLb22V0m0AGvjN7l",
+      "title": "2nd with Jayson & Simaan",
+      "startTime": "2026-07-22T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "rzVxwabyuYJY56P08mSM",
+      "title": "Appt w Amanda Winter",
+      "startTime": "2026-07-22T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "cUM0U8exChKjUiVMBPPo",
+      "title": "David Meyer Design Consultation with  at Comfort Texas 78013",
+      "startTime": "2026-07-22T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "5m96FAmR7M9WCvWY3xVS",
+      "title": " Elizabeth Jaramillo Design Consultation with  at 3608 Emerald Falls Ln Pearland Texas 77581",
+      "startTime": "2026-07-22T11:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "JMHUnPWDEk5IArb2lUGd",
+      "title": " Mark Raines Design Consultation with  at 2820 Courageous Leander Texas 78641",
+      "startTime": "2026-07-22T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "qPFGrBlLBQrElO7aqcCo",
+      "title": " Reno Ancheta Design Consultation with  at 9921 Thane Way Austin Texas 78748",
+      "startTime": "2026-07-22T09:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "yLNqty48l52ltENNIMAw",
       "title": "Appt w Matt Dworaczyk",
