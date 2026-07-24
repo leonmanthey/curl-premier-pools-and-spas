@@ -1,29 +1,161 @@
 {
   "meta": {
-    "generatedAt": "2026-07-23T08:33:46.329465+00:00",
-    "startDate": "2026-06-23T08:33:45.025452+00:00",
-    "endDate": "2026-07-23T08:33:45.025452+00:00",
+    "generatedAt": "2026-07-24T08:30:15.240360+00:00",
+    "startDate": "2026-06-24T08:30:11.098144+00:00",
+    "endDate": "2026-07-24T08:30:11.098144+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 212,
-    "human": 91,
-    "auto": 7,
-    "selfBooked": 110,
+    "total": 215,
+    "human": 94,
+    "auto": 6,
+    "selfBooked": 111,
     "other": 4,
-    "humanPct": 43,
+    "humanPct": 44,
     "autoPct": 3,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "mobile_app": 11,
-    "booking_widget": 110,
-    "contactdetails_page": 76,
+    "contactdetails_page": 80,
+    "booking_widget": 111,
+    "mobile_app": 9,
     "voice_ai": 4,
-    "calendar_page": 4,
-    "conversations_ai": 7
+    "calendar_page": 5,
+    "conversations_ai": 6
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1784955600000_82800",
+      "title": "Block",
+      "startTime": "2026-07-25T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "AGMjbC5Qp9TYsdWcJAUQ",
+      "title": " Cornelia Crittenden Design Consultation with  at 2303 Napier Drive Killeen Texas 76542",
+      "startTime": "2026-07-24T18:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "fSlM2j7O9fQjvPUYSil7",
+      "title": "Appt w Abdelnaser Bataineh",
+      "startTime": "2026-07-24T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "nSAFZUaCinIdIRi1uWnm",
+      "title": " Tracy Winscott Design Consultation with  at 901 E 2nd St Sweeny Texas 77480",
+      "startTime": "2026-07-24T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "6i4kps5S4cOuuonctt8j",
+      "title": "Appt w Anthony Almanza Design Consultation with  at 2419 Eagles Way Pearland Texas 77581",
+      "startTime": "2026-07-24T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "NeFHVs4dlYYpGTaJYOFI",
+      "title": "Lisa Distler Design Consultation with  at 2906 Arabian Way Converse Texas 78109",
+      "startTime": "2026-07-24T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "cUM0U8exChKjUiVMBPPo",
+      "title": "David Meyer Design Consultation with  at Comfort Texas 78013",
+      "startTime": "2026-07-24T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "SShgPdVShxp5xxiIPbZu",
+      "title": "Appt w Fred Smith",
+      "startTime": "2026-07-24T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "XOL54MzUPLNGNBAFb38S",
+      "title": "Appt w Dorothy ",
+      "startTime": "2026-07-24T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "5m96FAmR7M9WCvWY3xVS",
+      "title": " Elizabeth Jaramillo Design Consultation with  at 3608 Emerald Falls Ln Pearland Texas 77581",
+      "startTime": "2026-07-24T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "SOfwrpABwaczY1RsLQzb",
+      "title": "Justin Alexander Design Consultation with  at 8637 Shady Gate Fair Oaks Ranch Texas 78015",
+      "startTime": "2026-07-24T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Xa6I49jtm2zk2ki1te5P",
+      "title": "Bill Weeman Design Consultation with  at 5056 Park Cor Santa Clara Texas 78124",
+      "startTime": "2026-07-24T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "8U6paK9W7CB33fY8fswz",
       "title": " Kayti Young Butler Design Consultation with  at 13224 19th St Santa fe TX 77510",
@@ -106,7 +238,7 @@
       "title": " Tracy Jones Design Consultation with  at 15202 Oak Terrace Drive Houston Texas 77082",
       "startTime": "2026-07-23T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2255,105 +2387,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ipUo6By4QoISLp7FRGml",
-      "title": "Villarreal pool design- premier pools ",
-      "startTime": "2026-06-23T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "Q97cm058PY9SLQlV09ie"
-    },
-    {
-      "id": "aEuXbg2sSNEJnCP6M0vU",
-      "title": "Appt w Danny Gonzalez",
-      "startTime": "2026-06-23T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "5I7cGKI1va9LGg2dxCZi",
-      "title": "Chris Gross Design Consultation with  at 2256 Oakleaf Trail Lane League City Texas 77573",
-      "startTime": "2026-06-23T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "E7ohRTdaphekLx5gn5zx",
-      "title": "Sherry Daniel Design Consultation with  at 336 Charon Point Spring Branch Texas 78070",
-      "startTime": "2026-06-23T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ddyi0HRAOB92QOPPv03i",
-      "title": " Leslie Szabo Design Consultation with  at 4226 Canyon Glen Circle Austin Texas 78732",
-      "startTime": "2026-06-23T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "VyE2yrfC2PAQXEHNdm15",
-      "title": "Kayla Courtright Design Consultation with  at 1741 White Carp Lane Alvin Texas 77511",
-      "startTime": "2026-06-23T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "DNCojWBk8KJ0UvBTdrSr",
-      "title": "Appointment with Marilyn & Jayson",
-      "startTime": "2026-06-23T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "GAiW4NUsMD5jTDQgV7Fr",
-      "title": " Renee Saenz Design Consultation with  at 173 Bayou Bend Blvd Angleton Texas 77515",
-      "startTime": "2026-06-23T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "PGPWfKbMIl2Hy9rCS9s5",
-      "title": " Carsha Perkins Design Consultation with  at 10907 palmwood dr Missouri city Texas 77459 Missouri City TX 77459",
-      "startTime": "2026-06-23T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
       "userId": null
     }
   ]
