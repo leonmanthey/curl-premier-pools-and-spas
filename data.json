@@ -1,29 +1,95 @@
 {
   "meta": {
-    "generatedAt": "2026-07-24T08:30:15.240360+00:00",
-    "startDate": "2026-06-24T08:30:11.098144+00:00",
-    "endDate": "2026-07-24T08:30:11.098144+00:00",
+    "generatedAt": "2026-07-25T08:08:57.324020+00:00",
+    "startDate": "2026-06-25T08:08:56.447264+00:00",
+    "endDate": "2026-07-25T08:08:56.447264+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 215,
-    "human": 94,
-    "auto": 6,
-    "selfBooked": 111,
-    "other": 4,
+    "total": 208,
+    "human": 92,
+    "auto": 5,
+    "selfBooked": 105,
+    "other": 6,
     "humanPct": 44,
-    "autoPct": 3,
+    "autoPct": 2,
     "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 80,
-    "booking_widget": 111,
-    "mobile_app": 9,
-    "voice_ai": 4,
+    "contactdetails_page": 81,
+    "booking_widget": 105,
+    "mobile_app": 6,
+    "voice_ai": 6,
     "calendar_page": 5,
-    "conversations_ai": 6
+    "conversations_ai": 5
   },
   "appointments": [
+    {
+      "id": "KvUT16XzCQq7IgbPlu2i",
+      "title": "Appt w Harold Cummins",
+      "startTime": "2026-07-25T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "4wXFfLQ7IgAsDhs7ejYK",
+      "title": "Appt w Karla Garcia",
+      "startTime": "2026-07-25T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "gtwSU7jjIAgito006b4k",
+      "title": "Appt w John Gamboa",
+      "startTime": "2026-07-25T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "kUKH9cxLdSLqtnd5r8bc",
+      "title": " AJ Garza Design Consultation with  at 4518 Backenberry Dr Friendswood Texas 77546",
+      "startTime": "2026-07-25T11:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "pT0vjFTyEtPRm05efpy5",
+      "title": "Appt w Trever Barclay",
+      "startTime": "2026-07-25T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "EnALdV50LMNYmamZGxpk",
+      "title": " KEVIN KIESLING Design Consultation with  at 328 Swenson Drive, Hutto, Texas 78634 Hutto TX 78634",
+      "startTime": "2026-07-25T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1784955600000_82800",
       "title": "Block",
@@ -62,7 +128,7 @@
       "title": " Tracy Winscott Design Consultation with  at 901 E 2nd St Sweeny Texas 77480",
       "startTime": "2026-07-24T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -128,7 +194,7 @@
       "title": " Elizabeth Jaramillo Design Consultation with  at 3608 Emerald Falls Ln Pearland Texas 77581",
       "startTime": "2026-07-24T09:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -242,6 +308,17 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "gjj9lyUNFa89jbcYHis5",
+      "title": "MATHEW BAYS Intro Phone Call",
+      "startTime": "2026-07-23T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
       "userId": null
     },
     {
@@ -430,17 +507,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "KvUT16XzCQq7IgbPlu2i",
-      "title": "Appt w Harold Cummins",
-      "startTime": "2026-07-18T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "FIKUpFyrlzln5rdMnA9K",
@@ -2241,149 +2307,6 @@
       "startTime": "2026-06-25T08:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "JqNbmRNrrtBNQQy0eSpq",
-      "title": "Henderson pool consultation ",
-      "startTime": "2026-06-24T18:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "Q97cm058PY9SLQlV09ie"
-    },
-    {
-      "id": "9tpRJEX6YbSmOBVRriZh",
-      "title": "Layout Meeting with Jayson and Anthony",
-      "startTime": "2026-06-24T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "YPiizoKRknf1hCVjUFS2",
-      "title": " Lindsay Millican Design Consultation with  at 132 Ridgeview Ct Georgetown Texas 78628",
-      "startTime": "2026-06-24T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "AHhcAi0OtN7OxFbbStgC",
-      "title": " Mika Reed Design Consultation with  at Richmond TX 77469",
-      "startTime": "2026-06-24T14:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "z0EPqIRyxUcbP0QDbDiE",
-      "title": "Gloria Rapkin Design Consultation with  at 944 Black Horse Way San Antonio Texas 78260",
-      "startTime": "2026-06-24T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "yoToFZqyuntCuxSuepai",
-      "title": " Norma Sepulveda Design Consultation with  at 1902 Woodvale Dr Missouri City Texas 77489",
-      "startTime": "2026-06-24T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "tyDZfjQYXumLDft1A8mG",
-      "title": "Jamil Cofer Design Consultation with  at Converse Texas 78109",
-      "startTime": "2026-06-24T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ycqSobIWBBJQZGCRh4FA",
-      "title": " Laura Contreras Design Consultation with  at 1407 Rolling Thunder Drive Killeen Texas 76542",
-      "startTime": "2026-06-24T12:45:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "1P2MtsX5E1TgBA0Oax7k",
-      "title": " Roxanne Felton Design Consultation with  at 10807 Amador Peak Drive Arcola Texas 77583",
-      "startTime": "2026-06-24T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "YvRJdjMCSqcIKDyesgfd",
-      "title": " Nelli Sims Design Consultation with  at 1906 River Rock Trail Harker Heights TX 76548",
-      "startTime": "2026-06-24T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "Lf2vhXfKBzlyflHMiQIK",
-      "title": "Appt w Amber Drones",
-      "startTime": "2026-06-24T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "zM7wGPVIhkfxRfZjZvEL",
-      "title": "Rebecca Froman Design Consultation with  at 114 Dekoch Ridge Kerrville Texas 78028",
-      "startTime": "2026-06-24T09:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "JESgIe36hgizD3Ol3QBk",
-      "title": "Terry Skaggs Design Consultation with  at 422 Blue Gill Dr Lakehills Texas 78063",
-      "startTime": "2026-06-24T08:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
