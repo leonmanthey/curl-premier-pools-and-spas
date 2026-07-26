@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T08:08:57.324020+00:00",
-    "startDate": "2026-06-25T08:08:56.447264+00:00",
-    "endDate": "2026-07-25T08:08:56.447264+00:00",
+    "generatedAt": "2026-07-26T08:29:29.100944+00:00",
+    "startDate": "2026-06-26T08:29:26.812113+00:00",
+    "endDate": "2026-07-26T08:29:26.812113+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 208,
-    "human": 92,
-    "auto": 5,
-    "selfBooked": 105,
+    "total": 199,
+    "human": 89,
+    "auto": 4,
+    "selfBooked": 100,
     "other": 6,
-    "humanPct": 44,
+    "humanPct": 45,
     "autoPct": 2,
-    "notHumanPct": 56
+    "notHumanPct": 55
   },
   "sourceCounts": {
-    "contactdetails_page": 81,
-    "booking_widget": 105,
+    "contactdetails_page": 78,
+    "booking_widget": 100,
     "mobile_app": 6,
     "voice_ai": 6,
     "calendar_page": 5,
-    "conversations_ai": 5
+    "conversations_ai": 4
   },
   "appointments": [
     {
@@ -2208,105 +2208,6 @@
       "startTime": "2026-06-26T08:30:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "dWYv6kCwSCmJLBDNOd5N",
-      "title": " Lissette Duarte Design Consultation with  at 17537 FM 521 Road Rosharon Texas 77583",
-      "startTime": "2026-06-25T17:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "vvPBuTb3yeM2hMzarpR6",
-      "title": "Appt w Lorraine Garza",
-      "startTime": "2026-06-25T17:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "9bdddtZ3aIWOAYgvyQvp",
-      "title": " Valerie Whalen Design Consultation with  at 3636 Longhorn Trail Round Rock Texas 78665",
-      "startTime": "2026-06-25T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "X3Bz2DmVk0hx3rANk3sy",
-      "title": "Saulo Pedroza Design Consultation with  at San Antonio TX 78109",
-      "startTime": "2026-06-25T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "2LqeJAQPic53BYHRGsNO",
-      "title": " Brenda Michel Design Consultation with  at 8161 Elrod Street Houston Texas 77017",
-      "startTime": "2026-06-25T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "mcWetlK1KB8SgwTCBqwo",
-      "title": "David Jackson Design Consultation with  at San Antonio Texas 78258",
-      "startTime": "2026-06-25T11:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "tZdUP0DBZXSBTvIj0ojl",
-      "title": "Appt w Jeff Webb",
-      "startTime": "2026-06-25T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "7qRcM2ZBAqsLsiD4blvo",
-      "title": "Remodel Appt w Marcel Meijer",
-      "startTime": "2026-06-25T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "f70i9fyJgHclgtaYsnjY",
-      "title": "Sandra Otero Design Consultation with  at 13818 Shavano Breeze San Antonio Texas 78230",
-      "startTime": "2026-06-25T08:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
