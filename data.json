@@ -1,35 +1,113 @@
 {
   "meta": {
-    "generatedAt": "2026-07-27T09:56:00.569148+00:00",
-    "startDate": "2026-06-27T09:55:58.873462+00:00",
-    "endDate": "2026-07-27T09:55:58.873462+00:00",
+    "generatedAt": "2026-07-28T08:37:16.538187+00:00",
+    "startDate": "2026-06-28T08:37:15.649701+00:00",
+    "endDate": "2026-07-28T08:37:15.649701+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 199,
-    "human": 89,
+    "total": 202,
+    "human": 90,
     "auto": 5,
-    "selfBooked": 98,
-    "other": 7,
+    "selfBooked": 99,
+    "other": 8,
     "humanPct": 45,
-    "autoPct": 3,
+    "autoPct": 2,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "booking_widget": 98,
+    "booking_widget": 99,
     "contactdetails_page": 78,
-    "mobile_app": 6,
-    "voice_ai": 7,
+    "mobile_app": 7,
+    "voice_ai": 8,
     "conversations_ai": 5,
-    "calendar_page": 5
+    "opportunity_page": 1,
+    "calendar_page": 4
   },
   "appointments": [
+    {
+      "id": "KyxJxFCSY01iYBLiglPp",
+      "title": " Courtney Davidson Design Consultation with  at 1426 Talco Garden Court League City TX 77573",
+      "startTime": "2026-07-28T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "CyVJWHiw82u9X9dTPnqB",
+      "title": " LYNNE BLEVINS Design Consultation with  at 500 Harrison Matthew Lane, Georgetown, Texas 78626 Georgetown TX 78626",
+      "startTime": "2026-07-28T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "5EZKUbhGz1IiC2sQ29sp",
+      "title": " Jamar Knight Design Consultation with  at Killeen TX 76542- Phone appt",
+      "startTime": "2026-07-28T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "EBbvWodkjqid8EIKVe7S",
+      "title": " Allison Sadler Design Consultation with  at 209 Acker Rd Georgetown Texas 78633",
+      "startTime": "2026-07-28T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "r5S1T1RYvpgkni6z09ly",
+      "title": " Jennifer Miniard Design Consultation with  at ",
+      "startTime": "2026-07-28T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "opportunity_page",
+      "sourceLabel": "CRM page",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "606Xh34b64p9jgNQgiEX",
+      "title": "Laura Torres Design Consultation with  at 8744 Rucker Pond Trl San Antonio Texas 78252",
+      "startTime": "2026-07-28T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "72PBXH2yAivw26jYyv9L"
+    },
+    {
+      "id": "wIvj3BTR1b5b5XYqKJ9M",
+      "title": " Chaz Jones Design Consultation with  at 4019 County Road 208 Danbury Texas 77534",
+      "startTime": "2026-07-28T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "omtU1Xclb9ht1do17kE7",
       "title": " Debra Becerra Design Consultation with  at 3322 Charbray Drive Belton Texas 76513",
       "startTime": "2026-07-27T15:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -73,7 +151,7 @@
       "title": " Lola  Design Consultation with  at 5100 Evergreen, Bel Air, Texas 77401 Bel Air DC 77401",
       "startTime": "2026-07-27T11:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "noshow",
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
@@ -183,7 +261,7 @@
       "title": "Appt w Abdelnaser Bataineh",
       "startTime": "2026-07-24T16:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2168,50 +2246,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "pbY1TzcICzLNbWTs6scY",
-      "title": "Appt w Priya Brahmbhatt",
-      "startTime": "2026-06-27T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "jcM8JLxT64TrksWcS31L",
-      "title": " Larry Seeton Design Consultation with  at 2727 Cumberland Drive, Tex Santa Fe Texas 77510",
-      "startTime": "2026-06-27T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "36xD0XBq3v4scxZZavTx",
-      "title": "Appt w Chris Scheffier",
-      "startTime": "2026-06-27T09:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1782536400000_82800",
-      "title": "Block",
-      "startTime": "2026-06-27T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
