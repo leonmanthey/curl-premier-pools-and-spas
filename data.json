@@ -1,30 +1,96 @@
 {
   "meta": {
-    "generatedAt": "2026-07-28T08:37:16.538187+00:00",
-    "startDate": "2026-06-28T08:37:15.649701+00:00",
-    "endDate": "2026-07-28T08:37:15.649701+00:00",
+    "generatedAt": "2026-07-29T08:43:59.686010+00:00",
+    "startDate": "2026-06-29T08:43:59.016565+00:00",
+    "endDate": "2026-07-29T08:43:59.016565+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 202,
-    "human": 90,
+    "total": 209,
+    "human": 95,
     "auto": 5,
-    "selfBooked": 99,
-    "other": 8,
+    "selfBooked": 100,
+    "other": 9,
     "humanPct": 45,
     "autoPct": 2,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "booking_widget": 99,
-    "contactdetails_page": 78,
-    "mobile_app": 7,
-    "voice_ai": 8,
+    "booking_widget": 100,
+    "contactdetails_page": 82,
+    "mobile_app": 8,
+    "voice_ai": 9,
     "conversations_ai": 5,
     "opportunity_page": 1,
     "calendar_page": 4
   },
   "appointments": [
+    {
+      "id": "QlW7RuOCm2ASNHYS2rkC",
+      "title": " JULIA SCOTT Design Consultation with  at 206 Barton Ranch Road, Dripping Springs, Texas 78620 Dripping Springs TX 78620",
+      "startTime": "2026-07-29T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "rNaDNfIjQfNNzEwxCbzl",
+      "title": "Appt w Jose Navarro",
+      "startTime": "2026-07-29T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "aG5tIo6lFoXyiSpotBVW",
+      "title": " Jamie Hamby Design Consultation with  at 59 sobrante rd belton texas 76513",
+      "startTime": "2026-07-29T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "71qadBXLWvQtdJCmrrZG",
+      "title": " Christina Smith Design Consultation with  at 9535 Franklin Dr Mont Belvieu Texas 77523",
+      "startTime": "2026-07-29T11:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "94EiohoYHX8dNZFGmVrM",
+      "title": " Carlos Rodriguez Design Consultation with  at 3504 denbar ct austin texas 78739",
+      "startTime": "2026-07-29T08:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "I3zZTMHTPYtMnghrypRA",
+      "title": "2nd appointment with Mark & Jayson",
+      "startTime": "2026-07-29T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
     {
       "id": "KyxJxFCSY01iYBLiglPp",
       "title": " Courtney Davidson Design Consultation with  at 1426 Talco Garden Court League City TX 77573",
@@ -35,6 +101,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "2wMthOVJTruPeqdf7Asp",
+      "title": " Debbie Garcia Design Consultation with  at 1928 Scenic Heights Lane Georgetown TX 78628",
+      "startTime": "2026-07-28T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
     },
     {
       "id": "CyVJWHiw82u9X9dTPnqB",
