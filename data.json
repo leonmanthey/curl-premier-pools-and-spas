@@ -1,30 +1,151 @@
 {
   "meta": {
-    "generatedAt": "2026-07-29T08:43:59.686010+00:00",
-    "startDate": "2026-06-29T08:43:59.016565+00:00",
-    "endDate": "2026-07-29T08:43:59.016565+00:00",
+    "generatedAt": "2026-07-30T08:30:03.239575+00:00",
+    "startDate": "2026-06-30T08:30:01.506003+00:00",
+    "endDate": "2026-07-30T08:30:01.506003+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 209,
+    "total": 212,
     "human": 95,
-    "auto": 5,
-    "selfBooked": 100,
+    "auto": 6,
+    "selfBooked": 102,
     "other": 9,
     "humanPct": 45,
-    "autoPct": 2,
+    "autoPct": 3,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "booking_widget": 100,
-    "contactdetails_page": 82,
-    "mobile_app": 8,
+    "booking_widget": 102,
+    "mobile_app": 9,
+    "contactdetails_page": 81,
     "voice_ai": 9,
-    "conversations_ai": 5,
+    "conversations_ai": 6,
     "opportunity_page": 1,
     "calendar_page": 4
   },
   "appointments": [
+    {
+      "id": "9bq9Cp3vg1w3yPhCAMhL",
+      "title": " Linda Ramirez Design Consultation with  at 9803 Rockcress Road Boerne Texas 78006",
+      "startTime": "2026-07-30T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "uSWYzm8DF0QpPir1rb2H",
+      "title": "ANDRIA SHARP. Design Consultation with  at 8823 Cherokee Path Garden Ridge Texas 78266",
+      "startTime": "2026-07-30T17:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "1BqvKucj37LOO2oB6Rdh",
+      "title": " Laura Duarte Design Consultation with  at 3614 Ottati Place Round Rock Texas 78665",
+      "startTime": "2026-07-30T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "0uwOhifKyar6UPdRtH3l",
+      "title": "Appointment with Jessica Price",
+      "startTime": "2026-07-30T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "x5A0OdqIL5IbZdqhUxqQ",
+      "title": " Malinda Sykora Design Consultation with  at 7706 Merry Oaks Cove Temple Texas 76502",
+      "startTime": "2026-07-30T16:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "I03ryjIO4ACjONTM73qD",
+      "title": " MIKE SCHMITZ Design Consultation with  at 441 Rusk Bluff Avenue Leander Texas 78641",
+      "startTime": "2026-07-30T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "YOs8LQCDhTGKoAUxWjH5",
+      "title": "Appt w Wayne Criswell--4108 Briar Cliff Rd., Temple 76502",
+      "startTime": "2026-07-30T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "YnF3hWePla637j4ZTEA6",
+      "title": "Appt w Cheryl Brown",
+      "startTime": "2026-07-30T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "ZJ7kuK90ODQfopRNxUhl",
+      "title": " Tabatha Hopson Design Consultation with  at 118 San Gabriel drive Baytown TX 77523",
+      "startTime": "2026-07-30T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "auto",
+      "source": "conversations_ai",
+      "sourceLabel": "Conversations AI",
+      "userId": null
+    },
+    {
+      "id": "hl1G4PlqKngi9kJAUyLO",
+      "title": " Russell Baier Design Consultation with  at 1265 Mourning Dove Ct Salado Texas 76571",
+      "startTime": "2026-07-30T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "VEDueCKL4VfPPaOLzQ4M",
+      "title": " Christina Tillinger Design Consultation with  at 298 West Fork Drive League City Texas 77573",
+      "startTime": "2026-07-30T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "QlW7RuOCm2ASNHYS2rkC",
       "title": " JULIA SCOTT Design Consultation with  at 206 Barton Ranch Road, Dripping Springs, Texas 78620 Dripping Springs TX 78620",
@@ -35,17 +156,6 @@
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
       "userId": null
-    },
-    {
-      "id": "rNaDNfIjQfNNzEwxCbzl",
-      "title": "Appt w Jose Navarro",
-      "startTime": "2026-07-29T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "aG5tIo6lFoXyiSpotBVW",
@@ -277,17 +387,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "kUKH9cxLdSLqtnd5r8bc",
-      "title": " AJ Garza Design Consultation with  at 4518 Backenberry Dr Friendswood Texas 77546",
-      "startTime": "2026-07-25T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "pT0vjFTyEtPRm05efpy5",
@@ -2252,72 +2351,6 @@
       "title": " GABRIELLE FINNEY Design Consultation with  at 14202 Cypress Meadows Drive Houston Texas 77047",
       "startTime": "2026-06-30T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "On2pdrdTBAyC3UkCk9Q2",
-      "title": "Appt w Carla Selvera",
-      "startTime": "2026-06-29T16:45:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "elFNX96wITtJf8HtjlpE",
-      "title": "Romish Abdulrashid Design Consultation with  at 23318 Cawley Run San Antonio Texas 78255",
-      "startTime": "2026-06-29T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bum0IUPTaFCP442rU5YZ",
-      "title": "Remodel Appt w Mayank Mishra",
-      "startTime": "2026-06-29T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "DHzaou1RBElXWV3DIwLH",
-      "title": " Belinda And Paul Thibault Design Consultation with  at 12334 Burgoyne Dr Houston Texas 77077",
-      "startTime": "2026-06-29T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "WtUkx9MCPnDuht3JbqTl",
-      "title": "Clint Kocurek Design Consultation",
-      "startTime": "2026-06-29T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "yXnjmT6HjhGdvu4JdM27"
-    },
-    {
-      "id": "nzBl2CXs7ecy4TR9xJQv",
-      "title": "Phone Appt only--  Issac Molina Design Consultation with  at 687 Reliance Dr Buda Texas 78610",
-      "startTime": "2026-06-29T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
