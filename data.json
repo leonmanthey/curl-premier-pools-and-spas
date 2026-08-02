@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-08-01T08:23:42.139197+00:00",
-    "startDate": "2026-07-02T08:23:41.318569+00:00",
-    "endDate": "2026-08-01T08:23:41.318569+00:00",
+    "generatedAt": "2026-08-02T08:26:44.809156+00:00",
+    "startDate": "2026-07-03T08:26:44.134286+00:00",
+    "endDate": "2026-08-02T08:26:44.134286+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 209,
-    "human": 90,
+    "total": 200,
+    "human": 88,
     "auto": 4,
-    "selfBooked": 104,
+    "selfBooked": 97,
     "other": 11,
-    "humanPct": 43,
+    "humanPct": 44,
     "autoPct": 2,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 104,
     "mobile_app": 8,
-    "contactdetails_page": 75,
+    "contactdetails_page": 73,
+    "booking_widget": 97,
     "voice_ai": 11,
     "conversations_ai": 4,
     "opportunity_page": 1,
@@ -2224,105 +2224,6 @@
       "source": "mobile_app",
       "sourceLabel": "Mobile app",
       "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "K0nmg8vgaXdAmjSotm3s",
-      "title": " Shreeya Parajuli Design Consultation with  at 121 Magnolia Springs Drive Georgetown Texas 78628",
-      "startTime": "2026-07-02T18:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "50Db7OwZyksJqSP1Vp9q",
-      "title": " Ishan Patel Design Consultation with  at 604 Mallow Rd Leander Texas 78641",
-      "startTime": "2026-07-02T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "BWwM7GpRp9a8x9Osoebm",
-      "title": "Appt w Grayling Pop Bocage",
-      "startTime": "2026-07-02T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "90QVTssvHOQRotOjsla9",
-      "title": "Griselda Sandoval Design Consultation with  at 9115 Laguna Falls San Antonio Texas 78251",
-      "startTime": "2026-07-02T14:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "6R8VpyinYullIbaYYW9H",
-      "title": " Joshua Jackson Design Consultation with  at 2924 Wigeon Way Copperas Cove Texas 76522",
-      "startTime": "2026-07-02T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "jFv3kVXnJccrxioQ1HRi",
-      "title": " Joshua Jackson Design Consultation with  at 2924 Wigeon Way Copperas Cove Texas 76522",
-      "startTime": "2026-07-02T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "gNGXMFIWdQmaaS0ebN84",
-      "title": " Phone Appt w BJ Stampley Design Consultation with  at El Lago TX 77586",
-      "startTime": "2026-07-02T09:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "NzB3Y2CdplkbctNA6M9S",
-      "title": "Clayton Porter Design Consultation with  at 1334 Wilson Creek New Braunfels Texas 78132",
-      "startTime": "2026-07-02T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "sBfbJP5E0xCF5xdRnTJJ",
-      "title": " Justin Grosz Design Consultation with  at 5625 Knob Creek Road Temple Texas 76501",
-      "startTime": "2026-07-02T08:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
