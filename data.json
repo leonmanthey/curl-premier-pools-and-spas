@@ -1,30 +1,86 @@
 {
   "meta": {
-    "generatedAt": "2026-08-02T08:26:44.809156+00:00",
-    "startDate": "2026-07-03T08:26:44.134286+00:00",
-    "endDate": "2026-08-02T08:26:44.134286+00:00",
+    "generatedAt": "2026-08-03T09:49:50.288282+00:00",
+    "startDate": "2026-07-04T09:49:49.637778+00:00",
+    "endDate": "2026-08-03T09:49:49.637778+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 200,
+    "total": 202,
     "human": 88,
-    "auto": 4,
+    "auto": 5,
     "selfBooked": 97,
-    "other": 11,
+    "other": 12,
     "humanPct": 44,
     "autoPct": 2,
     "notHumanPct": 56
   },
   "sourceCounts": {
-    "mobile_app": 8,
-    "contactdetails_page": 73,
     "booking_widget": 97,
-    "voice_ai": 11,
+    "mobile_app": 7,
+    "contactdetails_page": 74,
+    "voice_ai": 12,
     "conversations_ai": 4,
     "opportunity_page": 1,
-    "calendar_page": 6
+    "calendar_page": 6,
+    "third_party": 1
   },
   "appointments": [
+    {
+      "id": "F7BYmKerpPvPwjaB9GL6",
+      "title": "Appt w Lorelei Winston",
+      "startTime": "2026-08-03T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "dKW1ozrC64xiZk5i8681",
+      "title": " Karely Massey Design Consultation with  at 411 Williamsburg Ave Clute TX 77531",
+      "startTime": "2026-08-03T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
+    {
+      "id": "rNaDNfIjQfNNzEwxCbzl",
+      "title": "Jose Navarro Design Consultation with  at 32177 cardamom way Bulverde TX 78163",
+      "startTime": "2026-08-03T12:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "62E0Y5VJXhIWUptEfc5H",
+      "title": " Domonique Ingram Design Consultation with  at 805 Clanton Cove Killeen Texas 76542",
+      "startTime": "2026-08-03T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "0wcVp7HHvCjPmmwHqWju",
+      "title": " Tricia  Design Consultation with  at 249 Jates Field Bend, Liberty Hill, Texas 78642 Liberty Hill CO 78642",
+      "startTime": "2026-08-03T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "M3q9AS8c8CtZLJTpJhh8",
       "title": " James Ashmus Design Consultation with  at 13124 Morning Villa Drive Texas City Texas 77568",
@@ -2191,39 +2247,6 @@
       "source": "calendar_page",
       "sourceLabel": "calendar_page",
       "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "5nK0XAn5XuPcGHIy5Rh0",
-      "title": "Vanessa Thomas Design Consultation with  at 12919 Spur Hollow Schertz Texas 78154",
-      "startTime": "2026-07-03T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "XwyihfVl4lw08wCYuvVx",
-      "title": "PHONE APPT w Jennifer Kalelkini",
-      "startTime": "2026-07-03T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "jYe33dWBJznjiwTiKNbf",
-      "title": " Rosario DeLeon Design Consultation with  at 11020 Roy Butler Drive Austin Texas 78717",
-      "startTime": "2026-07-03T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
     }
   ]
 }
