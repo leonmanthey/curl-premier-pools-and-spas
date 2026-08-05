@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-08-04T08:39:49.758862+00:00",
-    "startDate": "2026-07-05T08:39:49.188988+00:00",
-    "endDate": "2026-08-04T08:39:49.188988+00:00",
+    "generatedAt": "2026-08-05T08:39:00.493674+00:00",
+    "startDate": "2026-07-06T08:38:59.934643+00:00",
+    "endDate": "2026-08-05T08:38:59.934643+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 209,
-    "human": 92,
+    "total": 212,
+    "human": 93,
     "auto": 6,
-    "selfBooked": 98,
+    "selfBooked": 100,
     "other": 13,
     "humanPct": 44,
     "autoPct": 3,
     "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 98,
+    "booking_widget": 100,
     "mobile_app": 9,
-    "contactdetails_page": 77,
+    "contactdetails_page": 78,
     "voice_ai": 13,
     "conversations_ai": 4,
     "opportunity_page": 1,
@@ -26,6 +26,50 @@
     "third_party": 2
   },
   "appointments": [
+    {
+      "id": "K16uowioAJlfBdNUMARQ",
+      "title": "Appt w Claret Medina @ 17702 shilo ridge dr",
+      "startTime": "2026-08-05T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "gXH1IzMpl5hWRrmJKXvD",
+      "title": " Linda Pruitt Design Consultation with  at 21700 Pope Drive Lago Vista TX 78645",
+      "startTime": "2026-08-05T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "oW1hKyVX7VwpDcrfWjE6",
+      "title": " Joanyett Mays Design Consultation with  at 6904 Mcgregor Loop Killeen TX 76549",
+      "startTime": "2026-08-05T09:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "6Z8cpr1DmeJRF2s1GssX",
+      "title": " Michael Anthony Design Consultation with  at 104 Belford st Georgetown TX 78628",
+      "startTime": "2026-08-05T07:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
     {
       "id": "Th9HqIYlIaqmoOb17K5Z",
       "title": "Appt w Mark Juarez",
@@ -75,7 +119,7 @@
       "title": "Appt w Laurie Gray ",
       "startTime": "2026-08-04T14:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -2313,17 +2357,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "SykjPsgg0MVrBnpO9NGK",
-      "title": "First Appt w/ Antonio Talamante and Tyler Schlinke ",
-      "startTime": "2026-07-05T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "gSZoD6vamU3AzDp0UHmy"
     }
   ]
 }
