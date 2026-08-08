@@ -1,31 +1,53 @@
 {
   "meta": {
-    "generatedAt": "2026-08-07T07:18:53.539500+00:00",
-    "startDate": "2026-07-08T07:18:49.778418+00:00",
-    "endDate": "2026-08-07T07:18:49.778418+00:00",
+    "generatedAt": "2026-08-08T06:56:26.116696+00:00",
+    "startDate": "2026-07-09T06:56:25.386517+00:00",
+    "endDate": "2026-08-08T06:56:25.386517+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 206,
-    "human": 92,
-    "auto": 4,
-    "selfBooked": 96,
+    "total": 195,
+    "human": 88,
+    "auto": 5,
+    "selfBooked": 88,
     "other": 14,
     "humanPct": 45,
-    "autoPct": 2,
+    "autoPct": 3,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "contactdetails_page": 76,
-    "booking_widget": 96,
+    "contactdetails_page": 72,
+    "booking_widget": 88,
     "mobile_app": 9,
     "voice_ai": 14,
     "conversations_ai": 2,
     "opportunity_page": 1,
     "calendar_page": 6,
-    "third_party": 2
+    "third_party": 3
   },
   "appointments": [
+    {
+      "id": "eC8QLr3fVLbz4tdedo7k",
+      "title": " Mahuvi Ortega Design Consultation with  at 15911 Mission Glen Drive Houston Texas 77083",
+      "startTime": "2026-08-08T11:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "4ZgTbZY9gTDTLXVoXhSy",
+      "title": " Addison Drake Design Consultation with  at 9042 Rain Preserve San Antonio Texas 78254",
+      "startTime": "2026-08-08T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "auto",
+      "source": "third_party",
+      "sourceLabel": "Third party",
+      "userId": null
+    },
     {
       "id": "rvTnLlsKttMUHqlORyfC_1786165200000_82800",
       "title": "Block",
@@ -53,7 +75,7 @@
       "title": " Caitlyn McDonald Design Consultation with  at 1102 W Castlewood Ave Friendswood Texas 77546",
       "startTime": "2026-08-07T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2148,149 +2170,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "E6XpvMPXsG6yGsk8TyBU",
-      "title": " Ligia Geofroy Design Consultation with  at 2931 Massengale Ln Webster Texas 77598",
-      "startTime": "2026-07-08T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "xvuMiziDZYPQqa9Qdd81",
-      "title": " Leslie Flores Design Consultation with  at 8703 Fox Trail Dr Missouri City Texas 77459",
-      "startTime": "2026-07-08T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "hS2amv8LSHqltUIIONzY",
-      "title": " Monica Diaz Design Consultation with  at 14927 Colville Street Channelview Texas 77530",
-      "startTime": "2026-07-08T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5UgWSlj389rdqOwhRyGD",
-      "title": " Elizabeth Chandler Design Consultation with  at 8310 Stonehollow Drive Temple Texas 76502",
-      "startTime": "2026-07-08T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "C0cjEq7zE2kwAadW9eMB",
-      "title": "Appt w Glory Beth",
-      "startTime": "2026-07-08T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "sK7mtmwJtSF2wPRFzYJA",
-      "title": "Jennifer Garcia Design Consultation with  at 2428 Tree Branch Schertz Texas 78154",
-      "startTime": "2026-07-08T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "XvZffX9XfLpjpH0ah79i",
-      "title": "Julio Ramirez Design Consultation with  at 1322 Scenic Knoll San Antonio Texas 78258",
-      "startTime": "2026-07-08T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "P4GRyxCCMv8dSGzWnScf",
-      "title": " Vanessa Cordell Design Consultation with  at 4100 Lovers Lane Dickinson Texas 77539",
-      "startTime": "2026-07-08T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "7vQ8rFSb4HO46gNgkSzf",
-      "title": " Liezl Kwak Design Consultation with  at 713 Rawson Bend Austin Texas 78738",
-      "startTime": "2026-07-08T10:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "GbAzgVroEWqjFTlm0spw",
-      "title": "Appt w Catherine Baker",
-      "startTime": "2026-07-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "H89eSzfgnocQ9S972VBc",
-      "title": "Adam Johnson",
-      "startTime": "2026-07-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "S7fm8bo278WaugLvFsC3",
-      "title": "Appt w Jose Rama",
-      "startTime": "2026-07-08T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "1QgstYwSrZloCa2db6og",
-      "title": "Samantha Arosteguy Design Consultation with  at 180 Saur Road Bulverde Texas 78163",
-      "startTime": "2026-07-08T08:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
