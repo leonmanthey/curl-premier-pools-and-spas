@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-08-08T06:56:26.116696+00:00",
-    "startDate": "2026-07-09T06:56:25.386517+00:00",
-    "endDate": "2026-08-08T06:56:25.386517+00:00",
+    "generatedAt": "2026-08-09T06:59:21.578170+00:00",
+    "startDate": "2026-07-10T06:59:20.677197+00:00",
+    "endDate": "2026-08-09T06:59:20.677197+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 195,
-    "human": 88,
+    "total": 186,
+    "human": 83,
     "auto": 5,
-    "selfBooked": 88,
+    "selfBooked": 84,
     "other": 14,
     "humanPct": 45,
     "autoPct": 3,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "contactdetails_page": 72,
-    "booking_widget": 88,
+    "contactdetails_page": 67,
+    "booking_widget": 84,
     "mobile_app": 9,
     "voice_ai": 14,
     "conversations_ai": 2,
@@ -31,7 +31,7 @@
       "title": " Mahuvi Ortega Design Consultation with  at 15911 Mission Glen Drive Houston Texas 77083",
       "startTime": "2026-08-08T11:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -2071,105 +2071,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "4qJHZeLbnA31ma3WYTin",
-      "title": " Israel Terrazas Design Consultation with  at 102 Eagle Nest Ct Lake Jackson Texas 77566",
-      "startTime": "2026-07-09T18:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "deQi3ozO6KkM4dYtY14i",
-      "title": " Karen Birch Design Consultation with  at 7611 Tejas Lakes Trail Needville Texas 77461",
-      "startTime": "2026-07-09T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "f4zki5Ou1SEgs31bBPRC",
-      "title": "Appt w Sean MacAllister",
-      "startTime": "2026-07-09T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "deVoLm4yn375746oP7gO",
-      "title": " Betty Jo Clemons Design Consultation with  at 13050 C Speed Road Santa Fe Texas 77517",
-      "startTime": "2026-07-09T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Ft23XiDFfUK4W9ybWtgI",
-      "title": "Keri And Jose Design Consultation with  at San Antonio Texas 78261",
-      "startTime": "2026-07-09T14:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "aBKFeeKRPyYgy5fByXS0",
-      "title": "Appt w Justin Gilliland",
-      "startTime": "2026-07-09T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "sCySo3XgG3EnWle2D6RT",
-      "title": "Appt w Terrence Tebo",
-      "startTime": "2026-07-09T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "bpyZyTtigOMRKdSaKVeG",
-      "title": "Phone Appt Anastasia Randolph",
-      "startTime": "2026-07-09T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "C3ASN5AEZJpor8xAkdXw",
-      "title": "Phone Appt w Hugh Miller",
-      "startTime": "2026-07-09T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "invalid",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
