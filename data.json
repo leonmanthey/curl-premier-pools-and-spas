@@ -1,31 +1,119 @@
 {
   "meta": {
-    "generatedAt": "2026-08-11T07:10:41.954958+00:00",
-    "startDate": "2026-07-12T07:10:41.363055+00:00",
-    "endDate": "2026-08-11T07:10:41.363055+00:00",
+    "generatedAt": "2026-08-12T07:27:25.678627+00:00",
+    "startDate": "2026-07-13T07:27:25.087276+00:00",
+    "endDate": "2026-08-12T07:27:25.087276+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 176,
-    "human": 78,
+    "total": 184,
+    "human": 82,
     "auto": 5,
-    "selfBooked": 77,
-    "other": 16,
-    "humanPct": 44,
+    "selfBooked": 79,
+    "other": 18,
+    "humanPct": 45,
     "autoPct": 3,
-    "notHumanPct": 56
+    "notHumanPct": 55
   },
   "sourceCounts": {
-    "booking_widget": 77,
-    "contactdetails_page": 64,
-    "mobile_app": 8,
-    "voice_ai": 16,
+    "booking_widget": 79,
+    "contactdetails_page": 66,
+    "mobile_app": 10,
+    "voice_ai": 18,
     "conversations_ai": 2,
     "opportunity_page": 1,
     "calendar_page": 5,
     "third_party": 3
   },
   "appointments": [
+    {
+      "id": "QwYAwMBu06bosYlWgLac",
+      "title": "Appt anaya knight",
+      "startTime": "2026-08-12T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "TDg5av9GqB17LMy4Qf1U",
+      "title": " JAVIER GARCIA Design Consultation with  at 414 Avenue D SOUTH HOUSTON TX 77587",
+      "startTime": "2026-08-12T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "b43uowvPhnwrXPdxMoKk",
+      "title": "Appt w Marcy Villafana",
+      "startTime": "2026-08-12T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "uP6BB564NuqWOo5Il2lC",
+      "title": " Brad Major Design Consultation with  at 4944 Morese Palace Trl Round Rock Texas 78665",
+      "startTime": "2026-08-12T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "SBeGrV1MdGpO7xbIoKIr",
+      "title": " SISTERS RESIDEN Design Consultation with  at 12319 Bluewater Drive, Austin, 78758 Austin TX 78758",
+      "startTime": "2026-08-12T12:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "pTXkkUCKITAdBDK4z2om",
+      "title": "Claret Medina",
+      "startTime": "2026-08-12T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "SPcaH4JDlM4CvobSKzhM",
+      "title": "Layout Meeting with Hector",
+      "startTime": "2026-08-12T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "XZoPr4fPc9bMso3Qay27",
+      "title": " PAULA CONKEY Design Consultation with  at 65 Rancho Trail Georgetown, Texas 78628 Georgetown NY 78628",
+      "startTime": "2026-08-12T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "kKE2OWhPuXIaXKgOPKnp",
       "title": "Tatiana Penners Design Consultation with  at 940 Wilderness Trail New Braunfels Texas 78132",
