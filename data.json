@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-08-12T07:27:25.678627+00:00",
-    "startDate": "2026-07-13T07:27:25.087276+00:00",
-    "endDate": "2026-08-12T07:27:25.087276+00:00",
+    "generatedAt": "2026-08-13T07:36:59.968664+00:00",
+    "startDate": "2026-07-14T07:36:59.342509+00:00",
+    "endDate": "2026-08-13T07:36:59.342509+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 184,
-    "human": 82,
+    "total": 180,
+    "human": 80,
     "auto": 5,
-    "selfBooked": 79,
+    "selfBooked": 77,
     "other": 18,
-    "humanPct": 45,
+    "humanPct": 44,
     "autoPct": 3,
-    "notHumanPct": 55
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 79,
-    "contactdetails_page": 66,
+    "contactdetails_page": 64,
+    "booking_widget": 77,
     "mobile_app": 10,
     "voice_ai": 18,
     "conversations_ai": 2,
@@ -26,6 +26,39 @@
     "third_party": 3
   },
   "appointments": [
+    {
+      "id": "RonIvWhL6pLAXOjt103A",
+      "title": " Tanja White Design Consultation with  at 119 Lakeview Ct Belton TX 76513",
+      "startTime": "2026-08-13T13:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "JJmRkjkyHY7M30OxaGX8",
+      "title": " Jose Hernandez Mayo Design Consultation with  at 4000 Milano River Rd Hutto TX 78634",
+      "startTime": "2026-08-13T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "X1BnbXEW9qqqGiZ9Hrzr",
+      "title": " Melissa Harris Design Consultation with  at 3101 Goza Trail Dickinson. TX 77539",
+      "startTime": "2026-08-12T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "QwYAwMBu06bosYlWgLac",
       "title": "Appt anaya knight",
@@ -75,7 +108,7 @@
       "title": " SISTERS RESIDEN Design Consultation with  at 12319 Bluewater Drive, Austin, 78758 Austin TX 78758",
       "startTime": "2026-08-12T12:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
@@ -1972,83 +2005,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "J7uwycatTzdMkkD8y8hN",
-      "title": " Christeen Indira Design Consultation with  at 12802 lindsey lane Houston TX 77477",
-      "startTime": "2026-07-13T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "mtbIShqoA43nBGmDKEcA",
-      "title": " Shannon Karabanoff Design Consultation with  at 5902 Quiet Meadow Ct Pasadena Texas 77505",
-      "startTime": "2026-07-13T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "2Gvk9fUOCOqFpTRRyEOk",
-      "title": "Appt w Clarise Sanchez",
-      "startTime": "2026-07-13T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "xq7oqbcmhlvtF6oeb9eF",
-      "title": "Georgia Richards Design Consultation with  at 222 Turnberry Drive Cibolo Texas 78108",
-      "startTime": "2026-07-13T15:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "9EUlbcQQQrbFiSb8SFIF",
-      "title": " Diana Ortiz Design Consultation with  at 6704 Cool Creek Dr Killeen Texas 76549",
-      "startTime": "2026-07-13T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ImK8EgiIQQKEsxlJSqoc",
-      "title": " Matt Griswold Design Consultation with  at 507 San Gabriel Blvd Georgetown Texas 78628",
-      "startTime": "2026-07-13T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "LpLII1a3mMhnuKPcXOGd",
-      "title": " Valerie Cantwell Design Consultation with  at 21001 Isle of Glass Street Pflugerville Texas 78660",
-      "startTime": "2026-07-13T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
