@@ -1,31 +1,130 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T07:36:59.968664+00:00",
-    "startDate": "2026-07-14T07:36:59.342509+00:00",
-    "endDate": "2026-08-13T07:36:59.342509+00:00",
+    "generatedAt": "2026-08-14T07:26:46.450396+00:00",
+    "startDate": "2026-07-15T07:26:45.808499+00:00",
+    "endDate": "2026-08-14T07:26:45.808499+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 180,
+    "total": 182,
     "human": 80,
     "auto": 5,
-    "selfBooked": 77,
-    "other": 18,
+    "selfBooked": 78,
+    "other": 19,
     "humanPct": 44,
     "autoPct": 3,
     "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 64,
-    "booking_widget": 77,
-    "mobile_app": 10,
-    "voice_ai": 18,
+    "booking_widget": 78,
+    "contactdetails_page": 62,
+    "mobile_app": 11,
+    "voice_ai": 19,
     "conversations_ai": 2,
     "opportunity_page": 1,
-    "calendar_page": 5,
+    "calendar_page": 6,
     "third_party": 3
   },
   "appointments": [
+    {
+      "id": "rvTnLlsKttMUHqlORyfC_1786770000000_82800",
+      "title": "Block",
+      "startTime": "2026-08-15T00:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "SaTWUiCR0SuMHbVsl4hl",
+      "title": "Appt w Donnis Overton",
+      "startTime": "2026-08-14T17:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "hGJTcpw6ZvFMGGrhCFUg",
+      "title": " Jaideep Sagar Design Consultation with  at 605 Wolf Ridge Road Georgetown Texas 78628",
+      "startTime": "2026-08-14T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Zq2ZXm9wz59iHcOfLxPB",
+      "title": "Karen Kellogg Design Consultation with  at 233 Castano Avenue San Antonio Texas 78209",
+      "startTime": "2026-08-14T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ZThhECBic2Wzpn7UXFbi",
+      "title": "Appt w Carlos Delgado",
+      "startTime": "2026-08-14T12:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "qKfENIDv4IdyTz08kCSe",
+      "title": "Appt w Karin Lesperance",
+      "startTime": "2026-08-14T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "v188wOwbvclJQUU1v39S",
+      "title": " Mahuvi Ortega. Design Consultation with  at 15911 Mission Glen Drive Houston Texas 77083",
+      "startTime": "2026-08-14T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "puOvmZk9ViA026TmZb2Y"
+    },
+    {
+      "id": "ngUcBTfmOFQleX12Bvvt",
+      "title": " Sagar Babber Design Consultation with  at 101 Summer Park Bend Cedar Park TX 78613",
+      "startTime": "2026-08-14T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "LB09YqdvbM1vyiIDzLrM",
+      "title": "TERRY CARTER Design Consultation with  at 761 Falcon Cove, Castroville, Texas 78009 Castroville IN 78009",
+      "startTime": "2026-08-14T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "RonIvWhL6pLAXOjt103A",
       "title": " Tanja White Design Consultation with  at 119 Lakeview Ct Belton TX 76513",
@@ -36,6 +135,17 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
+    },
+    {
+      "id": "ztuhgNCcnUUFzJhJe4TE",
+      "title": " Stacy Sass Design Consultation with  at 12319 Blue Water Drive Austin TX 78758",
+      "startTime": "2026-08-13T13:15:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
     },
     {
       "id": "JJmRkjkyHY7M30OxaGX8",
@@ -1917,94 +2027,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "GIug8YlJKTHIAlxcyLr6",
-      "title": "Appt w Jason Flowers",
-      "startTime": "2026-07-14T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "cvaqUIUbagt0kMgIgLWr",
-      "title": "Appt w Jennifer Winkler",
-      "startTime": "2026-07-14T16:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "gE0yVcEz88dtZHIB2sFu",
-      "title": " Simaan Nassar Design Consultation with  at 8608 Ken Aaron Ct Austin Texas 78717",
-      "startTime": "2026-07-14T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "63iIsfQbsvPt9OxBbO7c",
-      "title": " Terry Lee Design Consultation with  at 203 Lost Ridge Way Buda, Tx 78610 Buda Texas 78610",
-      "startTime": "2026-07-14T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "L6eMrNbFTsNC5gXtj5fX",
-      "title": " Amanda Cimmino Design Consultation with  at 1900 CR 139 Gatesville TX 76528 Gatesville TX 76522",
-      "startTime": "2026-07-14T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "il0Qjt4d2zCNlqpgcXHi",
-      "title": "Appt w Barbara Briggs",
-      "startTime": "2026-07-14T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "TQQVwQgu32WyIV77f1M1",
-      "title": "Appt w Melissa Gray",
-      "startTime": "2026-07-14T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "xEy7LhJLVrIiJqrEkSGa",
-      "title": "Phone Appt Kez Khan",
-      "startTime": "2026-07-14T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
