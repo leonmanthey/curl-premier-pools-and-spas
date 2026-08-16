@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-08-15T06:40:44.763466+00:00",
-    "startDate": "2026-07-16T06:40:44.120721+00:00",
-    "endDate": "2026-08-15T06:40:44.120721+00:00",
+    "generatedAt": "2026-08-16T06:41:40.432742+00:00",
+    "startDate": "2026-07-17T06:41:39.954606+00:00",
+    "endDate": "2026-08-16T06:41:39.954606+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 173,
-    "human": 78,
+    "total": 165,
+    "human": 72,
     "auto": 5,
-    "selfBooked": 71,
+    "selfBooked": 69,
     "other": 19,
-    "humanPct": 45,
+    "humanPct": 44,
     "autoPct": 3,
-    "notHumanPct": 55
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 61,
-    "booking_widget": 71,
+    "booking_widget": 69,
+    "contactdetails_page": 55,
     "mobile_app": 10,
     "voice_ai": 19,
     "conversations_ai": 2,
@@ -1840,94 +1840,6 @@
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
       "userId": null
-    },
-    {
-      "id": "jaeqwaub67OOuyQqkSIJ",
-      "title": "Appt w Casey Quamme",
-      "startTime": "2026-07-16T17:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "PAziXlJ0Nkt64KuAeexe",
-      "title": "Appt w Susan Baker",
-      "startTime": "2026-07-16T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "tPeYjOVhu2NSOk6p20gZ",
-      "title": " Amy Collins Design Consultation with  at 6231 Queensloch Drive Houston Texas 77096",
-      "startTime": "2026-07-16T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "R1Miti5z9eS5Be0KXQag",
-      "title": "Appt w Rahmaa Alrahmani",
-      "startTime": "2026-07-16T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "bsUKzmXHGtzGstn6tAA5",
-      "title": "Appt w Ryan Modder per Cody",
-      "startTime": "2026-07-16T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "zVW4iQMH33kEjPKTIHzs",
-      "title": " Martha Ann Jones Design Consultation with  at 703 Dumble Street Houston Texas 77023",
-      "startTime": "2026-07-16T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "TCJaHXArrQs81OMfkl9i",
-      "title": "Appt w Jordan Harnik",
-      "startTime": "2026-07-16T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "VgdPWgqXjXKvj40yHXpq",
-      "title": "Appt w Nelly Gonzalez",
-      "startTime": "2026-07-16T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
