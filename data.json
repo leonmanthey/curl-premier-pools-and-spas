@@ -1,31 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-08-17T06:58:52.115370+00:00",
-    "startDate": "2026-07-18T06:58:51.419025+00:00",
-    "endDate": "2026-08-17T06:58:51.419025+00:00",
+    "generatedAt": "2026-08-18T06:46:30.685911+00:00",
+    "startDate": "2026-07-19T06:46:26.840262+00:00",
+    "endDate": "2026-08-18T06:46:26.840262+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 163,
-    "human": 71,
+    "total": 155,
+    "human": 64,
     "auto": 6,
-    "selfBooked": 68,
-    "other": 18,
-    "humanPct": 44,
+    "selfBooked": 66,
+    "other": 19,
+    "humanPct": 41,
     "autoPct": 4,
-    "notHumanPct": 56
+    "notHumanPct": 59
   },
   "sourceCounts": {
-    "contactdetails_page": 54,
-    "booking_widget": 68,
+    "contactdetails_page": 52,
+    "booking_widget": 66,
     "mobile_app": 10,
-    "voice_ai": 18,
+    "voice_ai": 19,
     "conversations_ai": 2,
     "opportunity_page": 1,
-    "calendar_page": 6,
+    "calendar_page": 1,
     "third_party": 4
   },
   "appointments": [
+    {
+      "id": "r9LAqUDXSSZ9gkbOMjME",
+      "title": "Appt w Robert Lord",
+      "startTime": "2026-08-18T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "a0FPI4DUn95bqfORAq6m",
+      "title": "RUEL MARTENS Design Consultation with  at 8943 Carriage Drive, San Antonio, Texas 78217 San Antonio TX 78217",
+      "startTime": "2026-08-18T14:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "dkWzvMcH0fmmabQ6JIRg",
+      "title": "Chris. Miranda Design Consultation with  at 1828 bardolino New Braunfels TX 78132",
+      "startTime": "2026-08-18T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "V6dQ809AhxFabtf49gMB",
       "title": "Susan Chapman. Design Consultation with  at 3901 Habersham Schertz TX 78154",
@@ -53,7 +86,7 @@
       "title": "Rachna Joshi Design Consultation with  at 161 Short Cake Alley San Antonio TX 78253",
       "startTime": "2026-08-17T13:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -64,7 +97,7 @@
       "title": "BRIAN SYRCLE Design Consultation with  at 193 harley hay Cibolo TX 78108",
       "startTime": "2026-08-17T13:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -104,17 +137,6 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "rvTnLlsKttMUHqlORyfC_1786770000000_82800",
-      "title": "Block",
-      "startTime": "2026-08-15T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
       "id": "hGJTcpw6ZvFMGGrhCFUg",
       "title": " Jaideep Sagar Design Consultation with  at 605 Wolf Ridge Road Georgetown Texas 78628",
       "startTime": "2026-08-14T15:30:00-05:00",
@@ -152,7 +174,7 @@
       "title": "Appt w Karin Lesperance",
       "startTime": "2026-08-14T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -443,17 +465,6 @@
       "source": "third_party",
       "sourceLabel": "Third party",
       "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1786165200000_82800",
-      "title": "Block",
-      "startTime": "2026-08-08T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     },
     {
       "id": "DOAA6IVPINLR1zK59gNw",
@@ -806,17 +817,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1785560400000_82800",
-      "title": "Block",
-      "startTime": "2026-08-01T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     },
     {
       "id": "erCimjvjth0LAhHgT28Z",
@@ -1325,17 +1325,6 @@
       "userId": null
     },
     {
-      "id": "rvTnLlsKttMUHqlORyfC_1784955600000_82800",
-      "title": "Block",
-      "startTime": "2026-07-25T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
       "id": "AGMjbC5Qp9TYsdWcJAUQ",
       "title": " Cornelia Crittenden Design Consultation with  at 2303 Napier Drive Killeen Texas 76542",
       "startTime": "2026-07-24T18:00:00-05:00",
@@ -1741,83 +1730,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "FIKUpFyrlzln5rdMnA9K",
-      "title": "Stephanie Mosley Design Consultation with  at 27423 Falls Bridge Boerne Texas 78015",
-      "startTime": "2026-07-18T14:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "UjTGbtj9GxvRk8knCu5z",
-      "title": "Appt w Corey Mosley",
-      "startTime": "2026-07-18T14:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "XCoBETaz7o1bVKBTwlKm",
-      "title": "Sizzling Summer Meeting Aaron Dumas",
-      "startTime": "2026-07-18T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "P39NwpK0YPZFVNtHyiCs",
-      "title": "Sizzling Summer Meeting (Aaron Dumas) In Office ",
-      "startTime": "2026-07-18T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "UvSQrJsQoFHteNEV02ya",
-      "title": "Appt w Annalisa Navarro",
-      "startTime": "2026-07-18T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "AfXrCzFisNKSxml2XOxC",
-      "title": "Tarsha Bryant Design Consultation with  at 3028 Bristow Park Bulverde Texas 78163",
-      "startTime": "2026-07-18T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "rvTnLlsKttMUHqlORyfC_1784350800000_82800",
-      "title": "Block",
-      "startTime": "2026-07-18T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "calendar_page",
-      "sourceLabel": "calendar_page",
-      "userId": "4LgGLxudGj69FZOb6goB"
     }
   ]
 }
