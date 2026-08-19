@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-08-18T06:46:30.685911+00:00",
-    "startDate": "2026-07-19T06:46:26.840262+00:00",
-    "endDate": "2026-08-18T06:46:26.840262+00:00",
+    "generatedAt": "2026-08-19T06:47:33.872315+00:00",
+    "startDate": "2026-07-20T06:47:33.311155+00:00",
+    "endDate": "2026-08-19T06:47:33.311155+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 155,
-    "human": 64,
+    "total": 160,
+    "human": 67,
     "auto": 6,
-    "selfBooked": 66,
+    "selfBooked": 68,
     "other": 19,
-    "humanPct": 41,
+    "humanPct": 42,
     "autoPct": 4,
-    "notHumanPct": 59
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "contactdetails_page": 52,
-    "booking_widget": 66,
+    "contactdetails_page": 55,
+    "booking_widget": 68,
     "mobile_app": 10,
     "voice_ai": 19,
     "conversations_ai": 2,
@@ -26,6 +26,61 @@
     "third_party": 4
   },
   "appointments": [
+    {
+      "id": "g4LF7pA1Z12FlT9p7FgV",
+      "title": "Appt Rolando Carrasco",
+      "startTime": "2026-08-19T19:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "nSFqyfa0T7JLGFIlsGN8",
+      "title": "Andrew Ramirez Design Consultation with  at 4606 Cobble Crest Street San Antonio TX 78217",
+      "startTime": "2026-08-19T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "GoFRnK701h8hSTBLJKNi",
+      "title": " Horatio Jones Design Consultation with  at 507 draco st Killeen TX 76542",
+      "startTime": "2026-08-19T15:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "1NY4akUzKICUgsRGHo3g",
+      "title": " Frank ESPINOSA Design Consultation with  at 156 fawaz dr KILLEEN TX 76542",
+      "startTime": "2026-08-19T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "aJwa1GZD3giu2vTS2zIL",
+      "title": "Appt w Karen Moese",
+      "startTime": "2026-08-19T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "r9LAqUDXSSZ9gkbOMjME",
       "title": "Appt w Robert Lord",
@@ -75,7 +130,7 @@
       "title": " Melissa Betancourt Design Consultation with  at 21222 Stephens County Dr Cypress Tx 77433",
       "startTime": "2026-08-17T17:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "invalid",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
