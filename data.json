@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-08-19T06:47:33.872315+00:00",
-    "startDate": "2026-07-20T06:47:33.311155+00:00",
-    "endDate": "2026-08-19T06:47:33.311155+00:00",
+    "generatedAt": "2026-08-20T06:49:25.911465+00:00",
+    "startDate": "2026-07-21T06:49:25.197283+00:00",
+    "endDate": "2026-08-20T06:49:25.197283+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 160,
-    "human": 67,
+    "human": 68,
     "auto": 6,
-    "selfBooked": 68,
+    "selfBooked": 67,
     "other": 19,
     "humanPct": 42,
     "autoPct": 4,
-    "notHumanPct": 58
+    "notHumanPct": 57
   },
   "sourceCounts": {
+    "booking_widget": 67,
     "contactdetails_page": 55,
-    "booking_widget": 68,
-    "mobile_app": 10,
+    "mobile_app": 11,
     "voice_ai": 19,
     "conversations_ai": 2,
     "opportunity_page": 1,
@@ -26,6 +26,61 @@
     "third_party": 4
   },
   "appointments": [
+    {
+      "id": "4SzaA8N1O6s0P35bkx97",
+      "title": "Appt w Justin Marsh",
+      "startTime": "2026-08-20T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "GfjJfOfw2B6N7rcS4Eqt",
+      "title": " first meeting Premeir Pools Aaron ",
+      "startTime": "2026-08-20T14:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "ZmaAJuMtDQMpAlI1lSoW",
+      "title": " Rahsaan Thomas Design Consultation with  at 5327 Mango Bluffs Street Manvel TX 77578",
+      "startTime": "2026-08-20T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "0IjSOkizilp7Qr04w0z1",
+      "title": "Appt w Michelle Tavor",
+      "startTime": "2026-08-20T12:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "5TtYpwFBw20zIrH8bNeU",
+      "title": " Scott Farmer Design Consultation with  at 12002 Dry Cattail Dr. Austin TX 78754",
+      "startTime": "2026-08-20T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "g4LF7pA1Z12FlT9p7FgV",
       "title": "Appt Rolando Carrasco",
@@ -1726,61 +1781,6 @@
       "startTime": "2026-07-21T12:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "dHUsJt5KIXi3nvrNxrUG",
-      "title": "Phone Appt w Emmett Smith",
-      "startTime": "2026-07-20T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "RkvKjMNPxHosb9U8ojZH",
-      "title": " Amber Dodson Design Consultation with  at 5101 Azura Way Killeen Texas 76549",
-      "startTime": "2026-07-20T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "soJzUVoGX6V6tEmE3Tu6",
-      "title": " Lindsay Rouse Design Consultation with  at 511 Summer Wilson Cv, Lakeway Austin Texas 78738",
-      "startTime": "2026-07-20T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "VQEw2ZETFyKNbkinsXlS",
-      "title": " Cynthia Beckett Design Consultation with  at 12370 Romberg Rd Holland Texas 76534",
-      "startTime": "2026-07-20T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "Xb94uOzWBYNUkU3MDw3p",
-      "title": "Dennis Weber Design Consultation with  at 8227 Greenbrier San Antonio Texas 78209",
-      "startTime": "2026-07-20T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
