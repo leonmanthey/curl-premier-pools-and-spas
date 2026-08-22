@@ -1,31 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-08-21T06:50:40.915355+00:00",
-    "startDate": "2026-07-22T06:50:40.327426+00:00",
-    "endDate": "2026-08-21T06:50:40.327426+00:00",
+    "generatedAt": "2026-08-22T06:42:02.704861+00:00",
+    "startDate": "2026-07-23T06:42:02.148276+00:00",
+    "endDate": "2026-08-22T06:42:02.148276+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 159,
-    "human": 68,
+    "total": 155,
+    "human": 67,
     "auto": 7,
-    "selfBooked": 65,
-    "other": 19,
+    "selfBooked": 64,
+    "other": 17,
     "humanPct": 43,
-    "autoPct": 4,
+    "autoPct": 5,
     "notHumanPct": 57
   },
   "sourceCounts": {
-    "booking_widget": 65,
-    "mobile_app": 11,
-    "voice_ai": 19,
+    "booking_widget": 64,
+    "voice_ai": 17,
     "contactdetails_page": 55,
     "conversations_ai": 2,
     "opportunity_page": 1,
+    "mobile_app": 10,
     "calendar_page": 1,
     "third_party": 5
   },
   "appointments": [
+    {
+      "id": "UTDpdeM66jGwCBdGvPCr",
+      "title": "Kelsey Shephard Design Consultation with  at 15103 Elkton Drive San Antonio TX 78232",
+      "startTime": "2026-08-22T14:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "4IDJLPywVolGeGBj0OCn",
+      "title": "Appt w Quintena Wright",
+      "startTime": "2026-08-22T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "3z0lLWCGkvA7HE8MbJY2",
+      "title": "Appt w Brian Bores",
+      "startTime": "2026-08-22T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "yEo9bu73ku6K6BdNadBz",
       "title": "Shon. Neyland Design Consultation with  at 27184 Alpine Pass Boerne TX 78006",
@@ -47,17 +80,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "wVgnUnp0Nznp7MLQpcR8",
-      "title": " Karla Rodriguez Design Consultation with  at 5105 Fleming St La Marque Texas 77568",
-      "startTime": "2026-08-21T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "qV5ebdAebarH3D6W02ZL",
@@ -1702,72 +1724,6 @@
       "id": "vrUVITRqlEuQBqVldS7G",
       "title": " Nathan Miller Design Consultation with  at 2516 Pin Oak Drive Temple Texas 76502",
       "startTime": "2026-07-23T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "QwixLRX8dYwSL9aajw2O",
-      "title": " Latina  Design Consultation with  at 7103 American West Drive, Killeen, Texas 76549 Killeen HI 76549",
-      "startTime": "2026-07-22T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "u1DVIwLzWZYtxiHaLGoD",
-      "title": "LAKEETA ADAMS Design Consultation with  at 11712 Clearwell, Shirts, Texas 78154 Shirts TX 78154",
-      "startTime": "2026-07-22T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "OpoKSLb22V0m0AGvjN7l",
-      "title": "2nd with Jayson & Simaan",
-      "startTime": "2026-07-22T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "rzVxwabyuYJY56P08mSM",
-      "title": "Appt w Amanda Winter",
-      "startTime": "2026-07-22T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "JMHUnPWDEk5IArb2lUGd",
-      "title": " Mark Raines Design Consultation with  at 2820 Courageous Leander Texas 78641",
-      "startTime": "2026-07-22T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "qPFGrBlLBQrElO7aqcCo",
-      "title": " Reno Ancheta Design Consultation with  at 9921 Thane Way Austin Texas 78748",
-      "startTime": "2026-07-22T09:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
