@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T06:51:35.928330+00:00",
-    "startDate": "2026-07-26T06:51:35.373098+00:00",
-    "endDate": "2026-08-25T06:51:35.373098+00:00",
+    "generatedAt": "2026-08-26T06:52:46.517697+00:00",
+    "startDate": "2026-07-27T06:52:45.765579+00:00",
+    "endDate": "2026-08-26T06:52:45.765579+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 142,
-    "human": 61,
+    "total": 148,
+    "human": 65,
     "auto": 8,
-    "selfBooked": 58,
+    "selfBooked": 60,
     "other": 15,
-    "humanPct": 43,
-    "autoPct": 6,
-    "notHumanPct": 57
+    "humanPct": 44,
+    "autoPct": 5,
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 58,
+    "booking_widget": 60,
     "conversations_ai": 2,
-    "contactdetails_page": 49,
+    "contactdetails_page": 53,
     "opportunity_page": 1,
     "voice_ai": 15,
     "mobile_app": 10,
@@ -26,6 +26,72 @@
     "third_party": 6
   },
   "appointments": [
+    {
+      "id": "GLURQ7Krktx6dK2Qxdyh",
+      "title": "Jerry Estrada Design Consultation with  at 11919 Wildcat Cove San Antonio TX 78254",
+      "startTime": "2026-08-26T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "LPXBiFAv2490RuuDLCZd",
+      "title": "Michael Schally Design Consultation with  at 9030 Imposing Oak San Antonio TX 78255",
+      "startTime": "2026-08-26T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "ChCvk5acsb5GXQrvA1H8",
+      "title": "Appt w Cori-Josh McCreary",
+      "startTime": "2026-08-26T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "WjTh08h6M9x5pcGOINg2",
+      "title": "Nick Ryder Design Consultation with  at San Antonio TX 78247",
+      "startTime": "2026-08-26T13:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "IygBrvrGqBvLDlUd5B0N",
+      "title": " Karen Anderson Design Consultation with  at 5219 Sunflower Lane Temple TX 76502",
+      "startTime": "2026-08-26T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "CvDtJihyK3s8mSKtOfAS",
+      "title": " Leander Townsend Design Consultation with  at 4710 mulberry shrubs ct Manvel TX 77578",
+      "startTime": "2026-08-26T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "CyR8q4kdLN9RNzzYbwZ5",
       "title": " Sonia Baker Design Consultation with  at 221 Tordesillas Dr. Georgetown TX 78626",
@@ -97,7 +163,7 @@
       "title": " Nicole Leatherman Design Consultation with  at 3407 Avenue L Galveston TX 77550",
       "startTime": "2026-08-25T11:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "auto",
       "source": "third_party",
       "sourceLabel": "Third party",
@@ -130,7 +196,7 @@
       "title": " Vickie Price. Design Consultation with  at 12301 Radnor Drive Texas City TX 77591",
       "startTime": "2026-08-24T15:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
