@@ -1,31 +1,53 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T06:52:46.517697+00:00",
-    "startDate": "2026-07-27T06:52:45.765579+00:00",
-    "endDate": "2026-08-26T06:52:45.765579+00:00",
+    "generatedAt": "2026-08-27T17:26:19.893284+00:00",
+    "startDate": "2026-07-28T17:26:18.967644+00:00",
+    "endDate": "2026-08-27T17:26:18.967644+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 148,
-    "human": 65,
-    "auto": 8,
+    "total": 144,
+    "human": 63,
+    "auto": 7,
     "selfBooked": 60,
-    "other": 15,
+    "other": 14,
     "humanPct": 44,
     "autoPct": 5,
     "notHumanPct": 56
   },
   "sourceCounts": {
+    "contactdetails_page": 51,
     "booking_widget": 60,
-    "conversations_ai": 2,
-    "contactdetails_page": 53,
     "opportunity_page": 1,
-    "voice_ai": 15,
+    "voice_ai": 14,
     "mobile_app": 10,
     "calendar_page": 1,
+    "conversations_ai": 1,
     "third_party": 6
   },
   "appointments": [
+    {
+      "id": "EaMd7nnpJtCKLqjmAbPV",
+      "title": " Alf Nuno Design Consultation with  at 4212 Logan Ridge Drive Cedar Park TX 78613",
+      "startTime": "2026-08-27T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "Dyunj2o8LSCVS74IwKDV",
+      "title": "Eliana Gutierrez Design Consultation with  at 9871 Misty Plain Drive San Antonio TX 78245",
+      "startTime": "2026-08-27T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "GLURQ7Krktx6dK2Qxdyh",
       "title": "Jerry Estrada Design Consultation with  at 11919 Wildcat Cove San Antonio TX 78254",
@@ -43,17 +65,6 @@
       "startTime": "2026-08-26T15:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "ChCvk5acsb5GXQrvA1H8",
-      "title": "Appt w Cori-Josh McCreary",
-      "startTime": "2026-08-26T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -80,6 +91,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "ChCvk5acsb5GXQrvA1H8",
+      "title": "Appt w Cori-Josh McCreary",
+      "startTime": "2026-08-26T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "CvDtJihyK3s8mSKtOfAS",
@@ -1582,72 +1604,6 @@
       "title": " Chaz Jones Design Consultation with  at 4019 County Road 208 Danbury Texas 77534",
       "startTime": "2026-07-28T09:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "omtU1Xclb9ht1do17kE7",
-      "title": " Debra Becerra Design Consultation with  at 3322 Charbray Drive Belton Texas 76513",
-      "startTime": "2026-07-27T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "v3YRqWHlG3DfbArWEsXB",
-      "title": "Appt Kiana Solomon",
-      "startTime": "2026-07-27T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "PhGOvzTVPArM9HuoeRoB",
-      "title": " Leslie Szabo Design Consultation with  at 4226 Canyon Glen Circle Austin Texas 78732",
-      "startTime": "2026-07-27T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "auto",
-      "source": "conversations_ai",
-      "sourceLabel": "Conversations AI",
-      "userId": null
-    },
-    {
-      "id": "5vzPtXXvcPloAOk4o7cI",
-      "title": "Appt w Derrick Baldwin",
-      "startTime": "2026-07-27T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "oRErQ2M5Nn3NbmyuEELb",
-      "title": " Lola  Design Consultation with  at 5100 Evergreen, Bel Air, Texas 77401 Bel Air DC 77401",
-      "startTime": "2026-07-27T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "noshow",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "ZYUdqFUkilXfHuNIMuVN",
-      "title": " Wendy Laurent Design Consultation with Troy  at 3222 Logsdon st copperas cove tx 76522",
-      "startTime": "2026-07-27T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
