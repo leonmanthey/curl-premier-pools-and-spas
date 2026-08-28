@@ -1,31 +1,74 @@
 {
   "meta": {
-    "generatedAt": "2026-08-27T17:26:19.893284+00:00",
-    "startDate": "2026-07-28T17:26:18.967644+00:00",
-    "endDate": "2026-08-27T17:26:18.967644+00:00",
+    "generatedAt": "2026-08-28T18:19:38.063575+00:00",
+    "startDate": "2026-07-29T18:19:36.629917+00:00",
+    "endDate": "2026-08-28T18:19:36.629917+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 144,
-    "human": 63,
+    "total": 140,
+    "human": 58,
     "auto": 7,
-    "selfBooked": 60,
-    "other": 14,
-    "humanPct": 44,
+    "selfBooked": 62,
+    "other": 13,
+    "humanPct": 41,
     "autoPct": 5,
-    "notHumanPct": 56
+    "notHumanPct": 59
   },
   "sourceCounts": {
-    "contactdetails_page": 51,
-    "booking_widget": 60,
-    "opportunity_page": 1,
-    "voice_ai": 14,
-    "mobile_app": 10,
+    "contactdetails_page": 48,
+    "mobile_app": 9,
+    "voice_ai": 13,
+    "booking_widget": 62,
     "calendar_page": 1,
     "conversations_ai": 1,
     "third_party": 6
   },
   "appointments": [
+    {
+      "id": "bHdfWR4EmlJYg6qLEhTM",
+      "title": " RACHEL SWICK Design Consultation with  at 4401 County Road 414 Taylor TX 76574",
+      "startTime": "2026-08-28T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "N9Xjj3VpM2BHGZMo8hi4",
+      "title": " Andrew Bursik Design Consultation with  at 5400 Holly Oak Ln Killeen Texas 76542",
+      "startTime": "2026-08-28T14:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "EZe0MbcjwOcP1KkarIHr",
+      "title": "Evelyn Tharp Design Consultation with  at 242 Summer Hill New Braunfels Texas 78132",
+      "startTime": "2026-08-28T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "v2gqDRI9XepLeHuMgDTZ",
+      "title": "Jorge Martinez Design Consultation with  at 10058 Forelock Creek San Antonio TX 78254",
+      "startTime": "2026-08-28T08:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "EaMd7nnpJtCKLqjmAbPV",
       "title": " Alf Nuno Design Consultation with  at 4212 Logan Ridge Drive Cedar Park TX 78613",
@@ -1521,94 +1564,6 @@
       "source": "mobile_app",
       "sourceLabel": "Mobile app",
       "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "KyxJxFCSY01iYBLiglPp",
-      "title": " Courtney Davidson Design Consultation with  at 1426 Talco Garden Court League City TX 77573",
-      "startTime": "2026-07-28T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "2wMthOVJTruPeqdf7Asp",
-      "title": " Debbie Garcia Design Consultation with  at 1928 Scenic Heights Lane Georgetown TX 78628",
-      "startTime": "2026-07-28T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "CyVJWHiw82u9X9dTPnqB",
-      "title": " LYNNE BLEVINS Design Consultation with  at 500 Harrison Matthew Lane, Georgetown, Texas 78626 Georgetown TX 78626",
-      "startTime": "2026-07-28T14:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "5EZKUbhGz1IiC2sQ29sp",
-      "title": " Jamar Knight Design Consultation with  at Killeen TX 76542- Phone appt",
-      "startTime": "2026-07-28T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "EBbvWodkjqid8EIKVe7S",
-      "title": " Allison Sadler Design Consultation with  at 209 Acker Rd Georgetown Texas 78633",
-      "startTime": "2026-07-28T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "r5S1T1RYvpgkni6z09ly",
-      "title": " Jennifer Miniard Design Consultation with  at ",
-      "startTime": "2026-07-28T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "opportunity_page",
-      "sourceLabel": "CRM page",
-      "userId": "FXOs3S1ADeBASCxcHnGR"
-    },
-    {
-      "id": "606Xh34b64p9jgNQgiEX",
-      "title": "Laura Torres Design Consultation with  at 8744 Rucker Pond Trl San Antonio Texas 78252",
-      "startTime": "2026-07-28T12:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "72PBXH2yAivw26jYyv9L"
-    },
-    {
-      "id": "wIvj3BTR1b5b5XYqKJ9M",
-      "title": " Chaz Jones Design Consultation with  at 4019 County Road 208 Danbury Texas 77534",
-      "startTime": "2026-07-28T09:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
