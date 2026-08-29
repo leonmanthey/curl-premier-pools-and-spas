@@ -1,34 +1,67 @@
 {
   "meta": {
-    "generatedAt": "2026-08-28T18:19:38.063575+00:00",
-    "startDate": "2026-07-29T18:19:36.629917+00:00",
-    "endDate": "2026-08-28T18:19:36.629917+00:00",
+    "generatedAt": "2026-08-29T12:28:24.666440+00:00",
+    "startDate": "2026-07-30T12:28:24.020792+00:00",
+    "endDate": "2026-08-29T12:28:24.020792+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 140,
     "human": 58,
     "auto": 7,
-    "selfBooked": 62,
-    "other": 13,
+    "selfBooked": 63,
+    "other": 12,
     "humanPct": 41,
     "autoPct": 5,
     "notHumanPct": 59
   },
   "sourceCounts": {
-    "contactdetails_page": 48,
-    "mobile_app": 9,
-    "voice_ai": 13,
-    "booking_widget": 62,
+    "booking_widget": 63,
+    "contactdetails_page": 49,
+    "mobile_app": 8,
+    "voice_ai": 12,
     "calendar_page": 1,
     "conversations_ai": 1,
     "third_party": 6
   },
   "appointments": [
     {
-      "id": "bHdfWR4EmlJYg6qLEhTM",
-      "title": " RACHEL SWICK Design Consultation with  at 4401 County Road 414 Taylor TX 76574",
-      "startTime": "2026-08-28T16:30:00-05:00",
+      "id": "UTDpdeM66jGwCBdGvPCr",
+      "title": "Kelsey Shephard Design Consultation with  at 15103 Elkton Drive San Antonio TX 78232",
+      "startTime": "2026-08-29T16:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "609XVmMTat0Y0PxKgyBV",
+      "title": " Hannah Brakes Design Consultation with  at 534 Thunder Valley Trl Georgetown Texas 78626",
+      "startTime": "2026-08-29T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "q5xsymJuNzakzRa6zAJ6",
+      "title": "Appt w Gerald Crawford",
+      "startTime": "2026-08-29T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "N9Xjj3VpM2BHGZMo8hi4",
+      "title": " Andrew Bursik Design Consultation with  at 5400 Holly Oak Ln Killeen Texas 76542",
+      "startTime": "2026-08-29T11:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
@@ -37,9 +70,31 @@
       "userId": null
     },
     {
-      "id": "N9Xjj3VpM2BHGZMo8hi4",
-      "title": " Andrew Bursik Design Consultation with  at 5400 Holly Oak Ln Killeen Texas 76542",
-      "startTime": "2026-08-28T14:30:00-05:00",
+      "id": "vPjl6XOUbJmyQKktxjk1",
+      "title": " Tatiana Ramirez Design Consultation with at 2502 Wiley Drive Killeen TX 76543",
+      "startTime": "2026-08-29T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "cl8xR6gSvMf0YzvFbtHQ",
+      "title": "Appt w Connie Tran",
+      "startTime": "2026-08-29T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "bHdfWR4EmlJYg6qLEhTM",
+      "title": " RACHEL SWICK Design Consultation with  at 4401 County Road 414 Taylor TX 76574",
+      "startTime": "2026-08-28T16:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "self",
@@ -1509,61 +1564,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "QlW7RuOCm2ASNHYS2rkC",
-      "title": " JULIA SCOTT Design Consultation with  at 206 Barton Ranch Road, Dripping Springs, Texas 78620 Dripping Springs TX 78620",
-      "startTime": "2026-07-29T17:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "aG5tIo6lFoXyiSpotBVW",
-      "title": " Jamie Hamby Design Consultation with  at 59 sobrante rd belton texas 76513",
-      "startTime": "2026-07-29T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "71qadBXLWvQtdJCmrrZG",
-      "title": " Christina Smith Design Consultation with  at 9535 Franklin Dr Mont Belvieu Texas 77523",
-      "startTime": "2026-07-29T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "94EiohoYHX8dNZFGmVrM",
-      "title": " Carlos Rodriguez Design Consultation with  at 3504 denbar ct austin texas 78739",
-      "startTime": "2026-07-29T08:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "I3zZTMHTPYtMnghrypRA",
-      "title": "2nd appointment with Mark & Jayson",
-      "startTime": "2026-07-29T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
     }
   ]
 }
