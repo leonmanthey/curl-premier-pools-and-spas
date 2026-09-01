@@ -1,28 +1,83 @@
 {
   "meta": {
-    "generatedAt": "2026-08-31T13:01:52.873031+00:00",
-    "startDate": "2026-08-01T13:01:52.237054+00:00",
-    "endDate": "2026-08-31T13:01:52.237054+00:00",
+    "generatedAt": "2026-09-01T11:17:58.969664+00:00",
+    "startDate": "2026-08-02T11:17:58.344704+00:00",
+    "endDate": "2026-09-01T11:17:58.344704+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 122,
-    "human": 52,
+    "total": 123,
+    "human": 54,
     "auto": 7,
-    "selfBooked": 53,
-    "other": 10,
-    "humanPct": 43,
+    "selfBooked": 51,
+    "other": 11,
+    "humanPct": 44,
     "autoPct": 6,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "voice_ai": 10,
-    "booking_widget": 53,
-    "contactdetails_page": 45,
+    "voice_ai": 11,
+    "booking_widget": 51,
+    "contactdetails_page": 47,
     "mobile_app": 7,
     "third_party": 7
   },
   "appointments": [
+    {
+      "id": "etAXXKgv5BwUNbwd8hIG",
+      "title": " Karl Mundt Design Consultation with  at 3507 Son Risas Circle Dickinson Texas 77539",
+      "startTime": "2026-09-01T23:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "FVArrcswTyRoXOdvLjAH",
+      "title": "Appt w Jolynn Stanfield Torres",
+      "startTime": "2026-09-01T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "iV3mIE4RWwyRAZp2Tkgs",
+      "title": "Frank Garibay Design Consultation with  at 794 Belle Oaks Rd Gate code 2424# Bulverde TX 78163",
+      "startTime": "2026-09-01T17:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "rFWCaBYnCFheQEBkfxOP",
+      "title": " Marissa Herzog Design Consultation with  at 809 Rutherford Fischer TX 78623",
+      "startTime": "2026-09-01T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "8MCRuJJ3rhj9HevTL21P",
+      "title": "FRANK JACKSON Design Consultation with  at 2107 Cullum Park, San Antonio, Texas 78253 San Antonio TX 78253",
+      "startTime": "2026-09-01T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "Vg16SIceDxnrW7iRUYa1",
       "title": " Larry Bellot. Design Consultation with  at 9931 Regal Bend Drive Missouri City TX 77459",
@@ -1319,50 +1374,6 @@
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "M3q9AS8c8CtZLJTpJhh8",
-      "title": " James Ashmus Design Consultation with  at 13124 Morning Villa Drive Texas City Texas 77568",
-      "startTime": "2026-08-01T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "aSZ05A7ahyg6tH7K1HXt",
-      "title": "Appt w Dejae Dailey",
-      "startTime": "2026-08-01T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "hJKoiRymvMpxSeKHcZLp",
-      "title": " Carley Flanders Design Consultation with  at 6710 Mountain Brook Way Friendswood Texas 77546",
-      "startTime": "2026-08-01T10:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "whh8r33ZTyPqqu5RzBMp",
-      "title": "Stacy Martin Design Consultation with  at 1075 Cedar Glen Drive New Braunfels Texas 78132",
-      "startTime": "2026-08-01T10:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
