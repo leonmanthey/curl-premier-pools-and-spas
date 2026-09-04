@@ -1,31 +1,129 @@
 {
   "meta": {
-    "generatedAt": "2026-09-03T10:52:14.249258+00:00",
-    "startDate": "2026-08-04T10:52:13.702604+00:00",
-    "endDate": "2026-09-03T10:52:13.702604+00:00",
+    "generatedAt": "2026-09-04T10:51:18.721718+00:00",
+    "startDate": "2026-08-05T10:51:17.748388+00:00",
+    "endDate": "2026-09-04T10:51:17.748388+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 127,
-    "human": 57,
-    "auto": 8,
-    "selfBooked": 52,
+    "total": 126,
+    "human": 53,
+    "auto": 7,
+    "selfBooked": 56,
     "other": 10,
-    "humanPct": 45,
+    "humanPct": 42,
     "autoPct": 6,
-    "notHumanPct": 55
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "mobile_app": 7,
-    "booking_widget": 52,
-    "contactdetails_page": 48,
+    "contactdetails_page": 47,
+    "booking_widget": 56,
     "voice_ai": 10,
+    "mobile_app": 5,
     "calendar_page": 1,
-    "smartlist_page": 1,
-    "third_party": 7,
+    "third_party": 6,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "T1uZ4fG1YeJ495tzbYln",
+      "title": "NICOLE ANDRADE Design Consultation with  at 444 County Road 4770, Castroville, Texas Castroville TX 78473",
+      "startTime": "2026-09-04T16:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "Bi2LYlfGQ6gzz7sQL1AZ",
+      "title": " Madhuri Veluri Design Consultation with  at 6023 Almelo Dr Round Rock Texas 78681",
+      "startTime": "2026-09-04T15:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "etAXXKgv5BwUNbwd8hIG",
+      "title": " Karl Mundt Design Consultation with  at 3507 Son Risas Circle Dickinson Texas 77539",
+      "startTime": "2026-09-04T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "m43aMufDa6SWTmMp4vIA",
+      "title": "Appt w Kristin Walker",
+      "startTime": "2026-09-04T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "cgruVVjtsT486w0OYnJK",
+      "title": "Mike Almeida Design Consultation with  at 22403 Match Play San Antonio Texas 78261",
+      "startTime": "2026-09-04T11:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "yQkBkMt6tQrAdXWzPDIg",
+      "title": " Rose Bonet Design Consultation with  at 2125 Mercer Street Nolanville TX 76559",
+      "startTime": "2026-09-04T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "xhu1Q2U9caQNMfvEuFJx",
+      "title": "John Cerda Design Consultation with  at 3066 Blenheim Park Bulverde TX 78163",
+      "startTime": "2026-09-04T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "RwmYQEblTxwWnFoeZoYS",
+      "title": "Jose Romero Design Consultation with  at 303 Pleasant Knoll Drive San Antonio TX 78260",
+      "startTime": "2026-09-04T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "SzST0WqAMgKv8KUvsYRG",
+      "title": " Takilla Alexander Design Consultation with  at 7701 Soap Stone Court Moody TX 76557",
+      "startTime": "2026-09-04T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "wcm9aeWgZPocnE4DYCBT",
       "title": " T'Anna Munoz Design Consultation with  at 16700 Aminia Ave Pflugerville TX 78660",
@@ -69,17 +167,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "aY69tbW3weAxudpzOSaa",
-      "title": "Appt w David Green",
-      "startTime": "2026-09-03T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "vBBvRCnaakR88sk3M4BY",
@@ -168,17 +255,6 @@
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
       "userId": null
-    },
-    {
-      "id": "nj4p5MHsOcL8KXF5UrsQ",
-      "title": " Andrew Bursik Design Consultation with  at 5400 Holly Oak Ln Killeen Texas 76542",
-      "startTime": "2026-09-01T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "smartlist_page",
-      "sourceLabel": "smartlist_page",
-      "userId": "C3Uq7LP2uHWIgd9q9b8r"
     },
     {
       "id": "Vg16SIceDxnrW7iRUYa1",
@@ -1334,94 +1410,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "Th9HqIYlIaqmoOb17K5Z",
-      "title": "Appt w Mark Juarez",
-      "startTime": "2026-08-04T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "GMg3r4IJPgqFixteVRZS",
-      "title": " Amy Dunagan Design Consultation with  at 200 Ranchland Pass Liberty Hill Texas 78642",
-      "startTime": "2026-08-04T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "bt2KbqsCeLkvVfUuivi2",
-      "title": "Marisa Palmer Design Consultation with  at 8223 Silver Hampton San Antonio TX 78254",
-      "startTime": "2026-08-04T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "jsuPfqwZ0T4U1EUCjavt",
-      "title": "Appt w Laurie Gray ",
-      "startTime": "2026-08-04T14:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "6lJkJYCNjnTRJPacHOvZ",
-      "title": " Jean Souffrant Design Consultation with  at 800 Landing Lane Leander TX 78641",
-      "startTime": "2026-08-04T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "yQ5X6MUvFbGaRxevAxxe",
-      "title": "Design Appoinment",
-      "startTime": "2026-08-04T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "VTwz2Nop03qNZaOSYTDz",
-      "title": " Jesus Lozano Design Consultation with  at 500 Battleview Road, La Porte, Texas 77571 La Porte TX 77571",
-      "startTime": "2026-08-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "YSBv305SZmOWPWsZmoDx",
-      "title": "Phone Appt w Richard Wulf",
-      "startTime": "2026-08-04T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
