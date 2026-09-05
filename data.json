@@ -1,30 +1,97 @@
 {
   "meta": {
-    "generatedAt": "2026-09-04T10:51:18.721718+00:00",
-    "startDate": "2026-08-05T10:51:17.748388+00:00",
-    "endDate": "2026-09-04T10:51:17.748388+00:00",
+    "generatedAt": "2026-09-05T10:10:13.724723+00:00",
+    "startDate": "2026-08-06T10:10:12.661879+00:00",
+    "endDate": "2026-09-05T10:10:12.661879+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 126,
-    "human": 53,
+    "total": 129,
+    "human": 54,
     "auto": 7,
-    "selfBooked": 56,
+    "selfBooked": 58,
     "other": 10,
     "humanPct": 42,
-    "autoPct": 6,
+    "autoPct": 5,
     "notHumanPct": 58
   },
   "sourceCounts": {
-    "contactdetails_page": 47,
-    "booking_widget": 56,
+    "booking_widget": 58,
+    "contactdetails_page": 46,
     "voice_ai": 10,
-    "mobile_app": 5,
+    "mobile_app": 6,
     "calendar_page": 1,
+    "smartlist_page": 1,
     "third_party": 6,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "6kY7LeQdFWK0RLrBkgwX",
+      "title": " Bunmi Akomolede Design Consultation with  at 29667 Fulshear Lake Trace Richmond TX 77406",
+      "startTime": "2026-09-05T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "WiFWvYwtyTsefAate3Y0",
+      "title": " Jacob Kalk Design Consultation with  at 125 falkland st Hutto TX 78634",
+      "startTime": "2026-09-05T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "ctRuvuE4loBYboQrgZJk",
+      "title": "In person design consult ",
+      "startTime": "2026-09-05T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
+    },
+    {
+      "id": "DqS1LrowTr8iCWCtdHjF",
+      "title": "Appt w Dave Kleespies ",
+      "startTime": "2026-09-05T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "GYC2kDeNM8OGmXArY4m1",
+      "title": " Brooke Boyd Design Consultation with  at 5433 Peacock Bass Drive Baytown TX 77521",
+      "startTime": "2026-09-05T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "nj4p5MHsOcL8KXF5UrsQ",
+      "title": " Andrew Bursik Design Consultation with  at 5400 Holly Oak Ln Killeen Texas 76542",
+      "startTime": "2026-09-05T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "smartlist_page",
+      "sourceLabel": "smartlist_page",
+      "userId": "C3Uq7LP2uHWIgd9q9b8r"
+    },
     {
       "id": "T1uZ4fG1YeJ495tzbYln",
       "title": "NICOLE ANDRADE Design Consultation with  at 444 County Road 4770, Castroville, Texas Castroville TX 78473",
@@ -1377,39 +1444,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "K16uowioAJlfBdNUMARQ",
-      "title": "Appt w Claret Medina @ 17702 shilo ridge dr",
-      "startTime": "2026-08-05T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "gXH1IzMpl5hWRrmJKXvD",
-      "title": " Linda Pruitt Design Consultation with  at 21700 Pope Drive Lago Vista TX 78645",
-      "startTime": "2026-08-05T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "6Z8cpr1DmeJRF2s1GssX",
-      "title": " Michael Anthony Design Consultation with  at 104 Belford st Georgetown TX 78628",
-      "startTime": "2026-08-05T07:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
     }
   ]
 }
