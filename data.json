@@ -1,31 +1,86 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T10:30:51.889061+00:00",
-    "startDate": "2026-08-07T10:30:51.178946+00:00",
-    "endDate": "2026-09-06T10:30:51.178946+00:00",
+    "generatedAt": "2026-09-07T11:54:14.181240+00:00",
+    "startDate": "2026-08-08T11:54:13.606252+00:00",
+    "endDate": "2026-09-07T11:54:13.606252+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 120,
+    "total": 121,
     "human": 50,
     "auto": 7,
-    "selfBooked": 54,
+    "selfBooked": 55,
     "other": 9,
-    "humanPct": 42,
+    "humanPct": 41,
     "autoPct": 6,
-    "notHumanPct": 58
+    "notHumanPct": 59
   },
   "sourceCounts": {
-    "mobile_app": 6,
-    "booking_widget": 54,
-    "contactdetails_page": 42,
     "voice_ai": 9,
+    "contactdetails_page": 43,
+    "mobile_app": 5,
+    "booking_widget": 55,
     "calendar_page": 1,
     "smartlist_page": 1,
     "third_party": 6,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "jfHmIcRvNLZyiFVdfCN4",
+      "title": " Bryan Buffaloe Design Consultation with  at 13902 Mill Garden Ct Houston TX 77059",
+      "startTime": "2026-09-07T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "pJJzmGdJco0l8ITEhusB",
+      "title": "Appt w David Foster",
+      "startTime": "2026-09-07T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "invalid",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "PtiZMnHqeESdOc4lEgJf",
+      "title": " Raymond Peredo Design Consultation with  at 2663 Cedar Glen Drive Belton TX 76513",
+      "startTime": "2026-09-07T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "KFpWoyh9DGyuSd5idcAf",
+      "title": "Donald Boston Design Consultation with  at San Antonio TX 78239",
+      "startTime": "2026-09-07T10:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "1SonKhWabkjXMBG0A9ys",
+      "title": " C CAMPBELL Design Consultation with  at 105 Lake Whitney Court Georgetown TX 78628",
+      "startTime": "2026-09-07T09:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "6kY7LeQdFWK0RLrBkgwX",
       "title": " Bunmi Akomolede Design Consultation with  at 29667 Fulshear Lake Trace Richmond TX 77406",
@@ -1300,50 +1355,6 @@
       "type": "auto",
       "source": "third_party",
       "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "DOAA6IVPINLR1zK59gNw",
-      "title": "Appt w Donald Sims @ 507 Avery St",
-      "startTime": "2026-08-07T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "PD0F1XZhVxMpz8bJRvAY",
-      "title": " Caitlyn McDonald Design Consultation with  at 1102 W Castlewood Ave Friendswood Texas 77546",
-      "startTime": "2026-08-07T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5sxQ58Cd3OMQN7BD2ZyR",
-      "title": "meeting premier pools don Henderson ",
-      "startTime": "2026-08-07T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "1hohRJewrS8IDFbyilR7",
-      "title": " Scott Scarborough Design Consultation with  at 2104 University Club Drive Austin Texas 78732",
-      "startTime": "2026-08-07T08:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
