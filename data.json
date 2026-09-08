@@ -1,31 +1,86 @@
 {
   "meta": {
-    "generatedAt": "2026-09-07T11:54:14.181240+00:00",
-    "startDate": "2026-08-08T11:54:13.606252+00:00",
-    "endDate": "2026-09-07T11:54:13.606252+00:00",
+    "generatedAt": "2026-09-08T10:50:29.758260+00:00",
+    "startDate": "2026-08-09T10:50:29.045610+00:00",
+    "endDate": "2026-09-08T10:50:29.045610+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 121,
-    "human": 50,
-    "auto": 7,
-    "selfBooked": 55,
-    "other": 9,
-    "humanPct": 41,
-    "autoPct": 6,
-    "notHumanPct": 59
+    "total": 124,
+    "human": 52,
+    "auto": 6,
+    "selfBooked": 56,
+    "other": 10,
+    "humanPct": 42,
+    "autoPct": 5,
+    "notHumanPct": 58
   },
   "sourceCounts": {
-    "voice_ai": 9,
-    "contactdetails_page": 43,
+    "voice_ai": 10,
+    "contactdetails_page": 45,
     "mobile_app": 5,
-    "booking_widget": 55,
+    "booking_widget": 56,
     "calendar_page": 1,
     "smartlist_page": 1,
-    "third_party": 6,
+    "third_party": 5,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "FVArrcswTyRoXOdvLjAH",
+      "title": "Appt w Jolynn Stanfield Torres",
+      "startTime": "2026-09-08T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "z1nptDgG6pDfsmY2dD6u",
+      "title": " Gibtsie Tegegne Design Consultation with  at 4010 Crestwind Ln Richmond TX 77407",
+      "startTime": "2026-09-08T18:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "arCRhiTtLzWvqzqy0GrE",
+      "title": " Cindy Paulk. Design Consultation with  at 4317 Ave O Galveston TX 77550",
+      "startTime": "2026-09-08T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "WQoxMrPMgJFGiQUHRKjO",
+      "title": " Abdullah Siddiqui Design Consultation with  at 16818 Tabasso Court Richmond TX 77407",
+      "startTime": "2026-09-08T15:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "koOQqVghaEwfuAaPPvSn",
+      "title": " LESLIE LIBBY Design Consultation with  at 1715 Nash Avenue, Austin, Texas 78704 Austin TX 78704",
+      "startTime": "2026-09-08T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
     {
       "id": "jfHmIcRvNLZyiFVdfCN4",
       "title": " Bryan Buffaloe Design Consultation with  at 13902 Mill Garden Ct Houston TX 77059",
@@ -1333,28 +1388,6 @@
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "eC8QLr3fVLbz4tdedo7k",
-      "title": " Mahuvi Ortega Design Consultation with  at 15911 Mission Glen Drive Houston Texas 77083",
-      "startTime": "2026-08-08T11:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "4ZgTbZY9gTDTLXVoXhSy",
-      "title": " Addison Drake Design Consultation with  at 9042 Rain Preserve San Antonio Texas 78254",
-      "startTime": "2026-08-08T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
       "userId": null
     }
   ]
