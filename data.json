@@ -1,31 +1,86 @@
 {
   "meta": {
-    "generatedAt": "2026-09-08T10:50:29.758260+00:00",
-    "startDate": "2026-08-09T10:50:29.045610+00:00",
-    "endDate": "2026-09-08T10:50:29.045610+00:00",
+    "generatedAt": "2026-09-09T10:56:16.780009+00:00",
+    "startDate": "2026-08-10T10:56:16.212861+00:00",
+    "endDate": "2026-09-09T10:56:16.212861+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 124,
-    "human": 52,
+    "total": 127,
+    "human": 54,
     "auto": 6,
-    "selfBooked": 56,
+    "selfBooked": 57,
     "other": 10,
-    "humanPct": 42,
+    "humanPct": 43,
     "autoPct": 5,
-    "notHumanPct": 58
+    "notHumanPct": 57
   },
   "sourceCounts": {
     "voice_ai": 10,
-    "contactdetails_page": 45,
+    "contactdetails_page": 47,
     "mobile_app": 5,
-    "booking_widget": 56,
+    "booking_widget": 57,
     "calendar_page": 1,
     "smartlist_page": 1,
     "third_party": 5,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "j4JVs0qsbeYMyuwcQ5Uk",
+      "title": "Appt w Robbie White",
+      "startTime": "2026-09-09T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "C2MsTpoxsU6hsYDwtSyI",
+      "title": " Bryan Crook Design Consultation with  at 202 CR 3152 Kempner TX 76539",
+      "startTime": "2026-09-09T17:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "DqS1LrowTr8iCWCtdHjF",
+      "title": "Appt w Dave Kleespies ",
+      "startTime": "2026-09-09T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "WQoxMrPMgJFGiQUHRKjO",
+      "title": " Abdullah Siddiqui Design Consultation with  at 16818 Tabasso Court Richmond TX 77407",
+      "startTime": "2026-09-09T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "iWLCbekldYX4Bdv6alqI",
+      "title": "Phone Appt w Skyler Calvo",
+      "startTime": "2026-09-09T09:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "FVArrcswTyRoXOdvLjAH",
       "title": "Appt w Jolynn Stanfield Torres",
@@ -49,33 +104,11 @@
       "userId": null
     },
     {
-      "id": "arCRhiTtLzWvqzqy0GrE",
-      "title": " Cindy Paulk. Design Consultation with  at 4317 Ave O Galveston TX 77550",
-      "startTime": "2026-09-08T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "WQoxMrPMgJFGiQUHRKjO",
-      "title": " Abdullah Siddiqui Design Consultation with  at 16818 Tabasso Court Richmond TX 77407",
-      "startTime": "2026-09-08T15:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
       "id": "koOQqVghaEwfuAaPPvSn",
       "title": " LESLIE LIBBY Design Consultation with  at 1715 Nash Avenue, Austin, Texas 78704 Austin TX 78704",
       "startTime": "2026-09-08T12:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
