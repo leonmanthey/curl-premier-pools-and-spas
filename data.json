@@ -1,41 +1,107 @@
 {
   "meta": {
-    "generatedAt": "2026-09-10T10:52:40.429710+00:00",
-    "startDate": "2026-08-11T10:52:39.625605+00:00",
-    "endDate": "2026-09-10T10:52:39.625605+00:00",
+    "generatedAt": "2026-09-11T10:49:41.051754+00:00",
+    "startDate": "2026-08-12T10:49:40.348974+00:00",
+    "endDate": "2026-09-11T10:49:40.348974+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 123,
-    "human": 53,
+    "total": 124,
+    "human": 54,
     "auto": 6,
-    "selfBooked": 55,
-    "other": 9,
-    "humanPct": 43,
+    "selfBooked": 56,
+    "other": 8,
+    "humanPct": 44,
     "autoPct": 5,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 46,
     "mobile_app": 5,
-    "voice_ai": 9,
-    "booking_widget": 55,
-    "calendar_page": 1,
+    "voice_ai": 8,
+    "contactdetails_page": 46,
+    "booking_widget": 56,
+    "calendar_page": 2,
     "smartlist_page": 1,
     "third_party": 5,
     "conversations_ai": 1
   },
   "appointments": [
     {
-      "id": "arCRhiTtLzWvqzqy0GrE",
-      "title": " Cindy Paulk. Design Consultation with  at 4317 Ave O Galveston TX 77550",
-      "startTime": "2026-09-10T17:00:00-05:00",
+      "id": "SgXnpUcIatKQBb8HMXbM",
+      "title": "Appt w Angel Ibarra- Spanish speaking lead",
+      "startTime": "2026-09-11T18:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "MSMGKaowWgBJdTvgtN4V",
+      "title": "Appointment with Richard Wulf",
+      "startTime": "2026-09-11T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "calendar_page",
+      "sourceLabel": "calendar_page",
+      "userId": "4LgGLxudGj69FZOb6goB"
+    },
+    {
+      "id": "WQoxMrPMgJFGiQUHRKjO",
+      "title": " Abdullah Siddiqui Design Consultation with  at 16818 Tabasso Court Richmond TX 77407",
+      "startTime": "2026-09-11T14:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "19mqdAQXI01qBzTDKcyf",
+      "title": " Evy Chavez Design Consultation with  at 2 North Kaysie Street Angleton TX 77515",
+      "startTime": "2026-09-11T11:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "YLwPvRg8xWt2QGu1FdKy",
+      "title": "Remodel Appt w Amanda Catron",
+      "startTime": "2026-09-11T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "Tyt3U4vHb3GHQfqQfYGu",
+      "title": " Paulina Flanery. Design Consultation with  at 626 Harrison Matthew Lane Georgetown TX 78626",
+      "startTime": "2026-09-11T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "yZbO9JvtuCSDAzFHiEi0",
+      "title": "Demetric Rogers Design Consultation with  at 11420 Duano Cyn San Antonio TX 78254",
+      "startTime": "2026-09-11T09:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
     },
     {
       "id": "EwSvo0td24PewOQC7zs3",
@@ -58,17 +124,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "j4JVs0qsbeYMyuwcQ5Uk",
-      "title": "Appt w Robbie White",
-      "startTime": "2026-09-09T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
       "id": "C2MsTpoxsU6hsYDwtSyI",
@@ -97,7 +152,7 @@
       "title": "Appt w Jolynn Stanfield Torres",
       "startTime": "2026-09-08T18:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "new",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1333,50 +1388,6 @@
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "kKE2OWhPuXIaXKgOPKnp",
-      "title": "Tatiana Penners Design Consultation with  at 940 Wilderness Trail New Braunfels Texas 78132",
-      "startTime": "2026-08-11T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "QWYDasAOdxldjNEvcv02",
-      "title": "CARLO SOTOMAYOR Design Consultation with  at 12344 Saddle Up Drive, San Antonio, 78254 San Antonio TX 78254",
-      "startTime": "2026-08-11T14:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "jO9heuQDDBM87pOWkNxY",
-      "title": "Appt w Eric Mireles",
-      "startTime": "2026-08-11T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "GZsQkksRPe2l7GX2Aneb",
-      "title": " Sham Jiwa Design Consultation with  at 2203 Falling Fig Lane Richmond TX 77406",
-      "startTime": "2026-08-11T00:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
