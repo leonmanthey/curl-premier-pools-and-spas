@@ -1,27 +1,27 @@
 {
   "meta": {
-    "generatedAt": "2026-09-11T10:49:41.051754+00:00",
-    "startDate": "2026-08-12T10:49:40.348974+00:00",
-    "endDate": "2026-09-11T10:49:40.348974+00:00",
+    "generatedAt": "2026-09-12T10:17:57.052216+00:00",
+    "startDate": "2026-08-13T10:17:56.396818+00:00",
+    "endDate": "2026-09-12T10:17:56.396818+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 124,
-    "human": 54,
+    "total": 115,
+    "human": 50,
     "auto": 6,
-    "selfBooked": 56,
-    "other": 8,
-    "humanPct": 44,
+    "selfBooked": 53,
+    "other": 6,
+    "humanPct": 43,
     "autoPct": 5,
-    "notHumanPct": 56
+    "notHumanPct": 57
   },
   "sourceCounts": {
-    "mobile_app": 5,
-    "voice_ai": 8,
-    "contactdetails_page": 46,
-    "booking_widget": 56,
+    "booking_widget": 53,
+    "contactdetails_page": 44,
+    "mobile_app": 3,
     "calendar_page": 2,
     "smartlist_page": 1,
+    "voice_ai": 6,
     "third_party": 5,
     "conversations_ai": 1
   },
@@ -53,7 +53,7 @@
       "title": " Abdullah Siddiqui Design Consultation with  at 16818 Tabasso Court Richmond TX 77407",
       "startTime": "2026-09-11T14:30:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -75,7 +75,7 @@
       "title": "Remodel Appt w Amanda Catron",
       "startTime": "2026-09-11T10:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1289,105 +1289,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "X1BnbXEW9qqqGiZ9Hrzr",
-      "title": " Melissa Harris Design Consultation with  at 3101 Goza Trail Dickinson. TX 77539",
-      "startTime": "2026-08-12T18:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "QwYAwMBu06bosYlWgLac",
-      "title": "Appt anaya knight",
-      "startTime": "2026-08-12T17:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "TDg5av9GqB17LMy4Qf1U",
-      "title": " JAVIER GARCIA Design Consultation with  at 414 Avenue D SOUTH HOUSTON TX 77587",
-      "startTime": "2026-08-12T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "b43uowvPhnwrXPdxMoKk",
-      "title": "Appt w Marcy Villafana",
-      "startTime": "2026-08-12T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "uP6BB564NuqWOo5Il2lC",
-      "title": " Brad Major Design Consultation with  at 4944 Morese Palace Trl Round Rock Texas 78665",
-      "startTime": "2026-08-12T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "SBeGrV1MdGpO7xbIoKIr",
-      "title": " SISTERS RESIDEN Design Consultation with  at 12319 Bluewater Drive, Austin, 78758 Austin TX 78758",
-      "startTime": "2026-08-12T12:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "pTXkkUCKITAdBDK4z2om",
-      "title": "Claret Medina",
-      "startTime": "2026-08-12T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "4LgGLxudGj69FZOb6goB"
-    },
-    {
-      "id": "SPcaH4JDlM4CvobSKzhM",
-      "title": "Layout Meeting with Hector",
-      "startTime": "2026-08-12T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "oeNLZqcN7rPbzYv4dNQx"
-    },
-    {
-      "id": "XZoPr4fPc9bMso3Qay27",
-      "title": " PAULA CONKEY Design Consultation with  at 65 Rancho Trail Georgetown, Texas 78628 Georgetown NY 78628",
-      "startTime": "2026-08-12T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
       "userId": null
     }
   ]
