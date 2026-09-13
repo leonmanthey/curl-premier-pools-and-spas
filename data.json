@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T10:17:57.052216+00:00",
-    "startDate": "2026-08-13T10:17:56.396818+00:00",
-    "endDate": "2026-09-12T10:17:56.396818+00:00",
+    "generatedAt": "2026-09-13T11:18:15.477426+00:00",
+    "startDate": "2026-08-14T11:18:14.377157+00:00",
+    "endDate": "2026-09-13T11:18:14.377157+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 115,
-    "human": 50,
+    "total": 112,
+    "human": 49,
     "auto": 6,
-    "selfBooked": 53,
+    "selfBooked": 51,
     "other": 6,
-    "humanPct": 43,
+    "humanPct": 44,
     "autoPct": 5,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 53,
-    "contactdetails_page": 44,
+    "booking_widget": 51,
+    "contactdetails_page": 43,
     "mobile_app": 3,
     "calendar_page": 2,
     "smartlist_page": 1,
@@ -1256,39 +1256,6 @@
       "type": "other",
       "source": "voice_ai",
       "sourceLabel": "voice_ai",
-      "userId": null
-    },
-    {
-      "id": "RonIvWhL6pLAXOjt103A",
-      "title": " Tanja White Design Consultation with  at 119 Lakeview Ct Belton TX 76513",
-      "startTime": "2026-08-13T13:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ztuhgNCcnUUFzJhJe4TE",
-      "title": " Stacy Sass Design Consultation with  at 12319 Blue Water Drive Austin TX 78758",
-      "startTime": "2026-08-13T13:15:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "JJmRkjkyHY7M30OxaGX8",
-      "title": " Jose Hernandez Mayo Design Consultation with  at 4000 Milano River Rd Hutto TX 78634",
-      "startTime": "2026-08-13T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
