@@ -1,31 +1,108 @@
 {
   "meta": {
-    "generatedAt": "2026-09-13T11:18:15.477426+00:00",
-    "startDate": "2026-08-14T11:18:14.377157+00:00",
-    "endDate": "2026-09-13T11:18:14.377157+00:00",
+    "generatedAt": "2026-09-14T12:09:13.683017+00:00",
+    "startDate": "2026-08-15T12:09:13.014524+00:00",
+    "endDate": "2026-09-14T12:09:13.014524+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
     "total": 112,
-    "human": 49,
+    "human": 48,
     "auto": 6,
-    "selfBooked": 51,
-    "other": 6,
-    "humanPct": 44,
+    "selfBooked": 53,
+    "other": 5,
+    "humanPct": 43,
     "autoPct": 5,
-    "notHumanPct": 56
+    "notHumanPct": 57
   },
   "sourceCounts": {
-    "booking_widget": 51,
     "contactdetails_page": 43,
-    "mobile_app": 3,
+    "booking_widget": 53,
+    "mobile_app": 2,
     "calendar_page": 2,
     "smartlist_page": 1,
-    "voice_ai": 6,
+    "voice_ai": 5,
     "third_party": 5,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "RW9UuUUJK9oAwkkNPMxH",
+      "title": " Hannah Panyasiri Design Consultation with  at 3520 Great Knot Pass Pflugerville TX 78660",
+      "startTime": "2026-09-14T17:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "0WhoJS9vmAhz9NCIo6Ku",
+      "title": "Doris Elkins Design Consultation with  at 208 Stone Ridge Dr Kerrville TX 78028",
+      "startTime": "2026-09-14T17:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "0OttNFePNrBjpBU65bMG",
+      "title": "Steve Schulle Design Consultation with  at 2144 krueger canyon New Braunfels TX 78132",
+      "startTime": "2026-09-14T15:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "rBpR9eJMjssRT5ehcjdh",
+      "title": " Lovely Monay Design Consultation with  at new Houston TX 77047",
+      "startTime": "2026-09-14T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "U1Fr6AQUJZeARCRGc5fG",
+      "title": " Alice Horn Design Consultation with  at 294 Spring Branch Loop Kyle TX 78640",
+      "startTime": "2026-09-14T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "VjG9DOqsNc8svpbnhCpN",
+      "title": "Justin Sullivan Design Consultation with  at 1002 Wavy Creek San Antonio TX 78260",
+      "startTime": "2026-09-14T12:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "HgDOm4mCatNh2K5MnBiu",
+      "title": " Connie Hurley Design Consultation with  at 513 hallwood LIberty HIll Texas 78642",
+      "startTime": "2026-09-14T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
     {
       "id": "SgXnpUcIatKQBb8HMXbM",
       "title": "Appt w Angel Ibarra- Spanish speaking lead",
@@ -1180,83 +1257,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "hGJTcpw6ZvFMGGrhCFUg",
-      "title": " Jaideep Sagar Design Consultation with  at 605 Wolf Ridge Road Georgetown Texas 78628",
-      "startTime": "2026-08-14T15:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Zq2ZXm9wz59iHcOfLxPB",
-      "title": "Karen Kellogg Design Consultation with  at 233 Castano Avenue San Antonio Texas 78209",
-      "startTime": "2026-08-14T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "ZThhECBic2Wzpn7UXFbi",
-      "title": "Appt w Carlos Delgado",
-      "startTime": "2026-08-14T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "qKfENIDv4IdyTz08kCSe",
-      "title": "Appt w Karin Lesperance",
-      "startTime": "2026-08-14T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "v188wOwbvclJQUU1v39S",
-      "title": " Mahuvi Ortega. Design Consultation with  at 15911 Mission Glen Drive Houston Texas 77083",
-      "startTime": "2026-08-14T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "puOvmZk9ViA026TmZb2Y"
-    },
-    {
-      "id": "ngUcBTfmOFQleX12Bvvt",
-      "title": " Sagar Babber Design Consultation with  at 101 Summer Park Bend Cedar Park TX 78613",
-      "startTime": "2026-08-14T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "LB09YqdvbM1vyiIDzLrM",
-      "title": "TERRY CARTER Design Consultation with  at 761 Falcon Cove, Castroville, Texas 78009 Castroville IN 78009",
-      "startTime": "2026-08-14T09:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
     }
   ]
 }
