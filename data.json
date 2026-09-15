@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-09-14T12:09:13.683017+00:00",
-    "startDate": "2026-08-15T12:09:13.014524+00:00",
-    "endDate": "2026-09-14T12:09:13.014524+00:00",
+    "generatedAt": "2026-09-15T11:19:56.253725+00:00",
+    "startDate": "2026-08-16T11:19:54.508598+00:00",
+    "endDate": "2026-09-15T11:19:54.508598+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 112,
-    "human": 48,
+    "total": 116,
+    "human": 51,
     "auto": 6,
-    "selfBooked": 53,
+    "selfBooked": 54,
     "other": 5,
-    "humanPct": 43,
+    "humanPct": 44,
     "autoPct": 5,
-    "notHumanPct": 57
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 43,
-    "booking_widget": 53,
+    "booking_widget": 54,
+    "contactdetails_page": 46,
     "mobile_app": 2,
     "calendar_page": 2,
     "smartlist_page": 1,
@@ -26,6 +26,72 @@
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "j4JVs0qsbeYMyuwcQ5Uk",
+      "title": "Appt w Robbie White",
+      "startTime": "2026-09-15T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "DqS1LrowTr8iCWCtdHjF",
+      "title": "Appt w Dave Kleespies ",
+      "startTime": "2026-09-15T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "arCRhiTtLzWvqzqy0GrE",
+      "title": " Cindy Paulk. Design Consultation with  at 4317 Ave O Galveston TX 77550",
+      "startTime": "2026-09-15T16:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "DZ4Zab6pYzfLfVMhQeIo",
+      "title": "Kelly Lovkard Design Consultation with  at 693 S Cattlemans Crossing Drive Kerrville TX 78028",
+      "startTime": "2026-09-15T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "uEHhiNIsU7H9N6MAgVeX",
+      "title": "Michele Vaughn Design Consultation with  at 31146 Panther Dr Boerne TX 78163",
+      "startTime": "2026-09-15T09:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "ajNont0GpTchxGYa2XfH",
+      "title": " Linda Velasquez Design Consultation with  at 4202 Fox Trl Temple TX 76504",
+      "startTime": "2026-09-15T08:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "RW9UuUUJK9oAwkkNPMxH",
       "title": " Hannah Panyasiri Design Consultation with  at 3520 Great Knot Pass Pflugerville TX 78660",
@@ -65,17 +131,6 @@
       "startTime": "2026-09-14T13:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "U1Fr6AQUJZeARCRGc5fG",
-      "title": " Alice Horn Design Consultation with  at 294 Spring Branch Loop Kyle TX 78640",
-      "startTime": "2026-09-14T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -1246,17 +1301,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "Z1rIHhauFZqjkoDbycdO",
-      "title": "Appt w Tiffany Fincher",
-      "startTime": "2026-08-15T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
