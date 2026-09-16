@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T11:19:56.253725+00:00",
-    "startDate": "2026-08-16T11:19:54.508598+00:00",
-    "endDate": "2026-09-15T11:19:54.508598+00:00",
+    "generatedAt": "2026-09-16T11:03:17.794198+00:00",
+    "startDate": "2026-08-17T11:03:17.120440+00:00",
+    "endDate": "2026-09-16T11:03:17.120440+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 116,
-    "human": 51,
+    "total": 119,
+    "human": 54,
     "auto": 6,
     "selfBooked": 54,
     "other": 5,
-    "humanPct": 44,
+    "humanPct": 45,
     "autoPct": 5,
-    "notHumanPct": 56
+    "notHumanPct": 55
   },
   "sourceCounts": {
     "booking_widget": 54,
-    "contactdetails_page": 46,
+    "contactdetails_page": 49,
     "mobile_app": 2,
     "calendar_page": 2,
     "smartlist_page": 1,
@@ -27,9 +27,20 @@
   },
   "appointments": [
     {
-      "id": "j4JVs0qsbeYMyuwcQ5Uk",
-      "title": "Appt w Robbie White",
-      "startTime": "2026-09-15T18:00:00-05:00",
+      "id": "yPuFj9zkH6WYp3v7cPUT",
+      "title": " Griselda Pattillo Design Consultation with  at 504 River Down Road Georgetown TX 78628",
+      "startTime": "2026-09-16T16:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "N7XGDyVb3RElRmpD3B1z"
+    },
+    {
+      "id": "VZSBb8qUr9KZ10PzFRKf",
+      "title": "Appt w Daniel Campos",
+      "startTime": "2026-09-16T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "human",
@@ -38,11 +49,33 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "DqS1LrowTr8iCWCtdHjF",
-      "title": "Appt w Dave Kleespies ",
-      "startTime": "2026-09-15T16:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "id": "bgMonSbo5Gzf7YAgCLHS",
+      "title": "Jessica Veilleux Design Consultation with  at 250 Cherry Crk Cibolo TX 78108",
+      "startTime": "2026-09-16T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
       "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "6WUOGLb2cejMjZ6sfuRt",
+      "title": " Danny N Hernandez Design Consultation with  at 7408 Arrowmound Cove Del Valle TX 78617",
+      "startTime": "2026-09-16T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "j4JVs0qsbeYMyuwcQ5Uk",
+      "title": "Appt w Robbie White",
+      "startTime": "2026-09-15T18:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -53,7 +86,7 @@
       "title": " Cindy Paulk. Design Consultation with  at 4317 Ave O Galveston TX 77550",
       "startTime": "2026-09-15T16:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
