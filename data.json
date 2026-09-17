@@ -1,31 +1,75 @@
 {
   "meta": {
-    "generatedAt": "2026-09-16T11:03:17.794198+00:00",
-    "startDate": "2026-08-17T11:03:17.120440+00:00",
-    "endDate": "2026-09-16T11:03:17.120440+00:00",
+    "generatedAt": "2026-09-17T11:13:31.659998+00:00",
+    "startDate": "2026-08-18T11:13:30.994739+00:00",
+    "endDate": "2026-09-17T11:13:30.994739+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 119,
-    "human": 54,
-    "auto": 6,
-    "selfBooked": 54,
+    "total": 118,
+    "human": 55,
+    "auto": 5,
+    "selfBooked": 53,
     "other": 5,
-    "humanPct": 45,
-    "autoPct": 5,
-    "notHumanPct": 55
+    "humanPct": 47,
+    "autoPct": 4,
+    "notHumanPct": 53
   },
   "sourceCounts": {
-    "booking_widget": 54,
-    "contactdetails_page": 49,
+    "contactdetails_page": 50,
+    "booking_widget": 53,
     "mobile_app": 2,
     "calendar_page": 2,
     "smartlist_page": 1,
     "voice_ai": 5,
-    "third_party": 5,
+    "third_party": 4,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "W1NXxDs0rKv4nRiVZPmK",
+      "title": "Ebony Miller. Design Consultation with  at 2168 Valencia Dr Little Elm TX 78108",
+      "startTime": "2026-09-17T17:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "a0LByPUgr6sdW6UCafcR",
+      "title": "Jennifer Galindo Design Consultation with  at 2149 Glendon Drive San Antonio TX 78260",
+      "startTime": "2026-09-17T14:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "CnKb4BEY04RblQ3KhwC7",
+      "title": "Appt w Lang Nguyen",
+      "startTime": "2026-09-17T13:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "U1Fr6AQUJZeARCRGc5fG",
+      "title": " Alice Horn Design Consultation with  at 294 Spring Branch Loop Kyle TX 78640",
+      "startTime": "2026-09-17T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "yPuFj9zkH6WYp3v7cPUT",
       "title": " Griselda Pattillo Design Consultation with  at 504 River Down Road Georgetown TX 78628",
@@ -69,6 +113,17 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "yulxufW3MPZa775gQ9SG",
+      "title": " Katie Perez Design Consultation with  at 1906 Sherman Drive Killeen TX 76543",
+      "startTime": "2026-09-16T10:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
     },
     {
       "id": "j4JVs0qsbeYMyuwcQ5Uk",
@@ -1268,72 +1323,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "V6dQ809AhxFabtf49gMB",
-      "title": "Susan Chapman. Design Consultation with  at 3901 Habersham Schertz TX 78154",
-      "startTime": "2026-08-17T17:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "gLTBWbCWt0i0lGMC1Qxm",
-      "title": " Melissa Betancourt Design Consultation with  at 21222 Stephens County Dr Cypress Tx 77433",
-      "startTime": "2026-08-17T17:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "invalid",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "JyzmAYOYw8iSnJ31ZhXN",
-      "title": "Rachna Joshi Design Consultation with  at 161 Short Cake Alley San Antonio TX 78253",
-      "startTime": "2026-08-17T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "aKewg60ORQGilscDX4fU",
-      "title": "BRIAN SYRCLE Design Consultation with  at 193 harley hay Cibolo TX 78108",
-      "startTime": "2026-08-17T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "SaTWUiCR0SuMHbVsl4hl",
-      "title": "Appt w Donnis Overton",
-      "startTime": "2026-08-17T12:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "vZYtoF7r1ohNtFMj2Fkt",
-      "title": " Deborah A WATSON Design Consultation with  at 809 VISTA RIDGE DR ROUND MOUNTAIN TX 78663",
-      "startTime": "2026-08-17T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
