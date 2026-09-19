@@ -1,24 +1,24 @@
 {
   "meta": {
-    "generatedAt": "2026-09-18T10:46:23.197952+00:00",
-    "startDate": "2026-08-19T10:46:22.475685+00:00",
-    "endDate": "2026-09-18T10:46:22.475685+00:00",
+    "generatedAt": "2026-09-19T10:30:29.849651+00:00",
+    "startDate": "2026-08-20T10:30:29.334542+00:00",
+    "endDate": "2026-09-19T10:30:29.334542+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 120,
-    "human": 54,
+    "total": 117,
+    "human": 53,
     "auto": 5,
-    "selfBooked": 57,
+    "selfBooked": 55,
     "other": 4,
     "humanPct": 45,
     "autoPct": 4,
     "notHumanPct": 55
   },
   "sourceCounts": {
-    "booking_widget": 57,
-    "contactdetails_page": 49,
+    "booking_widget": 55,
     "mobile_app": 2,
+    "contactdetails_page": 48,
     "calendar_page": 2,
     "smartlist_page": 1,
     "voice_ai": 4,
@@ -26,6 +26,28 @@
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "LEBm080CYcVbYQDWVphU",
+      "title": "Appt w Marcia Caicedo",
+      "startTime": "2026-09-19T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "wZGZYFzQ7eDvRZBB0rEY",
+      "title": "Appt w Linda Bortz",
+      "startTime": "2026-09-19T10:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
     {
       "id": "n20iotQxWArkzpNztvXE",
       "title": "Aaron Thomas Design Consultation with  at 12119 Stevens Court Live Oak TX 78233",
@@ -60,10 +82,10 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "YPQrC2DOkLxSrcj90hMG",
-      "title": " Michael Kvocka Design Consultation with  at 5045 Lassen Lane Belton TX 76513-2352",
-      "startTime": "2026-09-18T10:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "id": "ovve5yLjg2wOagAMrGPX",
+      "title": " Maddie Grippin Design Consultation with  at 12611 Windy Bridge Lane Pearland TX 77584",
+      "startTime": "2026-09-18T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
@@ -71,8 +93,8 @@
       "userId": null
     },
     {
-      "id": "rPtxUb5UKTiUPr6nq9if",
-      "title": " Nick H Design Consultation with  at 110 Hutto TX 78634",
+      "id": "YPQrC2DOkLxSrcj90hMG",
+      "title": " Michael Kvocka Design Consultation with  at 5045 Lassen Lane Belton TX 76513-2352",
       "startTime": "2026-09-18T10:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
@@ -1290,61 +1312,6 @@
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
       "userId": null
-    },
-    {
-      "id": "g4LF7pA1Z12FlT9p7FgV",
-      "title": "Appt Rolando Carrasco",
-      "startTime": "2026-08-19T19:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "nSFqyfa0T7JLGFIlsGN8",
-      "title": "Andrew Ramirez Design Consultation with  at 4606 Cobble Crest Street San Antonio TX 78217",
-      "startTime": "2026-08-19T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "GoFRnK701h8hSTBLJKNi",
-      "title": " Horatio Jones Design Consultation with  at 507 draco st Killeen TX 76542",
-      "startTime": "2026-08-19T15:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "1NY4akUzKICUgsRGHo3g",
-      "title": " Frank ESPINOSA Design Consultation with  at 156 fawaz dr KILLEEN TX 76542",
-      "startTime": "2026-08-19T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "aJwa1GZD3giu2vTS2zIL",
-      "title": "Appt w Karen Moese",
-      "startTime": "2026-08-19T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     }
   ]
 }
