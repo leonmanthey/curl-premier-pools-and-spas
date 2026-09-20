@@ -1,26 +1,26 @@
 {
   "meta": {
-    "generatedAt": "2026-09-19T10:30:29.849651+00:00",
-    "startDate": "2026-08-20T10:30:29.334542+00:00",
-    "endDate": "2026-09-19T10:30:29.334542+00:00",
+    "generatedAt": "2026-09-20T10:52:55.223938+00:00",
+    "startDate": "2026-08-21T10:52:53.763191+00:00",
+    "endDate": "2026-09-20T10:52:53.763191+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 117,
-    "human": 53,
+    "total": 114,
+    "human": 52,
     "auto": 5,
-    "selfBooked": 55,
+    "selfBooked": 53,
     "other": 4,
-    "humanPct": 45,
+    "humanPct": 46,
     "autoPct": 4,
-    "notHumanPct": 55
+    "notHumanPct": 54
   },
   "sourceCounts": {
-    "booking_widget": 55,
-    "mobile_app": 2,
     "contactdetails_page": 48,
+    "booking_widget": 53,
     "calendar_page": 2,
     "smartlist_page": 1,
+    "mobile_app": 1,
     "voice_ai": 4,
     "third_party": 4,
     "conversations_ai": 1
@@ -1279,39 +1279,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "GfjJfOfw2B6N7rcS4Eqt",
-      "title": " first meeting Premeir Pools Aaron ",
-      "startTime": "2026-08-20T14:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "mobile_app",
-      "sourceLabel": "Mobile app",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "ZmaAJuMtDQMpAlI1lSoW",
-      "title": " Rahsaan Thomas Design Consultation with  at 5327 Mango Bluffs Street Manvel TX 77578",
-      "startTime": "2026-08-20T13:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "5TtYpwFBw20zIrH8bNeU",
-      "title": " Scott Farmer Design Consultation with  at 12002 Dry Cattail Dr. Austin TX 78754",
-      "startTime": "2026-08-20T08:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     }
   ]
 }
