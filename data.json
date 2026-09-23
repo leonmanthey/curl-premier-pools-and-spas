@@ -1,31 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-09-22T11:10:09.608287+00:00",
-    "startDate": "2026-08-23T11:10:08.954529+00:00",
-    "endDate": "2026-09-22T11:10:08.954529+00:00",
+    "generatedAt": "2026-09-23T11:00:45.957398+00:00",
+    "startDate": "2026-08-24T11:00:45.091914+00:00",
+    "endDate": "2026-09-23T11:00:45.091914+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 118,
-    "human": 52,
+    "total": 121,
+    "human": 53,
     "auto": 4,
-    "selfBooked": 58,
-    "other": 4,
+    "selfBooked": 59,
+    "other": 5,
     "humanPct": 44,
     "autoPct": 3,
     "notHumanPct": 56
   },
   "sourceCounts": {
-    "booking_widget": 58,
-    "contactdetails_page": 48,
+    "booking_widget": 59,
+    "contactdetails_page": 49,
     "calendar_page": 2,
     "smartlist_page": 1,
     "mobile_app": 1,
-    "voice_ai": 4,
+    "voice_ai": 5,
     "third_party": 3,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "SRpRa6x69nuEDwiX1ARz",
+      "title": "Appt w ronnie richards",
+      "startTime": "2026-09-23T14:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "TikIZmPew7b3tNLWqW6P",
+      "title": "MANUEL SEPEDA Design Consultation with  at 14402 Calaveras Cove, Elmendorf, Texas 78112 SCHERTZ TX 78154",
+      "startTime": "2026-09-23T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "3MvahOEr1CBZAckeLHRz",
+      "title": " MELODY BUCHANAN Design Consultation with  at 2009 Port Royal Drive Austin TX 78746",
+      "startTime": "2026-09-23T08:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "pe3fi1yXE4U5kGcnlNz1",
       "title": "Farideh Shirazi Design Consultation with  at 1135 Sillent Hollow San Antonio Santiago Metropolitan Region 78260",
@@ -51,7 +84,7 @@
     {
       "id": "bqo5hlnDvqDrezYMo1Mq",
       "title": " Yentma Reyes Design Consultation with  at 505 Alameda Ln Georgetown TX 78628",
-      "startTime": "2026-09-22T10:00:00-05:00",
+      "startTime": "2026-09-22T14:00:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
       "type": "human",
