@@ -1,31 +1,64 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T11:00:45.957398+00:00",
-    "startDate": "2026-08-24T11:00:45.091914+00:00",
-    "endDate": "2026-09-23T11:00:45.091914+00:00",
+    "generatedAt": "2026-09-24T11:19:32.698835+00:00",
+    "startDate": "2026-08-25T11:19:31.964586+00:00",
+    "endDate": "2026-09-24T11:19:31.964586+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 121,
+    "total": 116,
     "human": 53,
     "auto": 4,
-    "selfBooked": 59,
-    "other": 5,
-    "humanPct": 44,
+    "selfBooked": 55,
+    "other": 4,
+    "humanPct": 46,
     "autoPct": 3,
-    "notHumanPct": 56
+    "notHumanPct": 54
   },
   "sourceCounts": {
-    "booking_widget": 59,
-    "contactdetails_page": 49,
+    "contactdetails_page": 47,
+    "booking_widget": 55,
     "calendar_page": 2,
     "smartlist_page": 1,
-    "mobile_app": 1,
-    "voice_ai": 5,
+    "mobile_app": 3,
+    "voice_ai": 4,
     "third_party": 3,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "ZiElSJAkdY2T103EFjZH",
+      "title": "Chris Perry Design Consultation with  at 6318 Echo Canyon St San Antonio TX 78249",
+      "startTime": "2026-09-24T15:00:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "tA6kw4rf3FjDJPqMfVKy"
+    },
+    {
+      "id": "VFkSCY1pkzwXmOuiYyIQ",
+      "title": "1st appointment with Ashley & Jayson",
+      "startTime": "2026-09-24T12:30:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "oeNLZqcN7rPbzYv4dNQx"
+    },
+    {
+      "id": "ZrkfBv1SMS6nwJz3olGO",
+      "title": " John Darby Design Consultation with  at 4003 Del Robles Drive Austin TX 78727",
+      "startTime": "2026-09-24T11:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "SRpRa6x69nuEDwiX1ARz",
       "title": "Appt w ronnie richards",
@@ -38,22 +71,22 @@
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
     },
     {
-      "id": "TikIZmPew7b3tNLWqW6P",
-      "title": "MANUEL SEPEDA Design Consultation with  at 14402 Calaveras Cove, Elmendorf, Texas 78112 SCHERTZ TX 78154",
-      "startTime": "2026-09-23T13:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "id": "DvBAmlD43OUnf28mNbV1",
+      "title": " Diane NOELLER Design Consultation with  at 1219 Willowbrook Drive Cedar Park TX 78613",
+      "startTime": "2026-09-23T12:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
       "status": "confirmed",
-      "type": "other",
-      "source": "voice_ai",
-      "sourceLabel": "voice_ai",
-      "userId": null
+      "type": "human",
+      "source": "mobile_app",
+      "sourceLabel": "Mobile app",
+      "userId": "FXOs3S1ADeBASCxcHnGR"
     },
     {
       "id": "3MvahOEr1CBZAckeLHRz",
       "title": " MELODY BUCHANAN Design Consultation with  at 2009 Port Royal Drive Austin TX 78746",
       "startTime": "2026-09-23T08:30:00-05:00",
       "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
+      "status": "cancelled",
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
@@ -1267,94 +1300,6 @@
       "type": "auto",
       "source": "third_party",
       "sourceLabel": "Third party",
-      "userId": null
-    },
-    {
-      "id": "Z1lv1fqFSiK3YbHJVN9R",
-      "title": " SARWESH SINGH Design Consultation with  at 4434 Rolling Field Ln Sugar Land Texas 77479",
-      "startTime": "2026-08-24T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "cancelled",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "20kicv0jsXNjsbiEqSWf",
-      "title": "Appt w Andre McKinney",
-      "startTime": "2026-08-24T16:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "5MTc02JRJuu5SO5XEcNp",
-      "title": " Vickie Price. Design Consultation with  at 12301 Radnor Drive Texas City TX 77591",
-      "startTime": "2026-08-24T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "g9QG4jFrKvjfnZcZY2es",
-      "title": "Edward Tapia Design Consultation with  at 13106 Creek Briar San Antonio TX 78230",
-      "startTime": "2026-08-24T12:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "cd3Ssg8Cp3Sa7eZEJN43",
-      "title": " Cassandra Fletcher Design Consultation with  at 4100 Molly Dyer Dr Killeen TX 76549",
-      "startTime": "2026-08-24T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "tA6kw4rf3FjDJPqMfVKy"
-    },
-    {
-      "id": "1JeHeZoX72P0qna7ruoA",
-      "title": " Emily Jagmin Design Consultation with  at 4933 hawkins dr Belton TX 76513",
-      "startTime": "2026-08-24T11:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "vP3F0wdWSXRhPI3BaFb5",
-      "title": " Kaylyn Allison Design Consultation with  at 125 Green Jay Dr Jarrell TX 76537",
-      "startTime": "2026-08-24T09:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "RB6gCT01bbkHmh2OARJN",
-      "title": "Mauricio Diaz Design Consultation with  at 9913 Aurora Hill Street Boerne TX 78006",
-      "startTime": "2026-08-24T08:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
       "userId": null
     }
   ]
