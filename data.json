@@ -1,31 +1,97 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T11:19:32.698835+00:00",
-    "startDate": "2026-08-25T11:19:31.964586+00:00",
-    "endDate": "2026-09-24T11:19:31.964586+00:00",
+    "generatedAt": "2026-09-25T11:24:30.007532+00:00",
+    "startDate": "2026-08-26T11:24:29.454599+00:00",
+    "endDate": "2026-09-25T11:24:29.454599+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 116,
-    "human": 53,
-    "auto": 4,
-    "selfBooked": 55,
-    "other": 4,
-    "humanPct": 46,
+    "total": 115,
+    "human": 51,
+    "auto": 3,
+    "selfBooked": 56,
+    "other": 5,
+    "humanPct": 44,
     "autoPct": 3,
-    "notHumanPct": 54
+    "notHumanPct": 56
   },
   "sourceCounts": {
-    "contactdetails_page": 47,
-    "booking_widget": 55,
+    "contactdetails_page": 45,
+    "booking_widget": 56,
     "calendar_page": 2,
     "smartlist_page": 1,
     "mobile_app": 3,
-    "voice_ai": 4,
-    "third_party": 3,
+    "voice_ai": 5,
+    "third_party": 2,
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "wVgnUnp0Nznp7MLQpcR8",
+      "title": " Karla Rodriguez Design Consultation with  at 5105 Fleming St La Marque Texas 77568",
+      "startTime": "2026-09-25T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "cancelled",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "H2QgYjId8KscdBTsWZSH",
+      "title": " Mark Erwin Design Consultation with  at 14018 County Road 761 Alvin TX 77511",
+      "startTime": "2026-09-25T15:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "TikIZmPew7b3tNLWqW6P",
+      "title": "MANUEL SEPEDA Design Consultation with  at 14402 Calaveras Cove, Elmendorf, Texas 78112 Elmendorf TX 78112",
+      "startTime": "2026-09-25T13:30:00-05:00",
+      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
+      "status": "confirmed",
+      "type": "other",
+      "source": "voice_ai",
+      "sourceLabel": "voice_ai",
+      "userId": null
+    },
+    {
+      "id": "DfDqetmHFbLdX65uifHb",
+      "title": "Appt w Rochelle Henderson",
+      "startTime": "2026-09-25T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "human",
+      "source": "contactdetails_page",
+      "sourceLabel": "contactdetails_page",
+      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
+    },
+    {
+      "id": "qth6NWyx3goqYxnwyV3m",
+      "title": " Ron Schultz Design Consultation with  at 5736 Emmett St New Braunfels Texas 78130",
+      "startTime": "2026-09-25T13:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "cancelled",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "rPtxUb5UKTiUPr6nq9if",
+      "title": " Nick H Design Consultation with  at 110 Hutto TX 78634",
+      "startTime": "2026-09-25T09:00:00-05:00",
+      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "ZiElSJAkdY2T103EFjZH",
       "title": "Chris Perry Design Consultation with  at 6318 Echo Canyon St San Antonio TX 78249",
@@ -64,7 +130,7 @@
       "title": "Appt w ronnie richards",
       "startTime": "2026-09-23T14:00:00-05:00",
       "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
+      "status": "showed",
       "type": "human",
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
@@ -1223,83 +1289,6 @@
       "type": "self",
       "source": "booking_widget",
       "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "CyR8q4kdLN9RNzzYbwZ5",
-      "title": " Sonia Baker Design Consultation with  at 221 Tordesillas Dr. Georgetown TX 78626",
-      "startTime": "2026-08-25T16:30:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "Nzpeu2vz7WorrSjKMrEJ",
-      "title": "Cassandra Canada. Design Consultation with  at 9722 Slick Fork San Antonio TX 78254",
-      "startTime": "2026-08-25T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "EkLEb3840JI4doeZopug",
-      "title": "Appt w Amber Emil",
-      "startTime": "2026-08-25T16:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "0IjSOkizilp7Qr04w0z1",
-      "title": "Appt w Michelle Tavor.",
-      "startTime": "2026-08-25T13:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "AMhqrPOZq4bQJYkEl7Yj",
-      "title": " Andres Ventura Design Consultation with  at 1900 trillium cv Austin TX 78733",
-      "startTime": "2026-08-25T13:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "4Edo8zUtuo6ko3Y4JqeA",
-      "title": "Sir John Toler Design Consultation with  at 509 Chelson Hunt Cibolo TX 78108",
-      "startTime": "2026-08-25T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "tA6kw4rf3FjDJPqMfVKy"
-    },
-    {
-      "id": "ZkAhHuTa0QnmnqQr4DN3",
-      "title": " Nicole Leatherman Design Consultation with  at 3407 Avenue L Galveston TX 77550",
-      "startTime": "2026-08-25T11:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "showed",
-      "type": "auto",
-      "source": "third_party",
-      "sourceLabel": "Third party",
       "userId": null
     }
   ]
