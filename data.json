@@ -1,23 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T11:24:30.007532+00:00",
-    "startDate": "2026-08-26T11:24:29.454599+00:00",
-    "endDate": "2026-09-25T11:24:29.454599+00:00",
+    "generatedAt": "2026-09-26T11:00:13.169007+00:00",
+    "startDate": "2026-08-27T11:00:12.399755+00:00",
+    "endDate": "2026-09-26T11:00:12.399755+00:00",
     "locationId": "9burh8166ZFlTrCF3jxo"
   },
   "summary": {
-    "total": 115,
-    "human": 51,
+    "total": 110,
+    "human": 47,
     "auto": 3,
-    "selfBooked": 56,
+    "selfBooked": 55,
     "other": 5,
-    "humanPct": 44,
+    "humanPct": 43,
     "autoPct": 3,
-    "notHumanPct": 56
+    "notHumanPct": 57
   },
   "sourceCounts": {
-    "contactdetails_page": 45,
-    "booking_widget": 56,
+    "booking_widget": 55,
+    "contactdetails_page": 41,
     "calendar_page": 2,
     "smartlist_page": 1,
     "mobile_app": 3,
@@ -26,6 +26,28 @@
     "conversations_ai": 1
   },
   "appointments": [
+    {
+      "id": "SjfLohzhGPfVJjbaHrrT",
+      "title": " Francisco Escobar Design Consultation with  at 12011 Pompano Ln Houston TX 77072",
+      "startTime": "2026-09-26T12:00:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
+    {
+      "id": "H2QgYjId8KscdBTsWZSH",
+      "title": " Mark Erwin Design Consultation with  at 14018 County Road 761 Alvin TX 77511",
+      "startTime": "2026-09-25T16:30:00-05:00",
+      "calendarId": "136oxD4jIEtZKCitj3zp",
+      "status": "confirmed",
+      "type": "self",
+      "source": "booking_widget",
+      "sourceLabel": "Booking widget",
+      "userId": null
+    },
     {
       "id": "wVgnUnp0Nznp7MLQpcR8",
       "title": " Karla Rodriguez Design Consultation with  at 5105 Fleming St La Marque Texas 77568",
@@ -36,17 +58,6 @@
       "source": "contactdetails_page",
       "sourceLabel": "contactdetails_page",
       "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "H2QgYjId8KscdBTsWZSH",
-      "title": " Mark Erwin Design Consultation with  at 14018 County Road 761 Alvin TX 77511",
-      "startTime": "2026-09-25T15:30:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
     },
     {
       "id": "TikIZmPew7b3tNLWqW6P",
@@ -1219,72 +1230,6 @@
       "title": "Eliana Gutierrez Design Consultation with  at 9871 Misty Plain Drive San Antonio TX 78245",
       "startTime": "2026-08-27T10:00:00-05:00",
       "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "GLURQ7Krktx6dK2Qxdyh",
-      "title": "Jerry Estrada Design Consultation with  at 11919 Wildcat Cove San Antonio TX 78254",
-      "startTime": "2026-08-26T16:30:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "self",
-      "source": "booking_widget",
-      "sourceLabel": "Booking widget",
-      "userId": null
-    },
-    {
-      "id": "LPXBiFAv2490RuuDLCZd",
-      "title": "Michael Schally Design Consultation with  at 9030 Imposing Oak San Antonio TX 78255",
-      "startTime": "2026-08-26T15:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "cancelled",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "WjTh08h6M9x5pcGOINg2",
-      "title": "Nick Ryder Design Consultation with  at San Antonio TX 78247",
-      "startTime": "2026-08-26T13:00:00-05:00",
-      "calendarId": "ZSdptFjT3B4rUmWfFh7K",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "tA6kw4rf3FjDJPqMfVKy"
-    },
-    {
-      "id": "IygBrvrGqBvLDlUd5B0N",
-      "title": " Karen Anderson Design Consultation with  at 5219 Sunflower Lane Temple TX 76502",
-      "startTime": "2026-08-26T12:00:00-05:00",
-      "calendarId": "6KiVbrUzAImXZ7bP1GyJ",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "N7XGDyVb3RElRmpD3B1z"
-    },
-    {
-      "id": "ChCvk5acsb5GXQrvA1H8",
-      "title": "Appt w Cori-Josh McCreary",
-      "startTime": "2026-08-26T12:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
-      "status": "confirmed",
-      "type": "human",
-      "source": "contactdetails_page",
-      "sourceLabel": "contactdetails_page",
-      "userId": "qgQ1uaKpwkM2EQmSEkJ9"
-    },
-    {
-      "id": "CvDtJihyK3s8mSKtOfAS",
-      "title": " Leander Townsend Design Consultation with  at 4710 mulberry shrubs ct Manvel TX 77578",
-      "startTime": "2026-08-26T10:00:00-05:00",
-      "calendarId": "136oxD4jIEtZKCitj3zp",
       "status": "confirmed",
       "type": "self",
       "source": "booking_widget",
